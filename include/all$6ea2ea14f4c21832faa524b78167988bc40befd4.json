@@ -133,6 +133,41 @@
                     "drush"
                 ]
             },
+            "1.1.1": {
+                "name": "drunomics/drudrush",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/drudrush.git",
+                    "reference": "b17f678e1093c2ca828012d45b96d4204e0d0133"
+                },
+                "require": {
+                    "php": ">=5.3.10"
+                },
+                "time": "2017-02-20 14:30:42",
+                "type": "drupal-drush",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Drunomics\\DruDrush\\": "src"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Drunomics drush extention.",
+                "keywords": [
+                    "drupal",
+                    "drush"
+                ]
+            },
             "dev-master": {
                 "name": "drunomics/drudrush",
                 "version": "dev-master",
