@@ -901,42 +901,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "f61ff0f79821ae31d0f6a3700b7c7a7712f71233"
+                    "reference": "bfe8d5d2cf4438453a75dd8e1c2401c5624ab95f"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-02-14 09:14:29",
-                "type": "drupal-profile",
-                "extra": {
-                    "branch-alias": {
-                        "dev-8.x-1.x": "1.0.x-dev"
-                    }
-                },
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "authors": [
-                    {
-                        "name": "drunomics GmbH",
-                        "email": "hello@drunomics.com"
-                    }
-                ],
-                "description": "LDP distribution"
-            },
-            "dev-feature/LDP-10": {
-                "name": "drunomics/ldp",
-                "version": "dev-feature/LDP-10",
-                "version_normalized": "dev-feature/LDP-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "af6fccd323fddd5e5cdf3135a2b234fd2dc7a03d"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-02-14 16:33:03",
+                "time": "2019-02-19 12:35:23",
                 "type": "drupal-profile",
                 "extra": {
                     "branch-alias": {
@@ -990,6 +960,36 @@
                     }
                 ],
                 "description": "LDP distribution"
+            },
+            "dev-feature/LDP-74": {
+                "name": "drunomics/ldp",
+                "version": "dev-feature/LDP-74",
+                "version_normalized": "dev-feature/LDP-74",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "reference": "3c259fb8d2902ac395fc0afbf1464afcb26acad7"
+                },
+                "require": {
+                    "drunomics/ldp-core": "^1.0@dev"
+                },
+                "time": "2019-02-19 10:48:48",
+                "type": "drupal-profile",
+                "extra": {
+                    "branch-alias": {
+                        "dev-8.x-1.x": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH",
+                        "email": "hello@drunomics.com"
+                    }
+                ],
+                "description": "LDP distribution"
             }
         },
         "drunomics/ldp-core": {
@@ -1000,63 +1000,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "a174508d87881aa90f16db99a245424d44636cf9"
+                    "reference": "1f9350e3f906b0b3392385134f98042f663d67d3"
                 },
                 "require": {
                     "burdamagazinorg/thunder": "^8.2.33",
                     "drupal/imageapi_optimize": "^2.0@alpha",
                     "drupal/imagemagick": "^2.3"
                 },
-                "time": "2019-02-08 09:14:54",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP core modules.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "dev-develop": {
-                "name": "drunomics/ldp-core",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "6bfa59ed647038397ace403b660ee10e218601b4"
-                },
-                "time": "2019-01-31 11:12:15",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP core module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "dev-feature/LDP-10": {
-                "name": "drunomics/ldp-core",
-                "version": "dev-feature/LDP-10",
-                "version_normalized": "dev-feature/LDP-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "b5c496d5cf7e589a7a2e8c17ff7042aaec487130"
-                },
-                "require": {
-                    "burdamagazinorg/thunder": "^8.2.33",
-                    "drupal/imageapi_optimize": "^2.0@alpha",
-                    "drupal/imagemagick": "^2.3"
-                },
-                "time": "2019-02-14 17:06:55",
+                "time": "2019-02-19 13:04:23",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1076,7 +1027,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "54fc1a945cdf54d2f686627d710d30c44393473f"
+                    "reference": "86786b2b6c3d9d0e8cfc0286e810b57e0016eab2"
                 },
                 "require": {
                     "burdamagazinorg/thunder": "^8.2.33",
@@ -1085,7 +1036,7 @@
                     "drupal/menu_admin_per_menu": "^1.0",
                     "drupal/override_node_options": "^2.3"
                 },
-                "time": "2019-02-13 16:11:32",
+                "time": "2019-02-19 14:08:52",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1125,21 +1076,21 @@
                     "ldp"
                 ]
             },
-            "dev-feature/LDP-23": {
+            "dev-feature/LDP-24": {
                 "name": "drunomics/ldp-core",
-                "version": "dev-feature/LDP-23",
-                "version_normalized": "dev-feature/LDP-23",
+                "version": "dev-feature/LDP-24",
+                "version_normalized": "dev-feature/LDP-24",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "bc7d58e32aab8cc962b39cbf36d077d8fcfadab7"
+                    "reference": "93f0f01b437aef126abe19a93e166e057c003a14"
                 },
                 "require": {
                     "burdamagazinorg/thunder": "^8.2.33",
                     "drupal/imageapi_optimize": "^2.0@alpha",
                     "drupal/imagemagick": "^2.3"
                 },
-                "time": "2019-02-07 22:19:35",
+                "time": "2019-02-19 14:04:09",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1159,14 +1110,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "68afee27ec773c1e336de205be96c9b641af8b59"
+                    "reference": "e119903ef5bdd3e36995d89a161dabacf1952150"
                 },
                 "require": {
                     "burdamagazinorg/thunder": "^8.2.33",
                     "drupal/imageapi_optimize": "^2.0@alpha",
                     "drupal/imagemagick": "^2.3"
                 },
-                "time": "2019-02-15 08:32:16",
+                "time": "2019-02-19 14:03:51",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1242,12 +1193,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-epaper.git",
-                    "reference": "6eb3408a16e00a0d087d795c222952d7f8cb328e"
+                    "reference": "acd8726953313da7be888ee1ccff8a3fc2b25eae"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-02-04 15:08:30",
+                "time": "2019-02-18 17:14:49",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1281,31 +1232,6 @@
                     "drupal",
                     "ldp"
                 ]
-            },
-            "dev-feature/LDP-10": {
-                "name": "drunomics/ldp-epaper",
-                "version": "dev-feature/LDP-10",
-                "version_normalized": "dev-feature/LDP-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-epaper.git",
-                    "reference": "ea9d300ed094abfa0bf4738486438f40f68d58be"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-02-14 17:15:02",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP epaper module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
             }
         },
         "drunomics/ldp-oewa": {
@@ -1316,12 +1242,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-oewa.git",
-                    "reference": "5b3739fcc91ab069c96725aa3d0a8b32141f29cd"
+                    "reference": "512a0c3783a42fe04b5c3d4bcdb81817dac4bc76"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-02-01 14:42:37",
+                "time": "2019-02-18 17:14:54",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1355,31 +1281,6 @@
                     "drupal",
                     "ldp"
                 ]
-            },
-            "dev-feature/LDP-10": {
-                "name": "drunomics/ldp-oewa",
-                "version": "dev-feature/LDP-10",
-                "version_normalized": "dev-feature/LDP-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-oewa.git",
-                    "reference": "14ad31f378188f17dab51c6e621beb2700a0811c"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-02-14 17:13:19",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP oewa module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
             }
         },
         "drunomics/ldp-solr": {
@@ -1390,12 +1291,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-solr.git",
-                    "reference": "875bb00365f73255402d63673588f595129652d9"
+                    "reference": "d92cb28471d4b8cd54a040c8955dd19f26b52f7f"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-02-04 15:09:09",
+                "time": "2019-02-18 15:17:22",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1418,31 +1319,6 @@
                     "reference": "43ebfd8e6aa1d3a20730401663197752b4853245"
                 },
                 "time": "2019-01-31 11:08:34",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP solr module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "dev-feature/LDP-10": {
-                "name": "drunomics/ldp-solr",
-                "version": "dev-feature/LDP-10",
-                "version_normalized": "dev-feature/LDP-10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-solr.git",
-                    "reference": "81497245b09222f66b2323e784454c061585d517"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-02-14 16:37:54",
                 "type": "drupal-module",
                 "authors": [
                     {
