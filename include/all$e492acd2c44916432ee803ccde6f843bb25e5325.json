@@ -961,6 +961,37 @@
                 ],
                 "description": "LDP distribution"
             },
+            "dev-feature/LDP-25": {
+                "name": "drunomics/ldp",
+                "version": "dev-feature/LDP-25",
+                "version_normalized": "dev-feature/LDP-25",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "reference": "489f41053ff1420cfaa2d72fca95046a05662edb"
+                },
+                "require": {
+                    "drunomics/ldp-core": "^1.0@dev"
+                },
+                "time": "2019-02-20 09:19:39",
+                "type": "drupal-profile",
+                "extra": {
+                    "enable-patching": true,
+                    "branch-alias": {
+                        "dev-8.x-1.x": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH",
+                        "email": "hello@drunomics.com"
+                    }
+                ],
+                "description": "LDP distribution"
+            },
             "dev-feature/LDP-74": {
                 "name": "drunomics/ldp",
                 "version": "dev-feature/LDP-74",
@@ -1056,14 +1087,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "601d4f076ed17103c11265b535f48ed5cf663d44"
+                    "reference": "e063067a3b5a08c078ab2423323f0c0255b865f8"
                 },
                 "require": {
                     "burdamagazinorg/thunder": "^8.2.33",
                     "drupal/imageapi_optimize": "^2.0@alpha",
                     "drupal/imagemagick": "^2.3"
                 },
-                "time": "2019-02-13 15:46:55",
+                "time": "2019-02-13 22:52:08",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1110,14 +1141,75 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "e119903ef5bdd3e36995d89a161dabacf1952150"
+                    "reference": "1ef1a207432361c2da4a1a2e816aa209f700592e"
                 },
                 "require": {
                     "burdamagazinorg/thunder": "^8.2.33",
                     "drupal/imageapi_optimize": "^2.0@alpha",
                     "drupal/imagemagick": "^2.3"
                 },
-                "time": "2019-02-19 14:03:51",
+                "time": "2019-02-20 11:17:20",
+                "type": "drupal-module",
+                "extra": {
+                    "patches": {
+                        "drupal/yaml_content": {
+                            "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
+                        }
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP core modules.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "dev-feature/LDP-74": {
+                "name": "drunomics/ldp-core",
+                "version": "dev-feature/LDP-74",
+                "version_normalized": "dev-feature/LDP-74",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "reference": "1d8dbda25d9d1558f3ad7548531cae2330b5d27c"
+                },
+                "require": {
+                    "burdamagazinorg/thunder": "^8.2.33",
+                    "drupal/imageapi_optimize": "^2.0@alpha",
+                    "drupal/imagemagick": "^2.3"
+                },
+                "time": "2019-02-20 11:19:45",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP core modules.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "dev-feature/update-packages": {
+                "name": "drunomics/ldp-core",
+                "version": "dev-feature/update-packages",
+                "version_normalized": "dev-feature/update-packages",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "reference": "abcf5e3f0a7286e545bb3123d47038e5fdf6d7bc"
+                },
+                "require": {
+                    "burdamagazinorg/thunder": "^8.2.33",
+                    "drupal/imageapi_optimize": "^2.0@alpha",
+                    "drupal/imagemagick": "^2.3"
+                },
+                "time": "2019-02-20 12:10:38",
                 "type": "drupal-module",
                 "authors": [
                     {
