@@ -1,47 +1,5 @@
 {
     "packages": {
-        "ckeditor/tableresize": {
-            "4.10.1": {
-                "name": "ckeditor/tableresize",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tableselection": {
-            "4.10.1": {
-                "name": "ckeditor/tableselection",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tabletoolstoolbar": {
-            "1.0.0": {
-                "name": "ckeditor/tabletoolstoolbar",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -167,6 +125,66 @@
                         "dev-master": "1.0.x-dev"
                     }
                 },
+                "autoload": {
+                    "psr-4": {
+                        "Drunomics\\DruDrush\\": "src"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Drunomics drush extention.",
+                "keywords": [
+                    "drupal",
+                    "drush"
+                ]
+            },
+            "dev-DEV-183-composer": {
+                "name": "drunomics/drudrush",
+                "version": "dev-DEV-183-composer",
+                "version_normalized": "dev-DEV-183-composer",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/drudrush.git",
+                    "reference": "3f682cb801099c65c9a5c40dbb268494f60017f0"
+                },
+                "require": {
+                    "php": ">=5.3.10"
+                },
+                "time": "2015-01-29 17:00:24",
+                "type": "drush-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Drunomics\\DruDrush\\": "src"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Drunomics drush extention.",
+                "keywords": [
+                    "drupal",
+                    "drush"
+                ]
+            },
+            "dev-DEV-183-composer-fix-path": {
+                "name": "drunomics/drudrush",
+                "version": "dev-DEV-183-composer-fix-path",
+                "version_normalized": "dev-DEV-183-composer-fix-path",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/drudrush.git",
+                    "reference": "3f682cb801099c65c9a5c40dbb268494f60017f0"
+                },
+                "require": {
+                    "php": ">=5.3.10"
+                },
+                "time": "2015-01-29 17:00:24",
+                "type": "drush-extension",
                 "autoload": {
                     "psr-4": {
                         "Drunomics\\DruDrush\\": "src"
@@ -310,7 +328,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/dsk_devel.git",
-                    "reference": "921ab80b71cb3d358f00cc8756df159a5331bc52"
+                    "reference": "88a345a46c903745e59c71b8fc2f1c01d8666545"
                 },
                 "require": {
                     "bower-asset/d3": "3.5.17",
@@ -321,7 +339,7 @@
                     "oomphinc/composer-installers-extender": "*",
                     "symfony/stopwatch": "~2.4"
                 },
-                "time": "2019-02-21 09:29:21",
+                "time": "2018-07-31 10:01:23",
                 "type": "drupal-module"
             }
         },
@@ -875,111 +893,24 @@
                 "description": "drunomics paragraphs starter kit"
             }
         },
-        "drunomics/ldp": {
-            "1.x-dev": {
-                "name": "drunomics/ldp",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "edf2ee78588f1f142e7a074d71fdfcdfd1a61dde"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-03-13 11:56:27",
-                "type": "drupal-profile",
-                "extra": {
-                    "branch-alias": {
-                        "dev-8.x-1.x": "1.0.x-dev"
-                    }
-                },
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "authors": [
-                    {
-                        "name": "drunomics GmbH",
-                        "email": "hello@drunomics.com"
-                    }
-                ],
-                "description": "LDP distribution"
-            }
-        },
-        "drunomics/ldp-advertorial": {
-            "1.x-dev": {
-                "name": "drunomics/ldp-advertorial",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "a1b5f51826e6941b192403337eabc1fe14dd73e3"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-03-19 13:51:05",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP advertorial module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            }
-        },
         "drunomics/ldp-core": {
-            "1.x-dev": {
+            "dev-develop": {
                 "name": "drunomics/ldp-core",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "cf315acfb71720f310836f10e0f8e77505b4fbd5"
+                    "reference": "6bfa59ed647038397ace403b660ee10e218601b4"
                 },
-                "require": {
-                    "bower-asset/chosen": "^1.8",
-                    "burdamagazinorg/thunder": "^8.2.33",
-                    "drupal/chosen": "^2.6",
-                    "drupal/imageapi_optimize": "^2.0@alpha",
-                    "drupal/imagemagick": "^2.3",
-                    "drupal/layout_builder_restrictions": "^1.4",
-                    "drupal/lupus_taxonomy_import": "^1.0",
-                    "drupal/menu_admin_per_menu": "^1.0",
-                    "drupal/override_node_options": "^2.3",
-                    "drupal/shs": "^1.0"
-                },
-                "time": "2019-03-16 11:00:30",
+                "time": "2019-01-31 11:12:15",
                 "type": "drupal-module",
-                "extra": {
-                    "patches": {
-                        "drupal/paragraphs": {
-                            "#2901390 Integrity constraint violation: 1048 Column 'langcode' cannot be null (required by layout builder custom blocks)": "https://www.drupal.org/files/issues/paragraphs-missing-langcode-2901390-9.patch"
-                        },
-                        "drupal/yaml_content": {
-                            "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
-                        },
-                        "drupal/features": {
-                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch"
-                        },
-                        "drupal/scheduler_content_moderation_integration": {
-                            "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
-                        }
-                    }
-                },
                 "authors": [
                     {
                         "name": "drunomics GmbH"
                     }
                 ],
-                "description": "LDP core modules.",
+                "description": "LDP core module.",
                 "keywords": [
                     "drupal",
                     "ldp"
@@ -987,19 +918,16 @@
             }
         },
         "drunomics/ldp-epaper": {
-            "1.x-dev": {
+            "dev-develop": {
                 "name": "drunomics/ldp-epaper",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-epaper.git",
-                    "reference": "1b6c4752b9f05b4997d0797c7e0588aa388f1dfc"
+                    "reference": "06e4b2f622c98c2db9bba792f22f42cb040b2c08"
                 },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-03-13 11:03:43",
+                "time": "2019-01-31 11:14:18",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1014,19 +942,16 @@
             }
         },
         "drunomics/ldp-oewa": {
-            "1.x-dev": {
+            "dev-develop": {
                 "name": "drunomics/ldp-oewa",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-oewa.git",
-                    "reference": "f722c2d0628ca924fbd3748ee47926c77e86aa4c"
+                    "reference": "0720cdf3a14a5da00b2e3bc276c240d7e834a2d0"
                 },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-03-13 11:04:34",
+                "time": "2019-01-31 11:11:39",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1041,19 +966,16 @@
             }
         },
         "drunomics/ldp-solr": {
-            "1.x-dev": {
+            "dev-develop": {
                 "name": "drunomics/ldp-solr",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-solr.git",
-                    "reference": "27297f6436870d588955dedbcf4c484cc2b9bb1a"
+                    "reference": "43ebfd8e6aa1d3a20730401663197752b4853245"
                 },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-03-13 11:04:52",
+                "time": "2019-01-31 11:08:34",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1068,16 +990,16 @@
             }
         },
         "drunomics/sso-client": {
-            "1.x-dev": {
+            "dev-develop": {
                 "name": "drunomics/sso-client",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/sso-client.git",
-                    "reference": "9850f723563d86c20d2f579bdae1016570b87949"
+                    "reference": "718c79649104b8aa85a7ff0709ca284ac33b7462"
                 },
-                "time": "2019-03-13 11:05:36",
+                "time": "2019-01-31 11:17:35",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1092,16 +1014,16 @@
             }
         },
         "drunomics/sso-server": {
-            "1.x-dev": {
+            "dev-develop": {
                 "name": "drunomics/sso-server",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/sso-server.git",
-                    "reference": "d8f4d6f77aee4844742bbe3f6788dd39be82e0f5"
+                    "reference": "d295f54042085a09460375d132da5ddab17ad41b"
                 },
-                "time": "2019-03-13 11:05:51",
+                "time": "2019-01-31 11:16:07",
                 "type": "drupal-module",
                 "authors": [
                     {

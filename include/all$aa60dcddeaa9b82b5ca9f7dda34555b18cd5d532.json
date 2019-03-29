@@ -42,6 +42,52 @@
                 "type": "drupal-library"
             }
         },
+        "drunomics/advertorial": {
+            "1.0.0": {
+                "name": "drunomics/advertorial",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/advertorial.git",
+                    "reference": "38d2da9faff53c98e089a7bed4cc46823b921e23"
+                },
+                "time": "2019-03-29 14:11:14",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Advertorial module.",
+                "keywords": [
+                    "advertorial",
+                    "drupal"
+                ]
+            },
+            "1.x-dev": {
+                "name": "drunomics/advertorial",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/advertorial.git",
+                    "reference": "b5d06b78972aec25973a3a2e5405497ced0ab910"
+                },
+                "time": "2019-03-29 14:27:57",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Advertorial module.",
+                "keywords": [
+                    "advertorial",
+                    "drupal"
+                ]
+            }
+        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -915,12 +961,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "81873085782c82dd27a0bf020cd5091ba6e5001a"
+                    "reference": "da92bc52992cedbc800d750aabb82e19e2312b67"
                 },
                 "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
+                    "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-03-29 11:24:26",
+                "time": "2019-03-29 14:31:07",
                 "type": "drupal-module",
                 "authors": [
                     {
