@@ -1,5 +1,33 @@
 {
     "packages": {
+        "ckeditor/tableresize": {
+            "4.10.1": {
+                "name": "ckeditor/tableresize",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tableselection": {
+            "4.10.1": {
+                "name": "ckeditor/tableselection",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -873,12 +901,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "37109cc85dcfc525d51cef91ae20768df49218d5"
+                    "reference": "a1b5f51826e6941b192403337eabc1fe14dd73e3"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-21 14:44:39",
+                "time": "2019-03-19 13:51:05",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -900,7 +928,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "d8357392000d2682120f1bf170ad8a8189e721af"
+                    "reference": "cf315acfb71720f310836f10e0f8e77505b4fbd5"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -914,7 +942,7 @@
                     "drupal/override_node_options": "^2.3",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-20 15:05:47",
+                "time": "2019-03-16 11:00:30",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
