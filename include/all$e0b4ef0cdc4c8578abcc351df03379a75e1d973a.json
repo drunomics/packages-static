@@ -1,47 +1,5 @@
 {
     "packages": {
-        "ckeditor/tableresize": {
-            "4.10.1": {
-                "name": "ckeditor/tableresize",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tableselection": {
-            "4.10.1": {
-                "name": "ckeditor/tableselection",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tabletoolstoolbar": {
-            "0.0.1": {
-                "name": "ckeditor/tabletoolstoolbar",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -915,12 +873,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "591d7043ee1e5ae4e13eba483725d58d72103b59"
+                    "reference": "1b98f50718a23fed1428712e1f45c13bcf3c0ed2"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-20 08:59:25",
+                "time": "2019-03-21 14:26:37",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -942,7 +900,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "cf315acfb71720f310836f10e0f8e77505b4fbd5"
+                    "reference": "d8357392000d2682120f1bf170ad8a8189e721af"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -956,7 +914,7 @@
                     "drupal/override_node_options": "^2.3",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-16 11:00:30",
+                "time": "2019-03-20 15:05:47",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {

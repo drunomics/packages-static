@@ -42,6 +42,52 @@
                 "type": "drupal-library"
             }
         },
+        "drunomics/advertorial": {
+            "1.0.0": {
+                "name": "drunomics/advertorial",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/advertorial.git",
+                    "reference": "38d2da9faff53c98e089a7bed4cc46823b921e23"
+                },
+                "time": "2019-03-29 14:11:14",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Advertorial module.",
+                "keywords": [
+                    "advertorial",
+                    "drupal"
+                ]
+            },
+            "1.x-dev": {
+                "name": "drunomics/advertorial",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/advertorial.git",
+                    "reference": "b5d06b78972aec25973a3a2e5405497ced0ab910"
+                },
+                "time": "2019-03-29 14:27:57",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Advertorial module.",
+                "keywords": [
+                    "advertorial",
+                    "drupal"
+                ]
+            }
+        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -915,12 +961,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "37109cc85dcfc525d51cef91ae20768df49218d5"
+                    "reference": "da92bc52992cedbc800d750aabb82e19e2312b67"
                 },
                 "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
+                    "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-03-21 14:44:39",
+                "time": "2019-03-29 14:31:07",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -942,7 +988,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "7cac6bcdac4fe11857a4ce3d9736bbb71a3115db"
+                    "reference": "f68ad7e8a13a8f12407a07d7b76f1be3687a55b8"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -964,7 +1010,7 @@
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-28 13:13:55",
+                "time": "2019-03-29 08:46:57",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -975,7 +1021,8 @@
                             "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
                         },
                         "drupal/features": {
-                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch"
+                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
+                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch"
                         },
                         "drupal/scheduler_content_moderation_integration": {
                             "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
