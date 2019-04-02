@@ -1,5 +1,47 @@
 {
     "packages": {
+        "ckeditor/tableresize": {
+            "4.10.1": {
+                "name": "ckeditor/tableresize",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tableselection": {
+            "4.10.1": {
+                "name": "ckeditor/tableselection",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tabletoolstoolbar": {
+            "0.0.1": {
+                "name": "ckeditor/tabletoolstoolbar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -873,12 +915,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "b0721b0e0f41fc04bfa3fa168e35686936441e76"
+                    "reference": "37109cc85dcfc525d51cef91ae20768df49218d5"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-29 12:27:50",
+                "time": "2019-03-21 14:44:39",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -900,7 +942,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "f68ad7e8a13a8f12407a07d7b76f1be3687a55b8"
+                    "reference": "7cac6bcdac4fe11857a4ce3d9736bbb71a3115db"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -922,7 +964,7 @@
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-29 08:46:57",
+                "time": "2019-03-28 13:13:55",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -933,8 +975,7 @@
                             "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
                         },
                         "drupal/features": {
-                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
-                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch"
+                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch"
                         },
                         "drupal/scheduler_content_moderation_integration": {
                             "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"

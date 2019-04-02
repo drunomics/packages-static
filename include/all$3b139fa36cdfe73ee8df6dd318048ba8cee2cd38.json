@@ -50,9 +50,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "38d2da9faff53c98e089a7bed4cc46823b921e23"
+                    "reference": "0c344539a58261336c3b50cec68fa6a25671f1ae"
                 },
-                "time": "2019-03-29 14:11:14",
+                "time": "2019-03-29 15:06:53",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -72,9 +72,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "7938af6c8d443f054e0dc8c11d3d3453fc0749ab"
+                    "reference": "43db1f2f725324deec3c75c72955696feddfd0d7"
                 },
-                "time": "2019-03-29 14:11:14",
+                "time": "2019-03-29 15:06:53",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -961,12 +961,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "b0721b0e0f41fc04bfa3fa168e35686936441e76"
+                    "reference": "3242d5953d721719ceaab715a0620630beb78007"
                 },
                 "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
+                    "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-03-29 12:27:50",
+                "time": "2019-04-01 14:39:06",
                 "type": "drupal-module",
                 "authors": [
                     {
