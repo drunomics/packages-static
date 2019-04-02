@@ -1,47 +1,5 @@
 {
     "packages": {
-        "ckeditor/tableresize": {
-            "4.10.1": {
-                "name": "ckeditor/tableresize",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tableselection": {
-            "4.10.1": {
-                "name": "ckeditor/tableselection",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tabletoolstoolbar": {
-            "0.0.1": {
-                "name": "ckeditor/tabletoolstoolbar",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -915,12 +873,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "37109cc85dcfc525d51cef91ae20768df49218d5"
+                    "reference": "81873085782c82dd27a0bf020cd5091ba6e5001a"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-21 14:44:39",
+                "time": "2019-03-29 11:24:26",
                 "type": "drupal-module",
                 "authors": [
                     {
