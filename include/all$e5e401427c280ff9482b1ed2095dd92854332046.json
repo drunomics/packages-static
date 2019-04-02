@@ -1,47 +1,5 @@
 {
     "packages": {
-        "ckeditor/tableresize": {
-            "4.10.1": {
-                "name": "ckeditor/tableresize",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tableselection": {
-            "4.10.1": {
-                "name": "ckeditor/tableselection",
-                "version": "4.10.1",
-                "version_normalized": "4.10.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
-        "ckeditor/tabletoolstoolbar": {
-            "0.0.1": {
-                "name": "ckeditor/tabletoolstoolbar",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip",
-                    "reference": null,
-                    "shasum": null
-                },
-                "type": "drupal-library"
-            }
-        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -942,7 +900,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "8c8338e751ed4fc9631cb6e66934d9455bc7d584"
+                    "reference": "d8357392000d2682120f1bf170ad8a8189e721af"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -956,7 +914,7 @@
                     "drupal/override_node_options": "^2.3",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-26 14:06:50",
+                "time": "2019-03-20 15:05:47",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -971,9 +929,6 @@
                         },
                         "drupal/scheduler_content_moderation_integration": {
                             "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
-                        },
-                        "drupal/core": {
-                            "#2952390: Off-canvas styles override CKEditor's reset and theme": "https://www.drupal.org/files/issues/2019-03-20/2952390-101.patch"
                         }
                     }
                 },
