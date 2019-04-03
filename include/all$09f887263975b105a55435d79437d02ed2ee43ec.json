@@ -1,5 +1,93 @@
 {
     "packages": {
+        "ckeditor/tableresize": {
+            "4.10.1": {
+                "name": "ckeditor/tableresize",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tableselection": {
+            "4.10.1": {
+                "name": "ckeditor/tableselection",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tabletoolstoolbar": {
+            "0.0.1": {
+                "name": "ckeditor/tabletoolstoolbar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drunomics/advertorial": {
+            "1.0.0": {
+                "name": "drunomics/advertorial",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/advertorial.git",
+                    "reference": "0c344539a58261336c3b50cec68fa6a25671f1ae"
+                },
+                "time": "2019-03-29 15:06:53",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Advertorial module.",
+                "keywords": [
+                    "advertorial",
+                    "drupal"
+                ]
+            },
+            "1.x-dev": {
+                "name": "drunomics/advertorial",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/advertorial.git",
+                    "reference": "43db1f2f725324deec3c75c72955696feddfd0d7"
+                },
+                "time": "2019-03-29 15:06:53",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Advertorial module.",
+                "keywords": [
+                    "advertorial",
+                    "drupal"
+                ]
+            }
+        },
         "drunomics/drudrush": {
             "1.0": {
                 "name": "drunomics/drudrush",
@@ -873,12 +961,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "a1b5f51826e6941b192403337eabc1fe14dd73e3"
+                    "reference": "c6ac3188671f8dfb83681cd6871ed76154e88752"
                 },
                 "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
+                    "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-03-19 13:51:05",
+                "time": "2019-04-02 09:31:04",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -900,21 +988,30 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "cf315acfb71720f310836f10e0f8e77505b4fbd5"
+                    "reference": "763f458ccf9acf87058c7f5a65175c23c692cae3"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
                     "burdamagazinorg/thunder": "^8.2.33",
+                    "ckeditor/tableresize": "4.10.1",
+                    "ckeditor/tableselection": "4.10.1",
+                    "ckeditor/tabletoolstoolbar": "0.0.1",
                     "drupal/chosen": "^2.6",
+                    "drupal/ckeditor_tableresize": "^1.0",
+                    "drupal/ckeditor_tableselection": "^1.0",
+                    "drupal/ckeditor_tabletoolstoolbar": "^1.0",
+                    "drupal/facets": "^1.3",
                     "drupal/imageapi_optimize": "^2.0@alpha",
                     "drupal/imagemagick": "^2.3",
                     "drupal/layout_builder_restrictions": "^1.4",
                     "drupal/lupus_taxonomy_import": "^1.0",
                     "drupal/menu_admin_per_menu": "^1.0",
                     "drupal/override_node_options": "^2.3",
+                    "drupal/rest_menu_items": "^2.6",
+                    "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-16 11:00:30",
+                "time": "2019-04-03 11:53:05",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -925,10 +1022,14 @@
                             "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
                         },
                         "drupal/features": {
-                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch"
+                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
+                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch"
                         },
                         "drupal/scheduler_content_moderation_integration": {
                             "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
+                        },
+                        "drupal/core": {
+                            "#2952390: Off-canvas styles override CKEditor's reset and theme": "https://www.drupal.org/files/issues/2019-03-20/2952390-101.patch"
                         }
                     }
                 },
@@ -952,12 +1053,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-epaper.git",
-                    "reference": "1b6c4752b9f05b4997d0797c7e0588aa388f1dfc"
+                    "reference": "a1a28d655aaacffec2935d3c1355d12d0fc85be7"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-13 11:03:43",
+                "time": "2019-03-28 08:46:37",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -979,12 +1080,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-oewa.git",
-                    "reference": "f722c2d0628ca924fbd3748ee47926c77e86aa4c"
+                    "reference": "1423eea28e7ac8f8f0627ebd6581786247a9b891"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-13 11:04:34",
+                "time": "2019-03-28 08:46:25",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1006,12 +1107,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-solr.git",
-                    "reference": "27297f6436870d588955dedbcf4c484cc2b9bb1a"
+                    "reference": "18df7eb7ae64d12ad88e36549cf671a8b947776b"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-13 11:04:52",
+                "time": "2019-03-28 08:46:16",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1033,9 +1134,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/sso-client.git",
-                    "reference": "9850f723563d86c20d2f579bdae1016570b87949"
+                    "reference": "ccd24ec6c8b51cba318dbf3e603d7d212593e001"
                 },
-                "time": "2019-03-13 11:05:36",
+                "time": "2019-03-28 08:45:39",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1057,9 +1158,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/sso-server.git",
-                    "reference": "d8f4d6f77aee4844742bbe3f6788dd39be82e0f5"
+                    "reference": "914eceef4f90f0b3d969fba0669991cdf4bc03a4"
                 },
-                "time": "2019-03-13 11:05:51",
+                "time": "2019-03-28 08:46:01",
                 "type": "drupal-module",
                 "authors": [
                     {
