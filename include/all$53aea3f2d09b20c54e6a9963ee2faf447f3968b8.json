@@ -50,9 +50,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "0c344539a58261336c3b50cec68fa6a25671f1ae"
+                    "reference": "0cb4da02f52c1a869814b3f54aca9f03189abec5"
                 },
-                "time": "2019-03-29 15:06:53",
+                "require": {
+                    "burdamagazinorg/custom_purge": "dev-feature/improvements"
+                },
+                "time": "2019-04-03 13:56:04",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -72,9 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "43db1f2f725324deec3c75c72955696feddfd0d7"
+                    "reference": "0cb4da02f52c1a869814b3f54aca9f03189abec5"
                 },
-                "time": "2019-03-29 15:06:53",
+                "require": {
+                    "burdamagazinorg/custom_purge": "dev-feature/improvements"
+                },
+                "time": "2019-04-03 13:56:04",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -961,12 +967,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "300858a921eaa370284a4cc8eb4b951b4183c85c"
+                    "reference": "080e28bbbb98fef6daedec10d94684ce2696bb67"
                 },
                 "require": {
                     "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-04-01 14:14:47",
+                "time": "2019-04-03 13:57:17",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -988,7 +994,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "f68ad7e8a13a8f12407a07d7b76f1be3687a55b8"
+                    "reference": "763f458ccf9acf87058c7f5a65175c23c692cae3"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -1007,10 +1013,11 @@
                     "drupal/lupus_taxonomy_import": "^1.0",
                     "drupal/menu_admin_per_menu": "^1.0",
                     "drupal/override_node_options": "^2.3",
+                    "drupal/rest_menu_items": "^2.6",
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-29 08:46:57",
+                "time": "2019-04-03 11:53:05",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {

@@ -50,9 +50,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "0c344539a58261336c3b50cec68fa6a25671f1ae"
+                    "reference": "38d2da9faff53c98e089a7bed4cc46823b921e23"
                 },
-                "time": "2019-03-29 15:06:53",
+                "time": "2019-03-29 14:11:14",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -72,9 +72,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "43db1f2f725324deec3c75c72955696feddfd0d7"
+                    "reference": "b5d06b78972aec25973a3a2e5405497ced0ab910"
                 },
-                "time": "2019-03-29 15:06:53",
+                "time": "2019-03-29 14:27:57",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -961,12 +961,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "c6ac3188671f8dfb83681cd6871ed76154e88752"
+                    "reference": "da92bc52992cedbc800d750aabb82e19e2312b67"
                 },
                 "require": {
                     "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-04-02 09:31:04",
+                "time": "2019-03-29 14:31:07",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -988,7 +988,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "763f458ccf9acf87058c7f5a65175c23c692cae3"
+                    "reference": "f68ad7e8a13a8f12407a07d7b76f1be3687a55b8"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -1007,11 +1007,10 @@
                     "drupal/lupus_taxonomy_import": "^1.0",
                     "drupal/menu_admin_per_menu": "^1.0",
                     "drupal/override_node_options": "^2.3",
-                    "drupal/rest_menu_items": "^2.6",
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-04-03 11:53:05",
+                "time": "2019-03-29 08:46:57",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
