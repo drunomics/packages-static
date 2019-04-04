@@ -50,9 +50,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "0c344539a58261336c3b50cec68fa6a25671f1ae"
+                    "reference": "0cb4da02f52c1a869814b3f54aca9f03189abec5"
                 },
-                "time": "2019-03-29 15:06:53",
+                "require": {
+                    "burdamagazinorg/custom_purge": "dev-feature/improvements"
+                },
+                "time": "2019-04-03 13:56:04",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -72,9 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/advertorial.git",
-                    "reference": "43db1f2f725324deec3c75c72955696feddfd0d7"
+                    "reference": "0cb4da02f52c1a869814b3f54aca9f03189abec5"
                 },
-                "time": "2019-03-29 15:06:53",
+                "require": {
+                    "burdamagazinorg/custom_purge": "dev-feature/improvements"
+                },
+                "time": "2019-04-03 13:56:04",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -961,12 +967,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "9bccd70be27eb4a90d5c4146617a2b47fb3e9896"
+                    "reference": "cdce03db812934f9b2855bcbc624b5a0fe893387"
                 },
                 "require": {
                     "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-03-29 15:45:16",
+                "time": "2019-04-04 13:39:28",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -988,7 +994,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "f68ad7e8a13a8f12407a07d7b76f1be3687a55b8"
+                    "reference": "98fc206fb2ba9d2d1a1448a3de6e4ec7aaae9289"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -996,6 +1002,7 @@
                     "ckeditor/tableresize": "4.10.1",
                     "ckeditor/tableselection": "4.10.1",
                     "ckeditor/tabletoolstoolbar": "0.0.1",
+                    "drupal/cache_tools": "^1.0",
                     "drupal/chosen": "^2.6",
                     "drupal/ckeditor_tableresize": "^1.0",
                     "drupal/ckeditor_tableselection": "^1.0",
@@ -1007,10 +1014,11 @@
                     "drupal/lupus_taxonomy_import": "^1.0",
                     "drupal/menu_admin_per_menu": "^1.0",
                     "drupal/override_node_options": "^2.3",
+                    "drupal/rest_menu_items": "^2.6",
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0"
                 },
-                "time": "2019-03-29 08:46:57",
+                "time": "2019-04-04 13:35:56",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -1052,12 +1060,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-epaper.git",
-                    "reference": "a1a28d655aaacffec2935d3c1355d12d0fc85be7"
+                    "reference": "da4ffaa4f799aead1704ab9cfb4337cdc5ffaf21"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-28 08:46:37",
+                "time": "2019-04-04 13:37:23",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1079,12 +1087,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-oewa.git",
-                    "reference": "1423eea28e7ac8f8f0627ebd6581786247a9b891"
+                    "reference": "4939946949075b3747b700244876dc2676c90fe6"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-28 08:46:25",
+                "time": "2019-04-04 13:37:42",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1106,12 +1114,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-solr.git",
-                    "reference": "18df7eb7ae64d12ad88e36549cf671a8b947776b"
+                    "reference": "ee182f7905c17a027633416e2bfb7f1b95eee015"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-03-28 08:46:16",
+                "time": "2019-04-04 13:38:13",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1133,9 +1141,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/sso-client.git",
-                    "reference": "ccd24ec6c8b51cba318dbf3e603d7d212593e001"
+                    "reference": "bacded90147d13d152695a7ec2a06e45737bb5f3"
                 },
-                "time": "2019-03-28 08:45:39",
+                "time": "2019-04-04 13:38:37",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1157,9 +1165,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/sso-server.git",
-                    "reference": "914eceef4f90f0b3d969fba0669991cdf4bc03a4"
+                    "reference": "02b1290c643cb6cfc57812b1411f156163f71f61"
                 },
-                "time": "2019-03-28 08:46:01",
+                "time": "2019-04-04 13:38:53",
                 "type": "drupal-module",
                 "authors": [
                     {
