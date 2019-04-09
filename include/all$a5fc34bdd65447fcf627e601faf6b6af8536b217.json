@@ -988,7 +988,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "2027f97c44f423c81249e9592c24a6780cf7a1bc"
+                    "reference": "c3b2537a19caa3203509c626843ac1532c406272"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -1017,7 +1017,7 @@
                     "drupal/site_per_path": "^1.2",
                     "drupal/social_share": "^2.0@beta"
                 },
-                "time": "2019-04-08 16:01:08",
+                "time": "2019-04-09 13:49:18",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -1051,27 +1051,27 @@
                 ]
             }
         },
-        "drunomics/ldp-epaper": {
+        "drunomics/ldp-issuu": {
             "1.x-dev": {
-                "name": "drunomics/ldp-epaper",
+                "name": "drunomics/ldp-issuu",
                 "version": "1.x-dev",
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-epaper.git",
-                    "reference": "36a00a446cf8edc10d9bb3f36f56cb0f8464a6ff"
+                    "url": "git@bitbucket.org:drunomics/ldp-issuu.git",
+                    "reference": "29006427303660e2ccc1b4a2a23bde8d790762d4"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-04-05 07:59:26",
+                "time": "2019-04-09 13:55:12",
                 "type": "drupal-module",
                 "authors": [
                     {
                         "name": "drunomics GmbH"
                     }
                 ],
-                "description": "LDP epaper module.",
+                "description": "LDP issuu module.",
                 "keywords": [
                     "drupal",
                     "ldp"
