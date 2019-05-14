@@ -1315,30 +1315,6 @@
                 ]
             }
         },
-        "drunomics/lupus-image": {
-            "1.x-dev": {
-                "name": "drunomics/lupus-image",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "1d0a62c986ab1ae15e82d66774862c871279daea"
-                },
-                "time": "2019-05-14 09:49:16",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            }
-        },
         "drunomics/sso-client": {
             "1.x-dev": {
                 "name": "drunomics/sso-client",
@@ -1415,7 +1391,7 @@
                     "drupal"
                 ],
                 "support": {
-                    "source": "https://github.com/drunomics/views_exclude_previous/tree/8.x-1.x",
+                    "source": "https://github.com/drunomics/views_exclude_previous/tree/1.0.0",
                     "issues": "https://github.com/drunomics/views_exclude_previous/issues"
                 }
             },
@@ -1446,7 +1422,7 @@
                     "drupal"
                 ],
                 "support": {
-                    "source": "https://github.com/drunomics/views_exclude_previous/tree/8.x-1.x",
+                    "source": "https://github.com/drunomics/views_exclude_previous/tree/1.0.0",
                     "issues": "https://github.com/drunomics/views_exclude_previous/issues"
                 }
             }
