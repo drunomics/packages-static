@@ -1395,7 +1395,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "141e1d77f1ebec461813d355be3e411eb2787809"
+                    "reference": "2461247af7ed4309b850d1f9727dec832e8cdfa6"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -1431,7 +1431,7 @@
                     "drupal/site_per_path": "^1.2",
                     "drupal/social_share": "^2.0@beta"
                 },
-                "time": "2019-07-02 14:34:07",
+                "time": "2019-07-04 09:55:26",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -1653,9 +1653,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
-                    "reference": "d73a767837048043b76466ea8d494aaa18179966"
+                    "reference": "59cf0e222cd1e141acf2e3ed35d682203a6a5456"
                 },
-                "time": "2019-07-01 12:44:59",
+                "time": "2019-07-04 06:07:53",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1692,6 +1692,28 @@
                     "lupus-extlink"
                 ]
             },
+            "1.1.0": {
+                "name": "drunomics/lupus-extlink",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "reference": "ea78fd921386cfe0c4825484c54976b4e84db955"
+                },
+                "time": "2019-07-04 09:43:13",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Processes external links for adding the rel=nofollow attribute.",
+                "keywords": [
+                    "drupal",
+                    "lupus-extlink"
+                ]
+            },
             "1.x-dev": {
                 "name": "drunomics/lupus-extlink",
                 "version": "1.x-dev",
@@ -1699,9 +1721,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
-                    "reference": "2a1163a61229bee7461c5b4450a9bfd24f3a8715"
+                    "reference": "ea78fd921386cfe0c4825484c54976b4e84db955"
                 },
-                "time": "2019-06-13 15:14:52",
+                "time": "2019-07-04 09:43:13",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1760,6 +1782,28 @@
                     "lupus-image"
                 ]
             },
+            "1.0.0-beta3": {
+                "name": "drunomics/lupus-image",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "0574b0fbf2c00afa7cb28727d307decf2ab5abfa"
+                },
+                "time": "2019-07-04 11:56:59",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Generate preview image.",
+                "keywords": [
+                    "drupal",
+                    "lupus-image"
+                ]
+            },
             "1.x-dev": {
                 "name": "drunomics/lupus-image",
                 "version": "1.x-dev",
@@ -1767,9 +1811,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "85384d78a4ff0d9b7e03d910fd38dc375ee9f457"
+                    "reference": "964b5672344335dd2ad64de575cbe46a6353f156"
                 },
-                "time": "2019-06-11 19:16:08",
+                "time": "2019-07-04 11:56:59",
                 "type": "drupal-module",
                 "authors": [
                     {
