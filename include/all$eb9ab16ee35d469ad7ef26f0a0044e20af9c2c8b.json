@@ -1395,7 +1395,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "2461247af7ed4309b850d1f9727dec832e8cdfa6"
+                    "reference": "c0bde5776049cf4e9a34222a301ae98bebb9915f"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -1404,7 +1404,9 @@
                     "ckeditor/tableresize": "4.10.1",
                     "ckeditor/tableselection": "4.10.1",
                     "ckeditor/tabletoolstoolbar": "0.0.1",
-                    "drunomics/lupus-image": "^1.0.0-beta1",
+                    "drunomics/lupus-ce-templates": "1.x-dev",
+                    "drunomics/lupus-extlink": "^1.1",
+                    "drunomics/lupus-image": "^1.0.0-beta3",
                     "drunomics/service-utils": "*",
                     "drunomics/views_exclude_previous": "^1.0",
                     "drupal/allowed_formats": "^1.1",
@@ -1425,13 +1427,14 @@
                     "drupal/lupus_taxonomy_import": "^1.0",
                     "drupal/menu_admin_per_menu": "^1.0",
                     "drupal/override_node_options": "^2.3",
+                    "drupal/publication_date": "^2.0@beta",
                     "drupal/rest_menu_items": "^2.6",
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0",
                     "drupal/site_per_path": "^1.2",
                     "drupal/social_share": "^2.0@beta"
                 },
-                "time": "2019-07-04 09:55:26",
+                "time": "2019-07-09 12:23:38",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -1804,6 +1807,50 @@
                     "lupus-image"
                 ]
             },
+            "1.0.0-beta4": {
+                "name": "drunomics/lupus-image",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "f2fcf0c7e5a45ac08a42f2ccab796d17ad645908"
+                },
+                "time": "2019-07-08 13:47:40",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Generate preview image.",
+                "keywords": [
+                    "drupal",
+                    "lupus-image"
+                ]
+            },
+            "1.0.0-beta5": {
+                "name": "drunomics/lupus-image",
+                "version": "1.0.0-beta5",
+                "version_normalized": "1.0.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "8b28b7988e0a75c7554d4c654217d193b7fb4670"
+                },
+                "time": "2019-07-09 12:35:06",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Generate preview image.",
+                "keywords": [
+                    "drupal",
+                    "lupus-image"
+                ]
+            },
             "1.x-dev": {
                 "name": "drunomics/lupus-image",
                 "version": "1.x-dev",
@@ -1811,9 +1858,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "964b5672344335dd2ad64de575cbe46a6353f156"
+                    "reference": "9f292d9298b06467c4d9d4311b88b020ed118465"
                 },
-                "time": "2019-07-04 11:56:59",
+                "time": "2019-07-09 12:35:06",
                 "type": "drupal-module",
                 "authors": [
                     {
