@@ -1004,66 +1004,6 @@
                 ],
                 "description": "LDP distribution"
             },
-            "1.0.0-beta11": {
-                "name": "drunomics/ldp",
-                "version": "1.0.0-beta11",
-                "version_normalized": "1.0.0.0-beta11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-04-17 14:46:07",
-                "type": "drupal-profile",
-                "extra": {
-                    "branch-alias": {
-                        "dev-8.x-1.x": "1.0.x-dev"
-                    }
-                },
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "authors": [
-                    {
-                        "name": "drunomics GmbH",
-                        "email": "hello@drunomics.com"
-                    }
-                ],
-                "description": "LDP distribution"
-            },
-            "1.0.0-beta12": {
-                "name": "drunomics/ldp",
-                "version": "1.0.0-beta12",
-                "version_normalized": "1.0.0.0-beta12",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev"
-                },
-                "time": "2019-04-17 14:46:07",
-                "type": "drupal-profile",
-                "extra": {
-                    "branch-alias": {
-                        "dev-8.x-1.x": "1.0.x-dev"
-                    }
-                },
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "authors": [
-                    {
-                        "name": "drunomics GmbH",
-                        "email": "hello@drunomics.com"
-                    }
-                ],
-                "description": "LDP distribution"
-            },
             "1.0.0-beta2": {
                 "name": "drunomics/ldp",
                 "version": "1.0.0-beta2",
@@ -1305,56 +1245,6 @@
                 "name": "drunomics/ldp-advertorial",
                 "version": "1.0.0-beta10",
                 "version_normalized": "1.0.0.0-beta10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "e47a07a82112afc30dbf348d858e976e61303998"
-                },
-                "require": {
-                    "drunomics/advertorial": "^1.0"
-                },
-                "time": "2019-04-08 10:58:31",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP advertorial module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "1.0.0-beta11": {
-                "name": "drunomics/ldp-advertorial",
-                "version": "1.0.0-beta11",
-                "version_normalized": "1.0.0.0-beta11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "e47a07a82112afc30dbf348d858e976e61303998"
-                },
-                "require": {
-                    "drunomics/advertorial": "^1.0"
-                },
-                "time": "2019-04-08 10:58:31",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP advertorial module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "1.0.0-beta12": {
-                "name": "drunomics/ldp-advertorial",
-                "version": "1.0.0-beta12",
-                "version_normalized": "1.0.0.0-beta12",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
@@ -1674,162 +1564,6 @@
                     "drupal/social_share": "^2.0@beta"
                 },
                 "time": "2019-07-26 15:43:30",
-                "type": "drupal-module",
-                "extra": {
-                    "patches": {
-                        "drupal/paragraphs": {
-                            "#2901390 Integrity constraint violation: 1048 Column 'langcode' cannot be null (required by layout builder custom blocks)": "https://www.drupal.org/files/issues/paragraphs-missing-langcode-2901390-9.patch"
-                        },
-                        "drupal/yaml_content": {
-                            "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
-                        },
-                        "drupal/features": {
-                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
-                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch",
-                            "#3044307 Feature export, dependencies not prefixed.": "https://www.drupal.org/files/issues/2019-04-17/features_dependencies_prefix-3044307-1.patch"
-                        },
-                        "drupal/scheduler_content_moderation_integration": {
-                            "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
-                        }
-                    }
-                },
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP core modules.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "1.0.0-beta11": {
-                "name": "drunomics/ldp-core",
-                "version": "1.0.0-beta11",
-                "version_normalized": "1.0.0.0-beta11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "7990dee5cd4ba9f8291605f15c1ce445e8a7d310"
-                },
-                "require": {
-                    "bower-asset/chosen": "^1.8",
-                    "bower-asset/masonry": "^4.2",
-                    "burdamagazinorg/thunder": "^8.2.42",
-                    "ckeditor/tableresize": "4.10.1",
-                    "ckeditor/tableselection": "4.10.1",
-                    "ckeditor/tabletoolstoolbar": "0.0.1",
-                    "drunomics/lupus-ce-templates": "^1.1.1",
-                    "drunomics/lupus-extlink": "^1.1",
-                    "drunomics/lupus-image": "^1.0.0-beta13",
-                    "drunomics/service-utils": "*",
-                    "drunomics/views_exclude_previous": "^1.0",
-                    "drupal/allowed_formats": "^1.1",
-                    "drupal/cache_tools": "^1.2",
-                    "drupal/chosen": "^2.6",
-                    "drupal/ckeditor_tableresize": "^1.0",
-                    "drupal/ckeditor_tableselection": "^1.0",
-                    "drupal/ckeditor_tabletoolstoolbar": "^1.0",
-                    "drupal/config_ignore": "^2.1",
-                    "drupal/content_browser": "^1.0",
-                    "drupal/custom_elements": "^2.0-alpha11",
-                    "drupal/facets": "^1.3",
-                    "drupal/features": "^3.8",
-                    "drupal/imageapi_optimize": "^2.0@alpha",
-                    "drupal/imagemagick": "^2.3",
-                    "drupal/layout_builder_restrictions": "^2.1",
-                    "drupal/lupus_ce_renderer": "^1.0",
-                    "drupal/lupus_taxonomy_import": "^1.0",
-                    "drupal/media_entity_document": "^1.1",
-                    "drupal/menu_admin_per_menu": "^1.0",
-                    "drupal/override_node_options": "^2.3",
-                    "drupal/publication_date": "^2.0@beta",
-                    "drupal/rest_menu_items": "^2.6",
-                    "drupal/search_api": "^1.12",
-                    "drupal/shs": "^1.0",
-                    "drupal/site_per_path": "^1.2",
-                    "drupal/social_share": "^2.0@beta"
-                },
-                "time": "2019-08-07 06:38:36",
-                "type": "drupal-module",
-                "extra": {
-                    "patches": {
-                        "drupal/paragraphs": {
-                            "#2901390 Integrity constraint violation: 1048 Column 'langcode' cannot be null (required by layout builder custom blocks)": "https://www.drupal.org/files/issues/paragraphs-missing-langcode-2901390-9.patch"
-                        },
-                        "drupal/yaml_content": {
-                            "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch"
-                        },
-                        "drupal/features": {
-                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
-                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch",
-                            "#3044307 Feature export, dependencies not prefixed.": "https://www.drupal.org/files/issues/2019-04-17/features_dependencies_prefix-3044307-1.patch"
-                        },
-                        "drupal/scheduler_content_moderation_integration": {
-                            "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
-                        }
-                    }
-                },
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP core modules.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "1.0.0-beta12": {
-                "name": "drunomics/ldp-core",
-                "version": "1.0.0-beta12",
-                "version_normalized": "1.0.0.0-beta12",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "23de625006d0bd0746bd28820c57bdc5031424da"
-                },
-                "require": {
-                    "bower-asset/chosen": "^1.8",
-                    "bower-asset/masonry": "^4.2",
-                    "burdamagazinorg/thunder": "^8.2.42",
-                    "ckeditor/tableresize": "4.10.1",
-                    "ckeditor/tableselection": "4.10.1",
-                    "ckeditor/tabletoolstoolbar": "0.0.1",
-                    "drunomics/lupus-ce-templates": "^1.1.1",
-                    "drunomics/lupus-extlink": "^1.1",
-                    "drunomics/lupus-image": "^1.0.0-beta18",
-                    "drunomics/service-utils": "*",
-                    "drunomics/views_exclude_previous": "^1.0",
-                    "drupal/allowed_formats": "^1.1",
-                    "drupal/cache_tools": "^1.2",
-                    "drupal/chosen": "^2.6",
-                    "drupal/ckeditor_tableresize": "^1.0",
-                    "drupal/ckeditor_tableselection": "^1.0",
-                    "drupal/ckeditor_tabletoolstoolbar": "^1.0",
-                    "drupal/config_ignore": "^2.1",
-                    "drupal/content_browser": "^1.0",
-                    "drupal/custom_elements": "^2.0-alpha11",
-                    "drupal/facets": "^1.3",
-                    "drupal/features": "^3.8",
-                    "drupal/imageapi_optimize": "^2.0@alpha",
-                    "drupal/imagemagick": "^2.3",
-                    "drupal/layout_builder_restrictions": "^2.1",
-                    "drupal/lupus_ce_renderer": "^1.0",
-                    "drupal/lupus_taxonomy_import": "^1.0",
-                    "drupal/media_entity_document": "^1.1",
-                    "drupal/menu_admin_per_menu": "^1.0",
-                    "drupal/override_node_options": "^2.3",
-                    "drupal/publication_date": "^2.0@beta",
-                    "drupal/rest_menu_items": "^2.6",
-                    "drupal/search_api": "^1.12",
-                    "drupal/shs": "^1.0",
-                    "drupal/site_per_path": "^1.2",
-                    "drupal/social_share": "^2.0@beta"
-                },
-                "time": "2019-08-08 08:35:46",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -2475,7 +2209,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "86ba6db654c9243acbf6f1b96069ee990fed154f"
+                    "reference": "362742a53b03f6430a7cfde843198b6ae9f03f14"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -2486,7 +2220,7 @@
                     "ckeditor/tabletoolstoolbar": "0.0.1",
                     "drunomics/lupus-ce-templates": "^1.1.1",
                     "drunomics/lupus-extlink": "^1.1",
-                    "drunomics/lupus-image": "^1.0.0-beta18",
+                    "drunomics/lupus-image": "^1.0.0-beta10",
                     "drunomics/service-utils": "*",
                     "drunomics/views_exclude_previous": "^1.0",
                     "drupal/allowed_formats": "^1.1",
@@ -2497,7 +2231,7 @@
                     "drupal/ckeditor_tabletoolstoolbar": "^1.0",
                     "drupal/config_ignore": "^2.1",
                     "drupal/content_browser": "^1.0",
-                    "drupal/custom_elements": "^2.0-alpha11",
+                    "drupal/custom_elements": "^2.0",
                     "drupal/facets": "^1.3",
                     "drupal/features": "^3.8",
                     "drupal/imageapi_optimize": "^2.0@alpha",
@@ -2513,10 +2247,9 @@
                     "drupal/search_api": "^1.12",
                     "drupal/shs": "^1.0",
                     "drupal/site_per_path": "^1.2",
-                    "drupal/social_share": "^2.0@beta",
-                    "drupal/views_ef_fieldset": "^1.4"
+                    "drupal/social_share": "^2.0@beta"
                 },
-                "time": "2019-08-09 13:33:18",
+                "time": "2019-08-01 13:32:08",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -2579,58 +2312,6 @@
                 "name": "drunomics/ldp-issuu",
                 "version": "1.0.0-beta10",
                 "version_normalized": "1.0.0.0-beta10",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-issuu.git",
-                    "reference": "6161b1afddad81d97d9a44ea73a1aa9d893a2fb9"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev",
-                    "drupal/issuu_viewer": "^1.1"
-                },
-                "time": "2019-07-19 10:41:47",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP issuu module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "1.0.0-beta11": {
-                "name": "drunomics/ldp-issuu",
-                "version": "1.0.0-beta11",
-                "version_normalized": "1.0.0.0-beta11",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-issuu.git",
-                    "reference": "6161b1afddad81d97d9a44ea73a1aa9d893a2fb9"
-                },
-                "require": {
-                    "drunomics/ldp-core": "^1.0@dev",
-                    "drupal/issuu_viewer": "^1.1"
-                },
-                "time": "2019-07-19 10:41:47",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP issuu module.",
-                "keywords": [
-                    "drupal",
-                    "ldp"
-                ]
-            },
-            "1.0.0-beta12": {
-                "name": "drunomics/ldp-issuu",
-                "version": "1.0.0-beta12",
-                "version_normalized": "1.0.0.0-beta12",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-issuu.git",
@@ -3159,138 +2840,6 @@
                     "lupus-image"
                 ]
             },
-            "1.0.0-beta13": {
-                "name": "drunomics/lupus-image",
-                "version": "1.0.0-beta13",
-                "version_normalized": "1.0.0.0-beta13",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "5e3c0f0ca39f62e6cdad12adf7de4df4e84bfdfb"
-                },
-                "time": "2019-08-06 08:34:09",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            },
-            "1.0.0-beta14": {
-                "name": "drunomics/lupus-image",
-                "version": "1.0.0-beta14",
-                "version_normalized": "1.0.0.0-beta14",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "52f40ff0e0c3579bafd51e135d7be7371142a366"
-                },
-                "time": "2019-08-06 20:46:22",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            },
-            "1.0.0-beta15": {
-                "name": "drunomics/lupus-image",
-                "version": "1.0.0-beta15",
-                "version_normalized": "1.0.0.0-beta15",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "169a78383ba36b752e533d3ff2d99a1aed1da7bf"
-                },
-                "time": "2019-08-07 13:17:14",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            },
-            "1.0.0-beta16": {
-                "name": "drunomics/lupus-image",
-                "version": "1.0.0-beta16",
-                "version_normalized": "1.0.0.0-beta16",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "faa558cf68fa0af4996e56dc15a739047b17f4d0"
-                },
-                "time": "2019-08-07 15:45:11",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            },
-            "1.0.0-beta17": {
-                "name": "drunomics/lupus-image",
-                "version": "1.0.0-beta17",
-                "version_normalized": "1.0.0.0-beta17",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "022cd2a952382bf9c8c028ffa4bfea8a81d5da16"
-                },
-                "time": "2019-08-07 18:06:42",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            },
-            "1.0.0-beta18": {
-                "name": "drunomics/lupus-image",
-                "version": "1.0.0-beta18",
-                "version_normalized": "1.0.0.0-beta18",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "e468dcb825bf5bbaedf59d02b768dc5fde9615c8"
-                },
-                "time": "2019-08-07 18:32:45",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Generate preview image.",
-                "keywords": [
-                    "drupal",
-                    "lupus-image"
-                ]
-            },
             "1.0.0-beta2": {
                 "name": "drunomics/lupus-image",
                 "version": "1.0.0-beta2",
@@ -3474,9 +3023,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "e60361ac74cf45144b962fa3db957323c6da4cb0"
+                    "reference": "905a4ec95adf68dc53fffc4d87ccab390281bc6b"
                 },
-                "time": "2019-08-07 18:32:45",
+                "time": "2019-08-02 08:26:18",
                 "type": "drupal-module",
                 "authors": [
                     {
