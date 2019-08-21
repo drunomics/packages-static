@@ -2881,7 +2881,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "1b1b35d83c0c9347d175c9b8c08104ed8d69cc09"
+                    "reference": "4e0f3cea257ef72f65a6f81ce6cdd7dfdc766713"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -2922,7 +2922,7 @@
                     "drupal/social_share": "^2.0@beta",
                     "drupal/views_ef_fieldset": "^1.4"
                 },
-                "time": "2019-08-20 13:08:12",
+                "time": "2019-08-21 11:46:52",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
