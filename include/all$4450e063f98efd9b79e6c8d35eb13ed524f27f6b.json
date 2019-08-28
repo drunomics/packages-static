@@ -4055,6 +4055,28 @@
                     "lupus-image"
                 ]
             },
+            "2.1.0": {
+                "name": "drunomics/lupus-image",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "fd0fffd88fef08a4553d2e514666117a228c32f3"
+                },
+                "time": "2019-08-28 18:52:56",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Generate preview image.",
+                "keywords": [
+                    "drupal",
+                    "lupus-image"
+                ]
+            },
             "2.x-dev": {
                 "name": "drunomics/lupus-image",
                 "version": "2.x-dev",
@@ -4062,9 +4084,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/lupus-image.git",
-                    "reference": "d1aff72c5d7dc89224c497094d59b0c84f34c375"
+                    "reference": "fd0fffd88fef08a4553d2e514666117a228c32f3"
                 },
-                "time": "2019-08-28 12:50:37",
+                "time": "2019-08-28 18:52:56",
                 "type": "drupal-module",
                 "authors": [
                     {
