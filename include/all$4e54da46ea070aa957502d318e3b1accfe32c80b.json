@@ -118,9 +118,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/content_snippet.git",
-                    "reference": "b9980bec7bd24004af47a38291827ce8f8923ac8"
+                    "reference": "735522604d986778ab9865860c612508c6a62d2b"
                 },
-                "time": "2019-10-03 11:48:56",
+                "time": "2019-10-04 11:43:24",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -3197,7 +3197,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "1d2ac5fdc8b0f6ec83e868ba493c375724bb7a7a"
+                    "reference": "336728a69f379243ef0ca673eb6432f5af0ffb6d"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -3244,7 +3244,7 @@
                     "drupal/varnish_purge": "^1.11",
                     "drupal/views_ef_fieldset": "^1.4"
                 },
-                "time": "2019-10-02 15:08:09",
+                "time": "2019-10-03 14:36:46",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
