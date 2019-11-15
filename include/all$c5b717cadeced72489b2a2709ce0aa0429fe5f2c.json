@@ -3269,7 +3269,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "6b2cf38e055d392d3d8c623b4de7fd8a3d12d58e"
+                    "reference": "82312f87e960ac23dd761d9469afe7f115c7c748"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -3316,7 +3316,7 @@
                     "drupal/varnish_purge": "^1.11",
                     "drupal/views_ef_fieldset": "^1.4"
                 },
-                "time": "2019-10-31 11:53:52",
+                "time": "2019-11-15 20:47:21",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -4636,7 +4636,6 @@
                 },
                 "time": "2019-04-16 12:27:23",
                 "type": "drupal-module",
-                "notification-url": "https://packagist.org/downloads/",
                 "authors": [
                     {
                         "name": "drunomics GmbH"
@@ -4645,7 +4644,11 @@
                 "description": "Exclude previously rendered entities.",
                 "keywords": [
                     "drupal"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/drunomics/views_exclude_previous/tree/1.0.0",
+                    "issues": "https://github.com/drunomics/views_exclude_previous/issues"
+                }
             },
             "1.x-dev": {
                 "name": "drunomics/views_exclude_previous",
@@ -4664,7 +4667,6 @@
                 },
                 "time": "2019-04-16 12:27:23",
                 "type": "drupal-module",
-                "notification-url": "https://packagist.org/downloads/",
                 "authors": [
                     {
                         "name": "drunomics GmbH"
@@ -4673,7 +4675,11 @@
                 "description": "Exclude previously rendered entities.",
                 "keywords": [
                     "drupal"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/drunomics/views_exclude_previous/tree/1.0.0",
+                    "issues": "https://github.com/drunomics/views_exclude_previous/issues"
+                }
             }
         },
         "drunomics/wv_entity_disable_administration": {
