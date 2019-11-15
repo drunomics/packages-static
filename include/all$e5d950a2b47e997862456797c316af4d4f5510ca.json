@@ -111,6 +111,78 @@
             }
         },
         "drunomics/content_snippet": {
+            "1.0.0": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/content_snippet.git",
+                    "reference": "e098b74a7a86284052e054724bc07d7126625fe7"
+                },
+                "time": "2019-10-07 13:28:16",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content.."
+            },
+            "1.0.1": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/content_snippet.git",
+                    "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11"
+                },
+                "time": "2019-10-09 15:50:27",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content.."
+            },
+            "1.0.2": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/content_snippet.git",
+                    "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6"
+                },
+                "time": "2019-10-10 07:53:19",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content.."
+            },
+            "1.0.3": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/content_snippet.git",
+                    "reference": "c40f4716c905bda62966bf9bf232674b0011b300"
+                },
+                "time": "2019-10-10 14:47:50",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content.."
+            },
             "1.x-dev": {
                 "name": "drunomics/content_snippet",
                 "version": "1.x-dev",
@@ -118,9 +190,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/content_snippet.git",
-                    "reference": "b9980bec7bd24004af47a38291827ce8f8923ac8"
+                    "reference": "c40f4716c905bda62966bf9bf232674b0011b300"
                 },
-                "time": "2019-10-03 11:48:56",
+                "time": "2019-10-10 14:47:50",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -1828,12 +1900,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-advertorial.git",
-                    "reference": "ac621b6fbf8811e76b3cabcc10a2ef60a4ccce45"
+                    "reference": "842722b986d7d3e34646731184adb76186e51776"
                 },
                 "require": {
                     "drunomics/advertorial": "^1.0"
                 },
-                "time": "2019-10-02 13:35:10",
+                "time": "2019-10-08 18:32:27",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -3197,7 +3269,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "1d2ac5fdc8b0f6ec83e868ba493c375724bb7a7a"
+                    "reference": "6b2cf38e055d392d3d8c623b4de7fd8a3d12d58e"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -3244,7 +3316,7 @@
                     "drupal/varnish_purge": "^1.11",
                     "drupal/views_ef_fieldset": "^1.4"
                 },
-                "time": "2019-10-02 15:08:09",
+                "time": "2019-10-31 11:53:52",
                 "type": "drupal-module",
                 "extra": {
                     "patches": {
@@ -3686,12 +3758,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-issuu.git",
-                    "reference": "d434eba6a85e10fddaf89b5b975ef6de7224f9a3"
+                    "reference": "d2304996cd81c796573370a32ebe42bb92d292ac"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-10-03 07:45:31",
+                "time": "2019-10-10 14:34:10",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -3713,12 +3785,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-oewa.git",
-                    "reference": "69bf16b57b61233f8903ddf7551545daae6b3ce5"
+                    "reference": "32b1ccbfbac7a0612a03381b8358c2074de774e5"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
                 },
-                "time": "2019-06-04 13:55:04",
+                "time": "2019-10-08 18:33:59",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -3767,14 +3839,14 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-solr.git",
-                    "reference": "bef2799885ff2c6a1ca81b852901ba59c0286f4b"
+                    "reference": "7e6d2d11f93b5384d4c426b35162c82fdac3091a"
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@beta",
                     "drupal/search_api_autocomplete": "^1.2",
                     "drupal/search_api_solr": "^1.2"
                 },
-                "time": "2019-08-19 07:32:15",
+                "time": "2019-10-09 06:57:57",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -4608,6 +4680,29 @@
                     "source": "https://github.com/drunomics/views_exclude_previous/tree/1.0.0",
                     "issues": "https://github.com/drunomics/views_exclude_previous/issues"
                 }
+            }
+        },
+        "drunomics/wv_entity_disable_administration": {
+            "1.x-dev": {
+                "name": "drunomics/wv_entity_disable_administration",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:drunomics/wv_entity_disable_administration.git",
+                    "reference": "2e1975cc2aaf0a5fc3111daf60fd2b38456fa391"
+                },
+                "time": "2019-11-12 12:37:08",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Disable saving/editing entities on contentpool and satellite",
+                "keywords": [
+                    "drupal"
+                ]
             }
         }
     }
