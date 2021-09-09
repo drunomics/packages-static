@@ -12305,8 +12305,14 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
+                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
                     "reference": "17f63b2b627e2f223bd25db44f4289d0d5b1c02c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/17f63b2b627e2f223bd25db44f4289d0d5b1c02c",
+                    "reference": "17f63b2b627e2f223bd25db44f4289d0d5b1c02c",
+                    "shasum": ""
                 },
                 "time": "2019-06-27 12:58:59",
                 "type": "drupal-module",
@@ -12327,8 +12333,14 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
+                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
                     "reference": "82c11b44217396fec53a56b4f1bbcb2b92067d17"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/82c11b44217396fec53a56b4f1bbcb2b92067d17",
+                    "reference": "82c11b44217396fec53a56b4f1bbcb2b92067d17",
+                    "shasum": ""
                 },
                 "time": "2019-07-12 13:48:10",
                 "type": "drupal-module",
@@ -12349,8 +12361,14 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
+                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
                     "reference": "cbf7bf1a82ad319247db5cb8006475569b85c3e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/cbf7bf1a82ad319247db5cb8006475569b85c3e3",
+                    "reference": "cbf7bf1a82ad319247db5cb8006475569b85c3e3",
+                    "shasum": ""
                 },
                 "time": "2019-07-18 08:52:08",
                 "type": "drupal-module",
@@ -12371,8 +12389,14 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
+                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
                     "reference": "f68468a2c2ae8ee6626dbefe9253617eb5379278"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/f68468a2c2ae8ee6626dbefe9253617eb5379278",
+                    "reference": "f68468a2c2ae8ee6626dbefe9253617eb5379278",
+                    "shasum": ""
                 },
                 "time": "2021-03-03 11:06:04",
                 "type": "drupal-module",
@@ -12393,10 +12417,16 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
-                    "reference": "117eb213605bfb9b6222fda04df260c23f49fe44"
+                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
+                    "reference": "0b843ec576068efc9e61aea528b8eac31aa1b1f8"
                 },
-                "time": "2021-03-03 11:06:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/0b843ec576068efc9e61aea528b8eac31aa1b1f8",
+                    "reference": "0b843ec576068efc9e61aea528b8eac31aa1b1f8",
+                    "shasum": ""
+                },
+                "time": "2021-09-09 12:20:28",
                 "type": "drupal-module",
                 "authors": [
                     {
