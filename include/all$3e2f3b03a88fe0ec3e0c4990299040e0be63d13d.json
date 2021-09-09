@@ -12305,14 +12305,8 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
                     "reference": "17f63b2b627e2f223bd25db44f4289d0d5b1c02c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/17f63b2b627e2f223bd25db44f4289d0d5b1c02c",
-                    "reference": "17f63b2b627e2f223bd25db44f4289d0d5b1c02c",
-                    "shasum": ""
                 },
                 "time": "2019-06-27 12:58:59",
                 "type": "drupal-module",
@@ -12333,14 +12327,8 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
                     "reference": "82c11b44217396fec53a56b4f1bbcb2b92067d17"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/82c11b44217396fec53a56b4f1bbcb2b92067d17",
-                    "reference": "82c11b44217396fec53a56b4f1bbcb2b92067d17",
-                    "shasum": ""
                 },
                 "time": "2019-07-12 13:48:10",
                 "type": "drupal-module",
@@ -12361,14 +12349,8 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
                     "reference": "cbf7bf1a82ad319247db5cb8006475569b85c3e3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/cbf7bf1a82ad319247db5cb8006475569b85c3e3",
-                    "reference": "cbf7bf1a82ad319247db5cb8006475569b85c3e3",
-                    "shasum": ""
                 },
                 "time": "2019-07-18 08:52:08",
                 "type": "drupal-module",
@@ -12389,14 +12371,8 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
                     "reference": "f68468a2c2ae8ee6626dbefe9253617eb5379278"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/f68468a2c2ae8ee6626dbefe9253617eb5379278",
-                    "reference": "f68468a2c2ae8ee6626dbefe9253617eb5379278",
-                    "shasum": ""
                 },
                 "time": "2021-03-03 11:06:04",
                 "type": "drupal-module",
@@ -12417,16 +12393,10 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-ce-templates.git",
-                    "reference": "0b843ec576068efc9e61aea528b8eac31aa1b1f8"
+                    "url": "git@bitbucket.org:drunomics/lupus-ce-templates.git",
+                    "reference": "117eb213605bfb9b6222fda04df260c23f49fe44"
                 },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-ce-templates/zipball/0b843ec576068efc9e61aea528b8eac31aa1b1f8",
-                    "reference": "0b843ec576068efc9e61aea528b8eac31aa1b1f8",
-                    "shasum": ""
-                },
-                "time": "2021-09-09 12:20:28",
+                "time": "2021-03-03 11:06:04",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -12447,8 +12417,14 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "2a1163a61229bee7461c5b4450a9bfd24f3a8715"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/2a1163a61229bee7461c5b4450a9bfd24f3a8715",
+                    "reference": "2a1163a61229bee7461c5b4450a9bfd24f3a8715",
+                    "shasum": ""
                 },
                 "time": "2019-06-13 15:14:52",
                 "type": "drupal-module",
@@ -12469,8 +12445,14 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "ea78fd921386cfe0c4825484c54976b4e84db955"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/ea78fd921386cfe0c4825484c54976b4e84db955",
+                    "reference": "ea78fd921386cfe0c4825484c54976b4e84db955",
+                    "shasum": ""
                 },
                 "time": "2019-07-04 09:43:13",
                 "type": "drupal-module",
@@ -12491,8 +12473,14 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "38fa5a917329784d4fdf7b8eb53ee8253eb4f764"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/38fa5a917329784d4fdf7b8eb53ee8253eb4f764",
+                    "reference": "38fa5a917329784d4fdf7b8eb53ee8253eb4f764",
+                    "shasum": ""
                 },
                 "time": "2019-07-16 07:50:03",
                 "type": "drupal-module",
@@ -12513,8 +12501,14 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "7b899242e77506ddb8766cccb2dbd42984cd4f58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/7b899242e77506ddb8766cccb2dbd42984cd4f58",
+                    "reference": "7b899242e77506ddb8766cccb2dbd42984cd4f58",
+                    "shasum": ""
                 },
                 "time": "2020-06-04 10:14:36",
                 "type": "drupal-module",
@@ -12535,8 +12529,14 @@
                 "version_normalized": "1.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "2f3da9554bddb1a9e38a30ef168c50264bb76416"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/2f3da9554bddb1a9e38a30ef168c50264bb76416",
+                    "reference": "2f3da9554bddb1a9e38a30ef168c50264bb76416",
+                    "shasum": ""
                 },
                 "time": "2021-03-03 11:06:08",
                 "type": "drupal-module",
@@ -12557,8 +12557,14 @@
                 "version_normalized": "1.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "9432ea66809c8e46c08681ed70ce3be1f0bc81c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/9432ea66809c8e46c08681ed70ce3be1f0bc81c5",
+                    "reference": "9432ea66809c8e46c08681ed70ce3be1f0bc81c5",
+                    "shasum": ""
                 },
                 "time": "2021-08-24 09:59:44",
                 "type": "drupal-module",
@@ -12579,8 +12585,14 @@
                 "version_normalized": "1.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
                     "reference": "c729dc41fafcf132f68b376ce9787b7374b46a02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/c729dc41fafcf132f68b376ce9787b7374b46a02",
+                    "reference": "c729dc41fafcf132f68b376ce9787b7374b46a02",
+                    "shasum": ""
                 },
                 "time": "2021-08-24 13:26:05",
                 "type": "drupal-module",
@@ -12601,10 +12613,16 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/lupus-extlink.git",
-                    "reference": "4ada3da17423f2dabe01a5eae54e2d16dc072dc8"
+                    "url": "git@github.com:drunomics/module-lupus-extlink.git",
+                    "reference": "f175c5f6f8679c7b837de24b48b199bae9f3d840"
                 },
-                "time": "2021-09-03 12:04:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-lupus-extlink/zipball/f175c5f6f8679c7b837de24b48b199bae9f3d840",
+                    "reference": "f175c5f6f8679c7b837de24b48b199bae9f3d840",
+                    "shasum": ""
+                },
+                "time": "2021-09-02 13:39:08",
                 "type": "drupal-module",
                 "authors": [
                     {
