@@ -8199,7 +8199,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "f3fb93a3af25b49f0e4428528be1da7f49350101"
+                    "reference": "270ddd3a5c962944575b8a22348bf36f3e490dd5"
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8.7",
@@ -8264,7 +8264,7 @@
                     "npm-asset/feather-icons": "^4.28.0",
                     "thunder/thunder-distribution": "6.1.*"
                 },
-                "time": "2021-09-14 10:30:17",
+                "time": "2021-09-06 12:04:00",
                 "type": "drupal-module",
                 "extra": {
                     "drunomics/ldp-core-version": "21.3.*",
@@ -12673,14 +12673,8 @@
                 "version_normalized": "1.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "6927e534ee58c8f52b3176d3d8f40ece462c12e8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/6927e534ee58c8f52b3176d3d8f40ece462c12e8",
-                    "reference": "6927e534ee58c8f52b3176d3d8f40ece462c12e8",
-                    "shasum": ""
                 },
                 "time": "2019-05-21 17:51:13",
                 "type": "drupal-module",
@@ -12701,14 +12695,8 @@
                 "version_normalized": "1.0.0.0-beta10",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "9b94510ce4ee02e42532e178dd6e56fddf3ad736"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/9b94510ce4ee02e42532e178dd6e56fddf3ad736",
-                    "reference": "9b94510ce4ee02e42532e178dd6e56fddf3ad736",
-                    "shasum": ""
                 },
                 "time": "2019-08-01 08:53:56",
                 "type": "drupal-module",
@@ -12729,14 +12717,8 @@
                 "version_normalized": "1.0.0.0-beta11",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "085d08d8a603a431e970137a4c7005531d359b8e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/085d08d8a603a431e970137a4c7005531d359b8e",
-                    "reference": "085d08d8a603a431e970137a4c7005531d359b8e",
-                    "shasum": ""
                 },
                 "time": "2019-08-01 17:24:56",
                 "type": "drupal-module",
@@ -12757,14 +12739,8 @@
                 "version_normalized": "1.0.0.0-beta12",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "9de186e479210b8b26cc41cc25a4b0e85eaf14c7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/9de186e479210b8b26cc41cc25a4b0e85eaf14c7",
-                    "reference": "9de186e479210b8b26cc41cc25a4b0e85eaf14c7",
-                    "shasum": ""
                 },
                 "time": "2019-08-02 08:26:18",
                 "type": "drupal-module",
@@ -12785,14 +12761,8 @@
                 "version_normalized": "1.0.0.0-beta13",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "5e3c0f0ca39f62e6cdad12adf7de4df4e84bfdfb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/5e3c0f0ca39f62e6cdad12adf7de4df4e84bfdfb",
-                    "reference": "5e3c0f0ca39f62e6cdad12adf7de4df4e84bfdfb",
-                    "shasum": ""
                 },
                 "time": "2019-08-06 08:34:09",
                 "type": "drupal-module",
@@ -12813,14 +12783,8 @@
                 "version_normalized": "1.0.0.0-beta14",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "52f40ff0e0c3579bafd51e135d7be7371142a366"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/52f40ff0e0c3579bafd51e135d7be7371142a366",
-                    "reference": "52f40ff0e0c3579bafd51e135d7be7371142a366",
-                    "shasum": ""
                 },
                 "time": "2019-08-06 20:46:22",
                 "type": "drupal-module",
@@ -12841,14 +12805,8 @@
                 "version_normalized": "1.0.0.0-beta15",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "169a78383ba36b752e533d3ff2d99a1aed1da7bf"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/169a78383ba36b752e533d3ff2d99a1aed1da7bf",
-                    "reference": "169a78383ba36b752e533d3ff2d99a1aed1da7bf",
-                    "shasum": ""
                 },
                 "time": "2019-08-07 13:17:14",
                 "type": "drupal-module",
@@ -12869,14 +12827,8 @@
                 "version_normalized": "1.0.0.0-beta16",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "faa558cf68fa0af4996e56dc15a739047b17f4d0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/faa558cf68fa0af4996e56dc15a739047b17f4d0",
-                    "reference": "faa558cf68fa0af4996e56dc15a739047b17f4d0",
-                    "shasum": ""
                 },
                 "time": "2019-08-07 15:45:11",
                 "type": "drupal-module",
@@ -12897,14 +12849,8 @@
                 "version_normalized": "1.0.0.0-beta17",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "022cd2a952382bf9c8c028ffa4bfea8a81d5da16"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/022cd2a952382bf9c8c028ffa4bfea8a81d5da16",
-                    "reference": "022cd2a952382bf9c8c028ffa4bfea8a81d5da16",
-                    "shasum": ""
                 },
                 "time": "2019-08-07 18:06:42",
                 "type": "drupal-module",
@@ -12925,14 +12871,8 @@
                 "version_normalized": "1.0.0.0-beta18",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "e468dcb825bf5bbaedf59d02b768dc5fde9615c8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/e468dcb825bf5bbaedf59d02b768dc5fde9615c8",
-                    "reference": "e468dcb825bf5bbaedf59d02b768dc5fde9615c8",
-                    "shasum": ""
                 },
                 "time": "2019-08-07 18:32:45",
                 "type": "drupal-module",
@@ -12953,14 +12893,8 @@
                 "version_normalized": "1.0.0.0-beta19",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "350545abc60306f5f72123c45d5ede387d7cd0ba"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/350545abc60306f5f72123c45d5ede387d7cd0ba",
-                    "reference": "350545abc60306f5f72123c45d5ede387d7cd0ba",
-                    "shasum": ""
                 },
                 "time": "2019-08-16 07:36:37",
                 "type": "drupal-module",
@@ -12981,14 +12915,8 @@
                 "version_normalized": "1.0.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "85384d78a4ff0d9b7e03d910fd38dc375ee9f457"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/85384d78a4ff0d9b7e03d910fd38dc375ee9f457",
-                    "reference": "85384d78a4ff0d9b7e03d910fd38dc375ee9f457",
-                    "shasum": ""
                 },
                 "time": "2019-06-11 19:16:08",
                 "type": "drupal-module",
@@ -13009,14 +12937,8 @@
                 "version_normalized": "1.0.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "0574b0fbf2c00afa7cb28727d307decf2ab5abfa"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/0574b0fbf2c00afa7cb28727d307decf2ab5abfa",
-                    "reference": "0574b0fbf2c00afa7cb28727d307decf2ab5abfa",
-                    "shasum": ""
                 },
                 "time": "2019-07-04 11:56:59",
                 "type": "drupal-module",
@@ -13037,14 +12959,8 @@
                 "version_normalized": "1.0.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "f2fcf0c7e5a45ac08a42f2ccab796d17ad645908"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/f2fcf0c7e5a45ac08a42f2ccab796d17ad645908",
-                    "reference": "f2fcf0c7e5a45ac08a42f2ccab796d17ad645908",
-                    "shasum": ""
                 },
                 "time": "2019-07-08 13:47:40",
                 "type": "drupal-module",
@@ -13065,14 +12981,8 @@
                 "version_normalized": "1.0.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "8b28b7988e0a75c7554d4c654217d193b7fb4670"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/8b28b7988e0a75c7554d4c654217d193b7fb4670",
-                    "reference": "8b28b7988e0a75c7554d4c654217d193b7fb4670",
-                    "shasum": ""
                 },
                 "time": "2019-07-09 12:35:06",
                 "type": "drupal-module",
@@ -13093,14 +13003,8 @@
                 "version_normalized": "1.0.0.0-beta6",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "99a3f6bfa686d6532be7c42e4c33716484f277c0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/99a3f6bfa686d6532be7c42e4c33716484f277c0",
-                    "reference": "99a3f6bfa686d6532be7c42e4c33716484f277c0",
-                    "shasum": ""
                 },
                 "time": "2019-07-26 07:00:04",
                 "type": "drupal-module",
@@ -13121,14 +13025,8 @@
                 "version_normalized": "1.0.0.0-beta7",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "5acdd8bd9dec28d95058870158f269491bf13df9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/5acdd8bd9dec28d95058870158f269491bf13df9",
-                    "reference": "5acdd8bd9dec28d95058870158f269491bf13df9",
-                    "shasum": ""
                 },
                 "time": "2019-07-31 11:49:27",
                 "type": "drupal-module",
@@ -13149,14 +13047,8 @@
                 "version_normalized": "1.0.0.0-beta8",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "55d31d637781143670478e98a18e12b636eaa607"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/55d31d637781143670478e98a18e12b636eaa607",
-                    "reference": "55d31d637781143670478e98a18e12b636eaa607",
-                    "shasum": ""
                 },
                 "time": "2019-07-31 15:22:42",
                 "type": "drupal-module",
@@ -13177,14 +13069,8 @@
                 "version_normalized": "1.0.0.0-beta9",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "dbab10d9b0936299a2a61853b98a5e55af755900"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/dbab10d9b0936299a2a61853b98a5e55af755900",
-                    "reference": "dbab10d9b0936299a2a61853b98a5e55af755900",
-                    "shasum": ""
                 },
                 "time": "2019-07-31 15:58:43",
                 "type": "drupal-module",
@@ -13205,16 +13091,10 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
-                    "reference": "60045bef2e5756575a1a3f1a78be7c076614c762"
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "f4d46c84c46c15de782969c09994d0a2c79b6d6c"
                 },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/60045bef2e5756575a1a3f1a78be7c076614c762",
-                    "reference": "60045bef2e5756575a1a3f1a78be7c076614c762",
-                    "shasum": ""
-                },
-                "time": "2021-09-15 12:53:27",
+                "time": "2019-08-16 07:36:37",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -13233,14 +13113,8 @@
                 "version_normalized": "2.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "d1aff72c5d7dc89224c497094d59b0c84f34c375"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/d1aff72c5d7dc89224c497094d59b0c84f34c375",
-                    "reference": "d1aff72c5d7dc89224c497094d59b0c84f34c375",
-                    "shasum": ""
                 },
                 "time": "2019-08-28 12:50:37",
                 "type": "drupal-module",
@@ -13261,14 +13135,8 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "fd0fffd88fef08a4553d2e514666117a228c32f3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/fd0fffd88fef08a4553d2e514666117a228c32f3",
-                    "reference": "fd0fffd88fef08a4553d2e514666117a228c32f3",
-                    "shasum": ""
                 },
                 "time": "2019-08-28 18:52:56",
                 "type": "drupal-module",
@@ -13289,14 +13157,8 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "e57ca31966ab35cab439e8139de4cfd5cb6a1cd5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/e57ca31966ab35cab439e8139de4cfd5cb6a1cd5",
-                    "reference": "e57ca31966ab35cab439e8139de4cfd5cb6a1cd5",
-                    "shasum": ""
                 },
                 "time": "2019-09-05 09:53:14",
                 "type": "drupal-module",
@@ -13317,14 +13179,8 @@
                 "version_normalized": "2.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "d73bc03005b94de56f1efd7a0e1d14eff253222b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/d73bc03005b94de56f1efd7a0e1d14eff253222b",
-                    "reference": "d73bc03005b94de56f1efd7a0e1d14eff253222b",
-                    "shasum": ""
                 },
                 "time": "2019-11-25 09:11:18",
                 "type": "drupal-module",
@@ -13345,16 +13201,10 @@
                 "version_normalized": "2.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
-                    "reference": "7248663633237647ca1d795d4ade744b8cd89c1f"
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "8dc24fd426eecbf7408fa8fb764537056d69b3bf"
                 },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/7248663633237647ca1d795d4ade744b8cd89c1f",
-                    "reference": "7248663633237647ca1d795d4ade744b8cd89c1f",
-                    "shasum": ""
-                },
-                "time": "2021-09-15 12:53:05",
+                "time": "2019-11-25 09:11:18",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -13373,14 +13223,8 @@
                 "version_normalized": "3.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "06e22e33a111f114a3b25797d63fe0acf96afb21"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/06e22e33a111f114a3b25797d63fe0acf96afb21",
-                    "reference": "06e22e33a111f114a3b25797d63fe0acf96afb21",
-                    "shasum": ""
                 },
                 "time": "2020-01-10 10:28:41",
                 "type": "drupal-module",
@@ -13401,14 +13245,8 @@
                 "version_normalized": "3.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "6f3cf8571999a20ef94eb98f0bd389833e65efcb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/6f3cf8571999a20ef94eb98f0bd389833e65efcb",
-                    "reference": "6f3cf8571999a20ef94eb98f0bd389833e65efcb",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13433,14 +13271,8 @@
                 "version_normalized": "3.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "62be8ca18ef4e0a782881077e172e1ea11984f32"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/62be8ca18ef4e0a782881077e172e1ea11984f32",
-                    "reference": "62be8ca18ef4e0a782881077e172e1ea11984f32",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13465,14 +13297,8 @@
                 "version_normalized": "3.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "71e00a5c5af4d7b5a635c6dce4a2cc93eb4fd976"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/71e00a5c5af4d7b5a635c6dce4a2cc93eb4fd976",
-                    "reference": "71e00a5c5af4d7b5a635c6dce4a2cc93eb4fd976",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13497,14 +13323,8 @@
                 "version_normalized": "3.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "5e8ba20fbb761f13d1980eaf2735701c39ee5120"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/5e8ba20fbb761f13d1980eaf2735701c39ee5120",
-                    "reference": "5e8ba20fbb761f13d1980eaf2735701c39ee5120",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13529,14 +13349,8 @@
                 "version_normalized": "3.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "3d510a96e96bd1494541a0f10052edf3e1d2c2e1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/3d510a96e96bd1494541a0f10052edf3e1d2c2e1",
-                    "reference": "3d510a96e96bd1494541a0f10052edf3e1d2c2e1",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13561,14 +13375,8 @@
                 "version_normalized": "3.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "a7cb0ec92a2be4b98de50729519d86e4cd41e026"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/a7cb0ec92a2be4b98de50729519d86e4cd41e026",
-                    "reference": "a7cb0ec92a2be4b98de50729519d86e4cd41e026",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13593,14 +13401,8 @@
                 "version_normalized": "3.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "b66aaddfbb9e6a485dd3cc90908dc5904c444379"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/b66aaddfbb9e6a485dd3cc90908dc5904c444379",
-                    "reference": "b66aaddfbb9e6a485dd3cc90908dc5904c444379",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13625,14 +13427,8 @@
                 "version_normalized": "3.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "76dbf25ac834bbd5f9637b81cc91d73c7e38d168"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/76dbf25ac834bbd5f9637b81cc91d73c7e38d168",
-                    "reference": "76dbf25ac834bbd5f9637b81cc91d73c7e38d168",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13657,14 +13453,8 @@
                 "version_normalized": "3.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "6f793b7a1e72eda3053bb7d856d673a2b8d303a9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/6f793b7a1e72eda3053bb7d856d673a2b8d303a9",
-                    "reference": "6f793b7a1e72eda3053bb7d856d673a2b8d303a9",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13689,14 +13479,8 @@
                 "version_normalized": "3.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
                     "reference": "bf99440a6084b68bd59ece68c4ca2645e6d54943"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/bf99440a6084b68bd59ece68c4ca2645e6d54943",
-                    "reference": "bf99440a6084b68bd59ece68c4ca2645e6d54943",
-                    "shasum": ""
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
@@ -13721,20 +13505,14 @@
                 "version_normalized": "3.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-lupus-image.git",
-                    "reference": "e160ea5455fd28007dc3f5e51bc7ded2eb9123ff"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-lupus-image/zipball/e160ea5455fd28007dc3f5e51bc7ded2eb9123ff",
-                    "reference": "e160ea5455fd28007dc3f5e51bc7ded2eb9123ff",
-                    "shasum": ""
+                    "url": "git@bitbucket.org:drunomics/lupus-image.git",
+                    "reference": "892acdd1a89bf13b7426a6653761d278f89e3c94"
                 },
                 "require": {
                     "drupal/file_mdm": "^2.1",
                     "drupal/pcb": "^2.2"
                 },
-                "time": "2021-09-15 12:52:20",
+                "time": "2021-08-20 12:01:59",
                 "type": "drupal-module",
                 "authors": [
                     {
