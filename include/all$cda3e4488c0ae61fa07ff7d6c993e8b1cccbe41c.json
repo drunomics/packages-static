@@ -49,12 +49,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "7811f960a143cd964b141ada107d826b3aa5f36b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/7811f960a143cd964b141ada107d826b3aa5f36b",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/7811f960a143cd964b141ada107d826b3aa5f36b",
                     "reference": "7811f960a143cd964b141ada107d826b3aa5f36b",
                     "shasum": ""
                 },
@@ -77,12 +77,12 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "eb5e2fdeea06d7ffbddcb2419459401abdf59e0f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/eb5e2fdeea06d7ffbddcb2419459401abdf59e0f",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/eb5e2fdeea06d7ffbddcb2419459401abdf59e0f",
                     "reference": "eb5e2fdeea06d7ffbddcb2419459401abdf59e0f",
                     "shasum": ""
                 },
@@ -105,12 +105,12 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "d739085cea0560d8b283129cd82a39a6eebd2ddd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/d739085cea0560d8b283129cd82a39a6eebd2ddd",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/d739085cea0560d8b283129cd82a39a6eebd2ddd",
                     "reference": "d739085cea0560d8b283129cd82a39a6eebd2ddd",
                     "shasum": ""
                 },
@@ -133,12 +133,12 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "2f6908797ed200bdb93b3ea40d05a80d39b956b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/2f6908797ed200bdb93b3ea40d05a80d39b956b3",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/2f6908797ed200bdb93b3ea40d05a80d39b956b3",
                     "reference": "2f6908797ed200bdb93b3ea40d05a80d39b956b3",
                     "shasum": ""
                 },
@@ -161,12 +161,12 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "71126fb5b22d5fbbfd191d74b34d9ffcdd7c5277"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/71126fb5b22d5fbbfd191d74b34d9ffcdd7c5277",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/71126fb5b22d5fbbfd191d74b34d9ffcdd7c5277",
                     "reference": "71126fb5b22d5fbbfd191d74b34d9ffcdd7c5277",
                     "shasum": ""
                 },
@@ -189,12 +189,12 @@
                 "version_normalized": "1.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "f4db22129af1776d50f6f71fcafab8c09e97d21b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/f4db22129af1776d50f6f71fcafab8c09e97d21b",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/f4db22129af1776d50f6f71fcafab8c09e97d21b",
                     "reference": "f4db22129af1776d50f6f71fcafab8c09e97d21b",
                     "shasum": ""
                 },
@@ -217,12 +217,12 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "230f6e79c6cc0a65936a36f2a9935c2a6a084ca8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/230f6e79c6cc0a65936a36f2a9935c2a6a084ca8",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/230f6e79c6cc0a65936a36f2a9935c2a6a084ca8",
                     "reference": "230f6e79c6cc0a65936a36f2a9935c2a6a084ca8",
                     "shasum": ""
                 },
@@ -245,12 +245,12 @@
                 "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "523f0599edbafcc93a870aeb5e6098d3920a673d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/523f0599edbafcc93a870aeb5e6098d3920a673d",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/523f0599edbafcc93a870aeb5e6098d3920a673d",
                     "reference": "523f0599edbafcc93a870aeb5e6098d3920a673d",
                     "shasum": ""
                 },
@@ -273,12 +273,12 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/advertorial.git",
+                    "url": "git@github.com:drunomics/module-advertorial.git",
                     "reference": "e839a481d105963a39c5b1da554a9aa371df93c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/advertorial/zipball/e839a481d105963a39c5b1da554a9aa371df93c2",
+                    "url": "https://api.github.com/repos/drunomics/module-advertorial/zipball/e839a481d105963a39c5b1da554a9aa371df93c2",
                     "reference": "e839a481d105963a39c5b1da554a9aa371df93c2",
                     "shasum": ""
                 },
@@ -1246,8 +1246,14 @@
                 "version_normalized": "1.0.0.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1276,8 +1282,14 @@
                 "version_normalized": "1.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1306,8 +1318,14 @@
                 "version_normalized": "1.0.0.0-beta10",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1336,8 +1354,14 @@
                 "version_normalized": "1.0.0.0-beta11",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1366,8 +1390,14 @@
                 "version_normalized": "1.0.0.0-beta12",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1396,8 +1426,14 @@
                 "version_normalized": "1.0.0.0-beta13",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1426,8 +1462,14 @@
                 "version_normalized": "1.0.0.0-beta14",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1456,8 +1498,14 @@
                 "version_normalized": "1.0.0.0-beta15",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1486,8 +1534,14 @@
                 "version_normalized": "1.0.0.0-beta16",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1516,8 +1570,14 @@
                 "version_normalized": "1.0.0.0-beta17",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1546,8 +1606,14 @@
                 "version_normalized": "1.0.0.0-beta18",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "00b831f5cc5a2dbfa91f1e7f4a9aea62ed9b4400"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/00b831f5cc5a2dbfa91f1e7f4a9aea62ed9b4400",
+                    "reference": "00b831f5cc5a2dbfa91f1e7f4a9aea62ed9b4400",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "1.0.0-beta18"
@@ -1576,8 +1642,14 @@
                 "version_normalized": "1.0.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1606,8 +1678,14 @@
                 "version_normalized": "1.0.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1636,8 +1714,14 @@
                 "version_normalized": "1.0.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1666,8 +1750,14 @@
                 "version_normalized": "1.0.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1696,8 +1786,14 @@
                 "version_normalized": "1.0.0.0-beta8",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1726,8 +1822,14 @@
                 "version_normalized": "1.0.0.0-beta9",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "reference": "e70345654b0749db5c69f3446df168d7e2e0edfe",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1756,8 +1858,14 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "67a69787a83e5155964e53bb607259bffca42473"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/67a69787a83e5155964e53bb607259bffca42473",
+                    "reference": "67a69787a83e5155964e53bb607259bffca42473",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1786,8 +1894,14 @@
                 "version_normalized": "1.0.1.0-RC2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "cf41f6af32e6e69786de501f2a899d23e096fe07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/cf41f6af32e6e69786de501f2a899d23e096fe07",
+                    "reference": "cf41f6af32e6e69786de501f2a899d23e096fe07",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1816,8 +1930,14 @@
                 "version_normalized": "1.0.1.0-RC3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "cf41f6af32e6e69786de501f2a899d23e096fe07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/cf41f6af32e6e69786de501f2a899d23e096fe07",
+                    "reference": "cf41f6af32e6e69786de501f2a899d23e096fe07",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1846,8 +1966,14 @@
                 "version_normalized": "1.0.1.0-RC4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e29265ae1d7f801c10ecdbb431e7b9fd198fe0bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e29265ae1d7f801c10ecdbb431e7b9fd198fe0bf",
+                    "reference": "e29265ae1d7f801c10ecdbb431e7b9fd198fe0bf",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1876,8 +2002,14 @@
                 "version_normalized": "1.0.1.0-RC5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "e29265ae1d7f801c10ecdbb431e7b9fd198fe0bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/e29265ae1d7f801c10ecdbb431e7b9fd198fe0bf",
+                    "reference": "e29265ae1d7f801c10ecdbb431e7b9fd198fe0bf",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1906,8 +2038,14 @@
                 "version_normalized": "1.0.1.0-RC6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "67a69787a83e5155964e53bb607259bffca42473"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/67a69787a83e5155964e53bb607259bffca42473",
+                    "reference": "67a69787a83e5155964e53bb607259bffca42473",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -1936,8 +2074,14 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "b793061a19b3eee36bb4e13789a363118c7515cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "reference": "b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -1966,8 +2110,14 @@
                 "version_normalized": "20.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "a10842623f03174efe801d8f9265c1f1f7134928"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/a10842623f03174efe801d8f9265c1f1f7134928",
+                    "reference": "a10842623f03174efe801d8f9265c1f1f7134928",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -1996,8 +2146,14 @@
                 "version_normalized": "20.3.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "f63fa5c83810477aa962094fb8ec0e76c5c0b950"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/f63fa5c83810477aa962094fb8ec0e76c5c0b950",
+                    "reference": "f63fa5c83810477aa962094fb8ec0e76c5c0b950",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -2026,8 +2182,14 @@
                 "version_normalized": "20.3.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "70a7a5d9750983fd0b3f1090066ebe913940ed60"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/70a7a5d9750983fd0b3f1090066ebe913940ed60",
+                    "reference": "70a7a5d9750983fd0b3f1090066ebe913940ed60",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "^1.0@dev"
@@ -2056,8 +2218,14 @@
                 "version_normalized": "20.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "c6ce5aaea7d00a9d6871eed6d5fd98e3f577fbe1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/c6ce5aaea7d00a9d6871eed6d5fd98e3f577fbe1",
+                    "reference": "c6ce5aaea7d00a9d6871eed6d5fd98e3f577fbe1",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -2086,8 +2254,14 @@
                 "version_normalized": "20.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "b793061a19b3eee36bb4e13789a363118c7515cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "reference": "b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -2116,8 +2290,14 @@
                 "version_normalized": "20.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "b793061a19b3eee36bb4e13789a363118c7515cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "reference": "b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -2146,8 +2326,14 @@
                 "version_normalized": "20.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "b793061a19b3eee36bb4e13789a363118c7515cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "reference": "b793061a19b3eee36bb4e13789a363118c7515cf",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -2176,8 +2362,14 @@
                 "version_normalized": "20.3.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "febf70782bd04fd7e6a5eb73b75cfa7ec164146e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/febf70782bd04fd7e6a5eb73b75cfa7ec164146e",
+                    "reference": "febf70782bd04fd7e6a5eb73b75cfa7ec164146e",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.3.*"
@@ -2206,8 +2398,14 @@
                 "version_normalized": "20.4.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "3ecfbfa7565e814578e519a1769c1b244112d18d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/3ecfbfa7565e814578e519a1769c1b244112d18d",
+                    "reference": "3ecfbfa7565e814578e519a1769c1b244112d18d",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "20.4.*"
@@ -2236,8 +2434,14 @@
                 "version_normalized": "21.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2266,8 +2470,14 @@
                 "version_normalized": "21.1.0.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "c61f95cf13169920f822ee8e6bf6d2d03b399a14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/c61f95cf13169920f822ee8e6bf6d2d03b399a14",
+                    "reference": "c61f95cf13169920f822ee8e6bf6d2d03b399a14",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2296,8 +2506,14 @@
                 "version_normalized": "21.1.0.0-RC2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2326,8 +2542,14 @@
                 "version_normalized": "21.1.0.0-RC3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2356,8 +2578,14 @@
                 "version_normalized": "21.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "reference": "cce51ca82d9d70ea0b6e60d6e56b3ab21b4293f5",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2386,8 +2614,14 @@
                 "version_normalized": "21.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "3976d132399d1b948f3b316645cb898a7f3d0f7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/3976d132399d1b948f3b316645cb898a7f3d0f7f",
+                    "reference": "3976d132399d1b948f3b316645cb898a7f3d0f7f",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2416,8 +2650,14 @@
                 "version_normalized": "21.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
+                    "url": "git@github.com:drunomics/ldp.git",
                     "reference": "258c95281e6878cc9e25e4d0a6766b2310319376"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/258c95281e6878cc9e25e4d0a6766b2310319376",
+                    "reference": "258c95281e6878cc9e25e4d0a6766b2310319376",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
@@ -2446,13 +2686,19 @@
                 "version_normalized": "21.1.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "b5e01170ce2a988edaede59bb0c69192d8ad97ba"
+                    "url": "git@github.com:drunomics/ldp.git",
+                    "reference": "d3a6ceaa41a9990c4f23c8a1c28608be8c09dfc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/d3a6ceaa41a9990c4f23c8a1c28608be8c09dfc1",
+                    "reference": "d3a6ceaa41a9990c4f23c8a1c28608be8c09dfc1",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
                 },
-                "time": "2021-09-01 10:10:00",
+                "time": "2021-09-24 10:17:30",
                 "type": "drupal-profile",
                 "extra": {
                     "branch-alias": {
@@ -2476,13 +2722,19 @@
                 "version_normalized": "21.3.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp.git",
-                    "reference": "c96c82da132c2258b27ab9dd43adbcfea159bf20"
+                    "url": "git@github.com:drunomics/ldp.git",
+                    "reference": "6b84529c589d0e1a6bde9a8d4b3ab33eb55f6243"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/6b84529c589d0e1a6bde9a8d4b3ab33eb55f6243",
+                    "reference": "6b84529c589d0e1a6bde9a8d4b3ab33eb55f6243",
+                    "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.3.*"
                 },
-                "time": "2021-08-31 20:22:43",
+                "time": "2021-09-24 10:17:07",
                 "type": "drupal-profile",
                 "extra": {
                     "branch-alias": {
@@ -3727,19 +3979,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-advertorial.git",
-                    "reference": "b9737adeed5a7bfb42a6105e5352e5c1019b12f7"
+                    "reference": "b2d81306657e8f85de481f0641fb67d91fb4e37c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-advertorial/zipball/b9737adeed5a7bfb42a6105e5352e5c1019b12f7",
-                    "reference": "b9737adeed5a7bfb42a6105e5352e5c1019b12f7",
+                    "url": "https://api.github.com/repos/drunomics/ldp-advertorial/zipball/b2d81306657e8f85de481f0641fb67d91fb4e37c",
+                    "reference": "b2d81306657e8f85de481f0641fb67d91fb4e37c",
                     "shasum": ""
                 },
                 "require": {
                     "drunomics/advertorial": "^1.3.0",
                     "drunomics/ldp-core": "21.1.*"
                 },
-                "time": "2021-08-10 16:07:19",
+                "time": "2021-09-24 09:52:09",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -3762,19 +4014,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-advertorial.git",
-                    "reference": "31b01313b66f4c7714690b40608ea419678b9c57"
+                    "reference": "541eccfa24bd03c235c01235296bc9a3e6749d37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-advertorial/zipball/31b01313b66f4c7714690b40608ea419678b9c57",
-                    "reference": "31b01313b66f4c7714690b40608ea419678b9c57",
+                    "url": "https://api.github.com/repos/drunomics/ldp-advertorial/zipball/541eccfa24bd03c235c01235296bc9a3e6749d37",
+                    "reference": "541eccfa24bd03c235c01235296bc9a3e6749d37",
                     "shasum": ""
                 },
                 "require": {
                     "drunomics/advertorial": "^1.3.0",
                     "drunomics/ldp-core": "21.3.*"
                 },
-                "time": "2021-08-31 20:02:22",
+                "time": "2021-09-24 09:51:52",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -3798,8 +4050,14 @@
                 "version_normalized": "1.0.0.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "7cdb276ed99d8851af3fde8e19c30a406d49aa48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/7cdb276ed99d8851af3fde8e19c30a406d49aa48",
+                    "reference": "7cdb276ed99d8851af3fde8e19c30a406d49aa48",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -3898,8 +4156,14 @@
                 "version_normalized": "1.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "0f794e2674d03c9a4fe1f594a9cf450603065e7b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/0f794e2674d03c9a4fe1f594a9cf450603065e7b",
+                    "reference": "0f794e2674d03c9a4fe1f594a9cf450603065e7b",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -3972,8 +4236,14 @@
                 "version_normalized": "1.0.0.0-beta10",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "f2bf1f026569fc8f09a0009530874f0d03e5a497"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/f2bf1f026569fc8f09a0009530874f0d03e5a497",
+                    "reference": "f2bf1f026569fc8f09a0009530874f0d03e5a497",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4049,8 +4319,14 @@
                 "version_normalized": "1.0.0.0-beta11",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "7990dee5cd4ba9f8291605f15c1ce445e8a7d310"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/7990dee5cd4ba9f8291605f15c1ce445e8a7d310",
+                    "reference": "7990dee5cd4ba9f8291605f15c1ce445e8a7d310",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4127,8 +4403,14 @@
                 "version_normalized": "1.0.0.0-beta12",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "23de625006d0bd0746bd28820c57bdc5031424da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/23de625006d0bd0746bd28820c57bdc5031424da",
+                    "reference": "23de625006d0bd0746bd28820c57bdc5031424da",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4205,8 +4487,14 @@
                 "version_normalized": "1.0.0.0-beta13",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "ca6cc35b0bde08e7ecb858d73d9eb8f57a06b19f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/ca6cc35b0bde08e7ecb858d73d9eb8f57a06b19f",
+                    "reference": "ca6cc35b0bde08e7ecb858d73d9eb8f57a06b19f",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4284,8 +4572,14 @@
                 "version_normalized": "1.0.0.0-beta14",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "598d35976024276845bfc94c2462da8a273e0e12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/598d35976024276845bfc94c2462da8a273e0e12",
+                    "reference": "598d35976024276845bfc94c2462da8a273e0e12",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4363,8 +4657,14 @@
                 "version_normalized": "1.0.0.0-beta15",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "d24d830576d105ba6fc5b2279581a0bda1c19307"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/d24d830576d105ba6fc5b2279581a0bda1c19307",
+                    "reference": "d24d830576d105ba6fc5b2279581a0bda1c19307",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4446,8 +4746,14 @@
                 "version_normalized": "1.0.0.0-beta16",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "199c7a7aeeca30becd3ed5db42f85cb57f232f4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/199c7a7aeeca30becd3ed5db42f85cb57f232f4a",
+                    "reference": "199c7a7aeeca30becd3ed5db42f85cb57f232f4a",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4534,8 +4840,14 @@
                 "version_normalized": "1.0.0.0-beta17",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "1d2ac5fdc8b0f6ec83e868ba493c375724bb7a7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/1d2ac5fdc8b0f6ec83e868ba493c375724bb7a7a",
+                    "reference": "1d2ac5fdc8b0f6ec83e868ba493c375724bb7a7a",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4632,8 +4944,14 @@
                 "version_normalized": "1.0.0.0-beta18",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "9dfed05a25d2a016e78967d496d2c8ee3505d5ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/9dfed05a25d2a016e78967d496d2c8ee3505d5ed",
+                    "reference": "9dfed05a25d2a016e78967d496d2c8ee3505d5ed",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4730,8 +5048,14 @@
                 "version_normalized": "1.0.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "fdc9e4933ef5fec838b4004c82f8e469fa299a40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/fdc9e4933ef5fec838b4004c82f8e469fa299a40",
+                    "reference": "fdc9e4933ef5fec838b4004c82f8e469fa299a40",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4802,8 +5126,14 @@
                 "version_normalized": "1.0.0.0-beta3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "cb52a97567bf9c50717230133651bd8aa5594655"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/cb52a97567bf9c50717230133651bd8aa5594655",
+                    "reference": "cb52a97567bf9c50717230133651bd8aa5594655",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4876,8 +5206,14 @@
                 "version_normalized": "1.0.0.0-beta4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "e239aba75b61f752e5c88bb009edf77882cc1fcf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/e239aba75b61f752e5c88bb009edf77882cc1fcf",
+                    "reference": "e239aba75b61f752e5c88bb009edf77882cc1fcf",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -4953,8 +5289,14 @@
                 "version_normalized": "1.0.0.0-beta5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "4283d4d51b32dc2d7293fd85b305fc5fc7385851"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/4283d4d51b32dc2d7293fd85b305fc5fc7385851",
+                    "reference": "4283d4d51b32dc2d7293fd85b305fc5fc7385851",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5030,8 +5372,14 @@
                 "version_normalized": "1.0.0.0-beta6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "65db9b928ad88d89cd366d281c6b97200307e54b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/65db9b928ad88d89cd366d281c6b97200307e54b",
+                    "reference": "65db9b928ad88d89cd366d281c6b97200307e54b",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5107,8 +5455,14 @@
                 "version_normalized": "1.0.0.0-beta7",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "d14fcf5ee6dc1ac049d705559a16c8d455f2205b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/d14fcf5ee6dc1ac049d705559a16c8d455f2205b",
+                    "reference": "d14fcf5ee6dc1ac049d705559a16c8d455f2205b",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5184,8 +5538,14 @@
                 "version_normalized": "1.0.0.0-beta8",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "543556d26c37e7a0e455b55d55921f9235ff2e87"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/543556d26c37e7a0e455b55d55921f9235ff2e87",
+                    "reference": "543556d26c37e7a0e455b55d55921f9235ff2e87",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5261,8 +5621,14 @@
                 "version_normalized": "1.0.0.0-beta9",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "223124e6b5da3b87bafec799a3277a08e485982e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/223124e6b5da3b87bafec799a3277a08e485982e",
+                    "reference": "223124e6b5da3b87bafec799a3277a08e485982e",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5338,8 +5704,14 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "316061ee924e678b4f7a651cdf204892104b895e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/316061ee924e678b4f7a651cdf204892104b895e",
+                    "reference": "316061ee924e678b4f7a651cdf204892104b895e",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5449,8 +5821,14 @@
                 "version_normalized": "1.0.1.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "d9464dffc2b7c45963e6da966f2e6807eaaf2afd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/d9464dffc2b7c45963e6da966f2e6807eaaf2afd",
+                    "reference": "d9464dffc2b7c45963e6da966f2e6807eaaf2afd",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5548,8 +5926,14 @@
                 "version_normalized": "1.0.1.0-RC3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "a2dd7ba382bfef2165d6ff2ae59f6b2485773404"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/a2dd7ba382bfef2165d6ff2ae59f6b2485773404",
+                    "reference": "a2dd7ba382bfef2165d6ff2ae59f6b2485773404",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5648,8 +6032,14 @@
                 "version_normalized": "1.0.1.0-RC4",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "be37ae3f75a4b253b9893bef5f1aebb9cd318f75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/be37ae3f75a4b253b9893bef5f1aebb9cd318f75",
+                    "reference": "be37ae3f75a4b253b9893bef5f1aebb9cd318f75",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5760,8 +6150,14 @@
                 "version_normalized": "1.0.1.0-RC5",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "db32e08101a41282478817114721bafc00c68f4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/db32e08101a41282478817114721bafc00c68f4f",
+                    "reference": "db32e08101a41282478817114721bafc00c68f4f",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5872,8 +6268,14 @@
                 "version_normalized": "1.0.1.0-RC6",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "b4a68c1ec2cde1d1763dd69727c169b7da738bfa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/b4a68c1ec2cde1d1763dd69727c169b7da738bfa",
+                    "reference": "b4a68c1ec2cde1d1763dd69727c169b7da738bfa",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -5984,8 +6386,14 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "b0e9ce2c9268c0c6c468312b1b4fd616e5c89015"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/b0e9ce2c9268c0c6c468312b1b4fd616e5c89015",
+                    "reference": "b0e9ce2c9268c0c6c468312b1b4fd616e5c89015",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6092,8 +6500,14 @@
                 "version_normalized": "20.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "a1517653c8ad4eea79420b67d33b8813d0882ae8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/a1517653c8ad4eea79420b67d33b8813d0882ae8",
+                    "reference": "a1517653c8ad4eea79420b67d33b8813d0882ae8",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6199,8 +6613,14 @@
                 "version_normalized": "20.3.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "6795fdfef3b72bebebb624009caf8688681fdf15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/6795fdfef3b72bebebb624009caf8688681fdf15",
+                    "reference": "6795fdfef3b72bebebb624009caf8688681fdf15",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6312,8 +6732,14 @@
                 "version_normalized": "20.3.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "da489d67525aa4994b6b5792f25bf70a7d6a201b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/da489d67525aa4994b6b5792f25bf70a7d6a201b",
+                    "reference": "da489d67525aa4994b6b5792f25bf70a7d6a201b",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6425,8 +6851,14 @@
                 "version_normalized": "20.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "38f32b1bec42b4e7fcf5cf9777cbfbb838f87d1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/38f32b1bec42b4e7fcf5cf9777cbfbb838f87d1e",
+                    "reference": "38f32b1bec42b4e7fcf5cf9777cbfbb838f87d1e",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6532,8 +6964,14 @@
                 "version_normalized": "20.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "0b0ec4ac589e907b3b07ea5c5592486f5d4e7de4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/0b0ec4ac589e907b3b07ea5c5592486f5d4e7de4",
+                    "reference": "0b0ec4ac589e907b3b07ea5c5592486f5d4e7de4",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6640,8 +7078,14 @@
                 "version_normalized": "20.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "b0e9ce2c9268c0c6c468312b1b4fd616e5c89015"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/b0e9ce2c9268c0c6c468312b1b4fd616e5c89015",
+                    "reference": "b0e9ce2c9268c0c6c468312b1b4fd616e5c89015",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6748,8 +7192,14 @@
                 "version_normalized": "20.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "57c85421f42293e77b161b3226cd202e06f03344"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/57c85421f42293e77b161b3226cd202e06f03344",
+                    "reference": "57c85421f42293e77b161b3226cd202e06f03344",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6856,8 +7306,14 @@
                 "version_normalized": "20.3.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "fed213aafecee8d4c37fb19149b604c3e36de37d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/fed213aafecee8d4c37fb19149b604c3e36de37d",
+                    "reference": "fed213aafecee8d4c37fb19149b604c3e36de37d",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -6966,8 +7422,14 @@
                 "version_normalized": "20.4.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "90b80596d98936f4e7d912ab6a04b85dbfa6f290"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/90b80596d98936f4e7d912ab6a04b85dbfa6f290",
+                    "reference": "90b80596d98936f4e7d912ab6a04b85dbfa6f290",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -7086,8 +7548,14 @@
                 "version_normalized": "21.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "2f6a59b81999156edbc07d2a20782466093c40ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/2f6a59b81999156edbc07d2a20782466093c40ca",
+                    "reference": "2f6a59b81999156edbc07d2a20782466093c40ca",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -7222,8 +7690,14 @@
                 "version_normalized": "21.1.0.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "ba9c18ceb2a20d04e3712bf113c660b49079da4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/ba9c18ceb2a20d04e3712bf113c660b49079da4f",
+                    "reference": "ba9c18ceb2a20d04e3712bf113c660b49079da4f",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -7356,8 +7830,14 @@
                 "version_normalized": "21.1.0.0-RC2",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "71ab2d461b3fd5b02f316ae44953d15e9542a6d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/71ab2d461b3fd5b02f316ae44953d15e9542a6d1",
+                    "reference": "71ab2d461b3fd5b02f316ae44953d15e9542a6d1",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -7491,8 +7971,14 @@
                 "version_normalized": "21.1.0.0-RC3",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "ada06c70c6194a68f56d31d395638b8c7cbfc47d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/ada06c70c6194a68f56d31d395638b8c7cbfc47d",
+                    "reference": "ada06c70c6194a68f56d31d395638b8c7cbfc47d",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8",
@@ -7627,8 +8113,14 @@
                 "version_normalized": "21.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "4a6178a7599ef92f0d073b80217a78e5203d5869"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/4a6178a7599ef92f0d073b80217a78e5203d5869",
+                    "reference": "4a6178a7599ef92f0d073b80217a78e5203d5869",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8.7",
@@ -7766,8 +8258,14 @@
                 "version_normalized": "21.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "fab5a1947dd6bd3d3c2874875931344ce6be3f7b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/fab5a1947dd6bd3d3c2874875931344ce6be3f7b",
+                    "reference": "fab5a1947dd6bd3d3c2874875931344ce6be3f7b",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8.7",
@@ -7906,8 +8404,14 @@
                 "version_normalized": "21.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
                     "reference": "58c7cf789a76c1174e033f9f0d556fe0560c9d74"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/58c7cf789a76c1174e033f9f0d556fe0560c9d74",
+                    "reference": "58c7cf789a76c1174e033f9f0d556fe0560c9d74",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8.7",
@@ -8052,8 +8556,14 @@
                 "version_normalized": "21.1.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "403e1aaaa0cb8e7f17883916ee28cbfd37872bda"
+                    "url": "git@github.com:drunomics/ldp-core.git",
+                    "reference": "119451b3214c902265dcb3431af35f58baadd081"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/119451b3214c902265dcb3431af35f58baadd081",
+                    "reference": "119451b3214c902265dcb3431af35f58baadd081",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8.7",
@@ -8066,7 +8576,7 @@
                     "drunomics/lupus-image": "^3.3.2",
                     "drunomics/service-utils": "9.x-dev",
                     "drunomics/views_exclude_previous": "^1.0.0",
-                    "drupal/admin_toolbar": "^2.5",
+                    "drupal/admin_toolbar": "^2.5.0",
                     "drupal/allowed_formats": "^1.3.0",
                     "drupal/build_hooks": "^3.2.1",
                     "drupal/cache_tools": "^1.4.0",
@@ -8081,6 +8591,7 @@
                     "drupal/content_browser": "^1.0.0",
                     "drupal/core-recommended": "^8.9.17",
                     "drupal/custom_elements": "^2.0-beta5",
+                    "drupal/entity_embed": "^1.2.0",
                     "drupal/facets": "^1.8.0",
                     "drupal/features": "^3.12.0",
                     "drupal/gin": "^3.0-alpha35",
@@ -8099,7 +8610,7 @@
                     "drupal/log_cache_tags": "^1.0.0",
                     "drupal/lupus_ce_renderer": "^1.0-beta7",
                     "drupal/lupus_stark": "^1.0.0-alpha2",
-                    "drupal/lupus_taxonomy_import": "^1.1",
+                    "drupal/lupus_taxonomy_import": "^1.1.0",
                     "drupal/menu_admin_per_menu": "^1.3.0",
                     "drupal/override_node_options": "^2.6.0",
                     "drupal/pcb": "^2.2.0",
@@ -8123,7 +8634,7 @@
                     "npm-asset/feather-icons": "^4.28.0",
                     "thunder/thunder-distribution": "~3.5.10"
                 },
-                "time": "2021-09-06 16:02:41",
+                "time": "2021-09-24 09:57:53",
                 "type": "drupal-module",
                 "extra": {
                     "drunomics/ldp-core-version": "21.1.*",
@@ -8198,8 +8709,14 @@
                 "version_normalized": "21.3.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@bitbucket.org:drunomics/ldp-core.git",
-                    "reference": "f3fb93a3af25b49f0e4428528be1da7f49350101"
+                    "url": "git@github.com:drunomics/ldp-core.git",
+                    "reference": "b4a89368bada997dcde0d601defdd1a5d70ac543"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/b4a89368bada997dcde0d601defdd1a5d70ac543",
+                    "reference": "b4a89368bada997dcde0d601defdd1a5d70ac543",
+                    "shasum": ""
                 },
                 "require": {
                     "bower-asset/chosen": "^1.8.7",
@@ -8210,7 +8727,7 @@
                     "drunomics/lupus-image": "^3.3.2",
                     "drunomics/service-utils": "^9.1.1",
                     "drunomics/views_exclude_previous": "^1.0.0",
-                    "drupal/admin_toolbar": "^2.5",
+                    "drupal/admin_toolbar": "^2.5.0",
                     "drupal/allowed_formats": "^1.3.0",
                     "drupal/build_hooks": "^3.2.1",
                     "drupal/cache_tools": "^1.5.0",
@@ -8219,8 +8736,9 @@
                     "drupal/config_ignore": "^2.3.0",
                     "drupal/config_override_warn": "^1.3.0",
                     "drupal/content_browser": "^1.0.0",
-                    "drupal/core-recommended": "9.1.*",
+                    "drupal/core-recommended": "^9.2.6",
                     "drupal/custom_elements": "^2.0-beta5",
+                    "drupal/entity_embed": "^1.2.0",
                     "drupal/facets": "^1.8.0",
                     "drupal/features": "^3.12.0",
                     "drupal/gin": "^3.0-alpha35",
@@ -8240,7 +8758,8 @@
                     "drupal/log_cache_tags": "^1.0.0",
                     "drupal/lupus_ce_renderer": "^2.0-beta7",
                     "drupal/lupus_stark": "^1.0.0-alpha4",
-                    "drupal/lupus_taxonomy_import": "^1.1",
+                    "drupal/lupus_taxonomy_import": "^1.1.0",
+                    "drupal/media_file_delete": "^1.1.0",
                     "drupal/menu_admin_per_menu": "^1.3.0",
                     "drupal/override_node_options": "^2.6.0",
                     "drupal/pcb": "^2.2.0",
@@ -8262,9 +8781,9 @@
                     "drupal/yaml_content": "^1.0-alpha7",
                     "laminas/laminas-stdlib": "^3.2.1",
                     "npm-asset/feather-icons": "^4.28.0",
-                    "thunder/thunder-distribution": "6.1.*"
+                    "thunder/thunder-distribution": "6.2.*"
                 },
-                "time": "2021-09-14 10:30:17",
+                "time": "2021-09-24 09:49:51",
                 "type": "drupal-module",
                 "extra": {
                     "drunomics/ldp-core-version": "21.3.*",
@@ -8303,6 +8822,7 @@
                             "Issue #3114589: Autocomplete results are not visible when using select2 widget in a dialog": "https://www.drupal.org/files/issues/2021-03-18/select2-in-dialog-fix-3114589-12.patch"
                         },
                         "drupal/simple_sitemap": {
+                            "LDP-997: Remove thunder applied patch for issue #3109090": "https://gist.githubusercontent.com/petarbasic/bafa2b32538694d9edd46cb5b2d10cc9/raw/8efc712d4dae28d85087a4453560d226c45f1476/LDP-997_remove_thunder_applied_patch.patch",
                             "Issue #3090254: Cached sitemap": "https://www.drupal.org/files/issues/2021-02-18/3090254-9.patch"
                         },
                         "drupal/views_ef_fieldset": {
@@ -8374,12 +8894,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-cp.git",
-                    "reference": "4763e03b0b5cfecc5d896865f4d19da59401a8fd"
+                    "reference": "68b74d0f5600543de3140c2f865da25c9a9f4ea6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-cp/zipball/4763e03b0b5cfecc5d896865f4d19da59401a8fd",
-                    "reference": "4763e03b0b5cfecc5d896865f4d19da59401a8fd",
+                    "url": "https://api.github.com/repos/drunomics/ldp-cp/zipball/68b74d0f5600543de3140c2f865da25c9a9f4ea6",
+                    "reference": "68b74d0f5600543de3140c2f865da25c9a9f4ea6",
                     "shasum": ""
                 },
                 "require": {
@@ -8387,7 +8907,7 @@
                     "drunomics/simple_sitemap_extensions": "^1.3.1",
                     "drupal/yaml_editor": "^1.1.0"
                 },
-                "time": "2021-08-26 12:58:18",
+                "time": "2021-09-24 09:51:02",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -8410,12 +8930,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-cp.git",
-                    "reference": "5ded1fb5dec5ad26c72fd417c828b5993bdc9676"
+                    "reference": "56a02f0ab15fa86b9f39b4566c08d0b7b9ce0682"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-cp/zipball/5ded1fb5dec5ad26c72fd417c828b5993bdc9676",
-                    "reference": "5ded1fb5dec5ad26c72fd417c828b5993bdc9676",
+                    "url": "https://api.github.com/repos/drunomics/ldp-cp/zipball/56a02f0ab15fa86b9f39b4566c08d0b7b9ce0682",
+                    "reference": "56a02f0ab15fa86b9f39b4566c08d0b7b9ce0682",
                     "shasum": ""
                 },
                 "require": {
@@ -8423,7 +8943,7 @@
                     "drunomics/simple_sitemap_extensions": "^1.3.1",
                     "drupal/yaml_editor": "^1.1.0"
                 },
-                "time": "2021-09-02 12:29:22",
+                "time": "2021-09-24 09:50:30",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -8476,10 +8996,10 @@
                     "ldp"
                 ]
             },
-            "21.1.x-dev": {
+            "21.1.4-RC1": {
                 "name": "drunomics/ldp-form-builder",
-                "version": "21.1.x-dev",
-                "version_normalized": "21.1.9999999.9999999-dev",
+                "version": "21.1.4-RC1",
+                "version_normalized": "21.1.4.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-form-builder.git",
@@ -8512,6 +9032,42 @@
                     "ldp"
                 ]
             },
+            "21.1.x-dev": {
+                "name": "drunomics/ldp-form-builder",
+                "version": "21.1.x-dev",
+                "version_normalized": "21.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-form-builder.git",
+                    "reference": "2d8636add34be8e5a3106403ef4e20c8f43dfaf2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-form-builder/zipball/2d8636add34be8e5a3106403ef4e20c8f43dfaf2",
+                    "reference": "2d8636add34be8e5a3106403ef4e20c8f43dfaf2",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "21.1.*",
+                    "drupal/telephone_validation": "^2.3",
+                    "drupal/webform": "^6.0.5"
+                },
+                "time": "2021-09-24 10:04:11",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP form builder module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "21.3.x-dev": {
                 "name": "drunomics/ldp-form-builder",
                 "version": "21.3.x-dev",
@@ -8519,12 +9075,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-form-builder.git",
-                    "reference": "6c164c20f4249257e3a1999e1f4b8272f975433e"
+                    "reference": "1cf0e65ec4ac8074e570f851850de20cf18ec8b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-form-builder/zipball/6c164c20f4249257e3a1999e1f4b8272f975433e",
-                    "reference": "6c164c20f4249257e3a1999e1f4b8272f975433e",
+                    "url": "https://api.github.com/repos/drunomics/ldp-form-builder/zipball/1cf0e65ec4ac8074e570f851850de20cf18ec8b4",
+                    "reference": "1cf0e65ec4ac8074e570f851850de20cf18ec8b4",
                     "shasum": ""
                 },
                 "require": {
@@ -8532,7 +9088,7 @@
                     "drupal/telephone_validation": "^2.3",
                     "drupal/webform": "^6.0.5"
                 },
-                "time": "2021-09-16 10:43:09",
+                "time": "2021-09-24 10:03:57",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -9807,18 +10363,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-issuu.git",
-                    "reference": "c3ca61dfe1f1dfe5b52d6bde4f008622092caf82"
+                    "reference": "fb6f2a529cecce40b15619f14eb10ff763429598"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-issuu/zipball/c3ca61dfe1f1dfe5b52d6bde4f008622092caf82",
-                    "reference": "c3ca61dfe1f1dfe5b52d6bde4f008622092caf82",
+                    "url": "https://api.github.com/repos/drunomics/ldp-issuu/zipball/fb6f2a529cecce40b15619f14eb10ff763429598",
+                    "reference": "fb6f2a529cecce40b15619f14eb10ff763429598",
                     "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.3.*"
                 },
-                "time": "2021-09-10 15:21:00",
+                "time": "2021-09-24 10:04:51",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -9879,12 +10435,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-marketing.git",
-                    "reference": "a9b9cceca9592b871ad17dfada3b7cec33a91439"
+                    "reference": "ff3bbe3f55f01fc20476e665019523c3bc744ab4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-marketing/zipball/a9b9cceca9592b871ad17dfada3b7cec33a91439",
-                    "reference": "a9b9cceca9592b871ad17dfada3b7cec33a91439",
+                    "url": "https://api.github.com/repos/drunomics/ldp-marketing/zipball/ff3bbe3f55f01fc20476e665019523c3bc744ab4",
+                    "reference": "ff3bbe3f55f01fc20476e665019523c3bc744ab4",
                     "shasum": ""
                 },
                 "require": {
@@ -9892,7 +10448,7 @@
                     "drupal/block_content_permissions": "^1.10.0",
                     "drupal/double_field": "^4.0.0-rc2"
                 },
-                "time": "2021-09-01 12:46:28",
+                "time": "2021-09-24 10:02:01",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -11319,18 +11875,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-oewa.git",
-                    "reference": "5595570ac22554e9cad7d593d169e8cb8da11c4b"
+                    "reference": "b5074b0fe9e31215672399d86b21df4af2205342"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-oewa/zipball/5595570ac22554e9cad7d593d169e8cb8da11c4b",
-                    "reference": "5595570ac22554e9cad7d593d169e8cb8da11c4b",
+                    "url": "https://api.github.com/repos/drunomics/ldp-oewa/zipball/b5074b0fe9e31215672399d86b21df4af2205342",
+                    "reference": "b5074b0fe9e31215672399d86b21df4af2205342",
                     "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.1.*"
                 },
-                "time": "2021-08-06 11:14:08",
+                "time": "2021-09-24 09:57:50",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -11353,18 +11909,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-oewa.git",
-                    "reference": "6564d1e87afa14c6532c762e92df6432ca0cae19"
+                    "reference": "f50b3b8fc855c33bd6fbe30e235aa02bd118acbb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-oewa/zipball/6564d1e87afa14c6532c762e92df6432ca0cae19",
-                    "reference": "6564d1e87afa14c6532c762e92df6432ca0cae19",
+                    "url": "https://api.github.com/repos/drunomics/ldp-oewa/zipball/f50b3b8fc855c33bd6fbe30e235aa02bd118acbb",
+                    "reference": "f50b3b8fc855c33bd6fbe30e235aa02bd118acbb",
                     "shasum": ""
                 },
                 "require": {
                     "drunomics/ldp-core": "21.3.*"
                 },
-                "time": "2021-08-31 20:02:32",
+                "time": "2021-09-24 09:52:47",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -12139,12 +12695,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-solr.git",
-                    "reference": "d1f66727e8ef35d61af8ecda5be6db98f867ecd3"
+                    "reference": "9acbe1427c5134f30ccc35268a3db31bae5310ad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-solr/zipball/d1f66727e8ef35d61af8ecda5be6db98f867ecd3",
-                    "reference": "d1f66727e8ef35d61af8ecda5be6db98f867ecd3",
+                    "url": "https://api.github.com/repos/drunomics/ldp-solr/zipball/9acbe1427c5134f30ccc35268a3db31bae5310ad",
+                    "reference": "9acbe1427c5134f30ccc35268a3db31bae5310ad",
                     "shasum": ""
                 },
                 "require": {
@@ -12152,7 +12708,7 @@
                     "drupal/search_api_autocomplete": "^1.4.0",
                     "drupal/search_api_solr": "^4.1.12"
                 },
-                "time": "2021-08-06 10:26:42",
+                "time": "2021-09-23 15:44:09",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -12175,12 +12731,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-solr.git",
-                    "reference": "f1c5dbdcb0a88eb2ecbd0a8ab203abb8fb3e9391"
+                    "reference": "fbd02a110a1ab03da222b0be295f1be83fef444e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-solr/zipball/f1c5dbdcb0a88eb2ecbd0a8ab203abb8fb3e9391",
-                    "reference": "f1c5dbdcb0a88eb2ecbd0a8ab203abb8fb3e9391",
+                    "url": "https://api.github.com/repos/drunomics/ldp-solr/zipball/fbd02a110a1ab03da222b0be295f1be83fef444e",
+                    "reference": "fbd02a110a1ab03da222b0be295f1be83fef444e",
                     "shasum": ""
                 },
                 "require": {
@@ -12188,7 +12744,7 @@
                     "drupal/search_api_autocomplete": "^1.4.0",
                     "drupal/search_api_solr": "^4.1.12"
                 },
-                "time": "2021-08-31 20:02:35",
+                "time": "2021-09-24 10:06:59",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -13799,37 +14355,6 @@
             }
         },
         "drunomics/views_exclude_previous": {
-            "1.0.0": {
-                "name": "drunomics/views_exclude_previous",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/drunomics/views_exclude_previous.git",
-                    "reference": "a32cb6cda372d643bd69eb985c456ed029b82911"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/views_exclude_previous/zipball/a32cb6cda372d643bd69eb985c456ed029b82911",
-                    "reference": "a32cb6cda372d643bd69eb985c456ed029b82911",
-                    "shasum": ""
-                },
-                "time": "2019-04-16 12:27:23",
-                "type": "drupal-module",
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "Exclude previously rendered entities.",
-                "keywords": [
-                    "drupal"
-                ],
-                "support": {
-                    "source": "https://github.com/drunomics/views_exclude_previous/tree/1.0.0",
-                    "issues": "https://github.com/drunomics/views_exclude_previous/issues"
-                }
-            },
             "1.0.1": {
                 "name": "drunomics/views_exclude_previous",
                 "version": "1.0.1",
