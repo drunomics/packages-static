@@ -359,12 +359,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "e098b74a7a86284052e054724bc07d7126625fe7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/e098b74a7a86284052e054724bc07d7126625fe7",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/e098b74a7a86284052e054724bc07d7126625fe7",
                     "reference": "e098b74a7a86284052e054724bc07d7126625fe7",
                     "shasum": ""
                 },
@@ -383,12 +383,12 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/291076b70cd06b819ae62022c9445e0a6d7cfe11",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/291076b70cd06b819ae62022c9445e0a6d7cfe11",
                     "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11",
                     "shasum": ""
                 },
@@ -407,12 +407,12 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/1d5743f56752751326ba25afd9e8517a59a4c0f6",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/1d5743f56752751326ba25afd9e8517a59a4c0f6",
                     "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6",
                     "shasum": ""
                 },
@@ -431,12 +431,12 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "c40f4716c905bda62966bf9bf232674b0011b300"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/c40f4716c905bda62966bf9bf232674b0011b300",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/c40f4716c905bda62966bf9bf232674b0011b300",
                     "reference": "c40f4716c905bda62966bf9bf232674b0011b300",
                     "shasum": ""
                 },
@@ -455,12 +455,12 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "7a1245604248efec22123af0886376a00efc5501"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/7a1245604248efec22123af0886376a00efc5501",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/7a1245604248efec22123af0886376a00efc5501",
                     "reference": "7a1245604248efec22123af0886376a00efc5501",
                     "shasum": ""
                 },
@@ -479,12 +479,12 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "683e0d99cdc3b47ab933efa3ed0d78b05eb5c070"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/683e0d99cdc3b47ab933efa3ed0d78b05eb5c070",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/683e0d99cdc3b47ab933efa3ed0d78b05eb5c070",
                     "reference": "683e0d99cdc3b47ab933efa3ed0d78b05eb5c070",
                     "shasum": ""
                 },
@@ -503,12 +503,12 @@
                 "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "434ad227050eeb312e7c5616d7f81634ad45980f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/434ad227050eeb312e7c5616d7f81634ad45980f",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/434ad227050eeb312e7c5616d7f81634ad45980f",
                     "reference": "434ad227050eeb312e7c5616d7f81634ad45980f",
                     "shasum": ""
                 },
@@ -527,16 +527,16 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
-                    "reference": "434ad227050eeb312e7c5616d7f81634ad45980f"
+                    "url": "git@github.com:drunomics/content_snippet.git",
+                    "reference": "05f4ddd471aedafed644402409c9641df6f603d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/434ad227050eeb312e7c5616d7f81634ad45980f",
-                    "reference": "434ad227050eeb312e7c5616d7f81634ad45980f",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/05f4ddd471aedafed644402409c9641df6f603d4",
+                    "reference": "05f4ddd471aedafed644402409c9641df6f603d4",
                     "shasum": ""
                 },
-                "time": "2022-02-23 13:20:28",
+                "time": "2022-07-18 14:59:24",
                 "type": "drupal-module",
                 "authors": [
                     {
@@ -3360,6 +3360,78 @@
                 ],
                 "description": "Provides an install profile for creating new lupus.digital Drupal instances."
             },
+            "22.1.6": {
+                "name": "drunomics/ldp",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp.git",
+                    "reference": "f3b02cbc2227918fc153f11ee4c29920e4ecf032"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/f3b02cbc2227918fc153f11ee4c29920e4ecf032",
+                    "reference": "f3b02cbc2227918fc153f11ee4c29920e4ecf032",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-03-16 15:14:32",
+                "type": "drupal-profile",
+                "extra": {
+                    "branch-alias": {
+                        "dev-8.x-1.x": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH",
+                        "email": "hello@drunomics.com"
+                    }
+                ],
+                "description": "Provides an install profile for creating new lupus.digital Drupal instances."
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp.git",
+                    "reference": "f3b02cbc2227918fc153f11ee4c29920e4ecf032"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp/zipball/f3b02cbc2227918fc153f11ee4c29920e4ecf032",
+                    "reference": "f3b02cbc2227918fc153f11ee4c29920e4ecf032",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-03-16 15:14:32",
+                "type": "drupal-profile",
+                "extra": {
+                    "branch-alias": {
+                        "dev-8.x-1.x": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH",
+                        "email": "hello@drunomics.com"
+                    }
+                ],
+                "description": "Provides an install profile for creating new lupus.digital Drupal instances."
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp",
                 "version": "22.1.x-dev",
@@ -3396,10 +3468,10 @@
                 ],
                 "description": "Provides an install profile for creating new lupus.digital Drupal instances."
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp.git",
@@ -5215,6 +5287,76 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-advertorial",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-advertorial.git",
+                    "reference": "14ce80a2cc538c619933cf7f4d99ab8501efb236"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-advertorial/zipball/14ce80a2cc538c619933cf7f4d99ab8501efb236",
+                    "reference": "14ce80a2cc538c619933cf7f4d99ab8501efb236",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/advertorial": "^1.3.1",
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-03-16 12:33:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP advertorial module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-advertorial",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-advertorial.git",
+                    "reference": "14ce80a2cc538c619933cf7f4d99ab8501efb236"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-advertorial/zipball/14ce80a2cc538c619933cf7f4d99ab8501efb236",
+                    "reference": "14ce80a2cc538c619933cf7f4d99ab8501efb236",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/advertorial": "^1.3.1",
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-03-16 12:33:53",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP advertorial module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-advertorial",
                 "version": "22.1.x-dev",
@@ -5250,10 +5392,10 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp-advertorial",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-advertorial.git",
@@ -13433,19 +13575,19 @@
                     "ldp"
                 ]
             },
-            "22.1.x-dev": {
+            "22.1.6": {
                 "name": "drunomics/ldp-core",
-                "version": "22.1.x-dev",
-                "version_normalized": "22.1.9999999.9999999-dev",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-core.git",
-                    "reference": "87825ec4ae44193fcaa8c708a5a8e5341975532f"
+                    "reference": "b44f39f94dd17167197ee92f17e3d905e754c0ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/87825ec4ae44193fcaa8c708a5a8e5341975532f",
-                    "reference": "87825ec4ae44193fcaa8c708a5a8e5341975532f",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/b44f39f94dd17167197ee92f17e3d905e754c0ae",
+                    "reference": "b44f39f94dd17167197ee92f17e3d905e754c0ae",
                     "shasum": ""
                 },
                 "require": {
@@ -13481,7 +13623,7 @@
                     "drupal/config_update": "^1.7.0",
                     "drupal/content_browser": "^1.0.0",
                     "drupal/content_lock": "^2.2.0",
-                    "drupal/core-recommended": ">=9.3.17 <9.4",
+                    "drupal/core-recommended": ">=9.3.19 <9.4",
                     "drupal/crop": "^2.2.0",
                     "drupal/ctools": "^3.7.0",
                     "drupal/custom_elements": "^2.0.0-beta5",
@@ -13576,7 +13718,7 @@
                 "conflict": {
                     "drupal/shs": "=2.0.0-rc2"
                 },
-                "time": "2022-06-22 15:55:32",
+                "time": "2022-07-21 10:52:38",
                 "type": "drupal-module",
                 "extra": {
                     "drunomics/ldp-core-version": "22.1.*",
@@ -13602,7 +13744,8 @@
                             "Issue #2950729: Undefined offset 1 in the MenuParentFormSelector.php": "https://www.drupal.org/files/issues/2019-08-29/2950729-11.patch",
                             "LDP-990: Patch off-canvas dialog width via gist https://gist.github.com/fago/32041b33e260aeb1a3393edbd08a9739": "https://gist.githubusercontent.com/fago/32041b33e260aeb1a3393edbd08a9739/raw/665aee0cecc3afd49ee9cb32e269dcc100e2f64c/ldp-core--ldp-990-off-canvas-dialog-width.patch",
                             "Issue #3256828: LDP-1117 - Chainflix OEmbed endpoint breaks regex matching": "https://gist.githubusercontent.com/fago/3987da661c0f402eb022fbb44369b3fe/raw/2b0d4e06f01357b4c447f3373d5d780486da9044/1602.patch",
-                            "#3016776 301 redirects don't contain cache-control header": "https://www.drupal.org/files/issues/2019-05-12/3016776-24-core-cache-301.patch"
+                            "#3016776 301 redirects don't contain cache-control header": "https://www.drupal.org/files/issues/2019-05-12/3016776-24-core-cache-301.patch",
+                            "#3277737, LDP-1453: Add new media removes previously selected images in gallery.": "https://www.drupal.org/files/issues/2022-05-20/MediaLibraryWidget.patch"
                         },
                         "drupal/rest_menu_items": {
                             "#3085198: Route rest_menu_items.config_form does not exist on module install.": "https://www.drupal.org/files/issues/2019-10-02/rout_not_found-3085198-2.patch"
@@ -13668,10 +13811,482 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.1.7": {
                 "name": "drunomics/ldp-core",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
+                    "reference": "32daa64adbf36c22720ce2f86b8d25439bb32c30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/32daa64adbf36c22720ce2f86b8d25439bb32c30",
+                    "reference": "32daa64adbf36c22720ce2f86b8d25439bb32c30",
+                    "shasum": ""
+                },
+                "require": {
+                    "bower-asset/chosen": "^1.8.7",
+                    "ckeditor/tableresize": "4.10.1",
+                    "ckeditor/tableselection": "4.10.1",
+                    "ckeditor/tabletoolstoolbar": "0.0.1",
+                    "cweagans/composer-patches": "^1.7.2",
+                    "dflydev/dot-access-data": "^1.1.0",
+                    "drunomics/config_ignore_keys": "^1.0.0",
+                    "drunomics/lupus-extlink": "^1.1.6",
+                    "drunomics/lupus-image": "^3.5.4",
+                    "drunomics/service-utils": "^9.3.1",
+                    "drunomics/views_exclude_previous": "^1.0.4",
+                    "drupal/access_unpublished": "^1.3.0",
+                    "drupal/admin_toolbar": "^3.1.0",
+                    "drupal/allowed_formats": "^1.3.0",
+                    "drupal/anonymous_login": "^2.0",
+                    "drupal/autosave_form": "^1.3.0",
+                    "drupal/block_content_permissions": "^1.10.0",
+                    "drupal/build_hooks": "^3.3.0",
+                    "drupal/cache_tools": "^1.5.0",
+                    "drupal/captcha": "^1.2.0",
+                    "drupal/chosen": "^3.0.1",
+                    "drupal/chosen_lib": "^3.0.1",
+                    "drupal/ckeditor_tableresize": "^1.1",
+                    "drupal/ckeditor_tableselection": "^2.0",
+                    "drupal/ckeditor_tabletoolstoolbar": "^2.0",
+                    "drupal/coffee": "^1.2.0",
+                    "drupal/config_filter": "^1.8.0",
+                    "drupal/config_ignore": "^2.3.0",
+                    "drupal/config_override_warn": "^1.3.0",
+                    "drupal/config_update": "^1.7.0",
+                    "drupal/content_browser": "^1.0.0",
+                    "drupal/content_lock": "^2.2.0",
+                    "drupal/core-recommended": ">=9.3.21 <9.4",
+                    "drupal/crop": "^2.2.0",
+                    "drupal/ctools": "^3.7.0",
+                    "drupal/custom_elements": "^2.0.0-beta5",
+                    "drupal/diff": "^1.0.0",
+                    "drupal/double_field": "^4.0.0",
+                    "drupal/dropzonejs": "^2.5.0",
+                    "drupal/dynamic_entity_reference": "^1.16.0",
+                    "drupal/embed": "^1.5.0",
+                    "drupal/empty_fields": "^1.0.0-beta1",
+                    "drupal/entity_browser": "^2.6.0",
+                    "drupal/entity_embed": "^1.2.0",
+                    "drupal/entity_reference_revisions": "^1.9.0",
+                    "drupal/facets": "^2.0.1",
+                    "drupal/features": "^3.12.0",
+                    "drupal/field_group": "^3.2.0",
+                    "drupal/file_mdm": "^2.4.0",
+                    "drupal/file_mdm_exif": "^2.4.0",
+                    "drupal/file_mdm_font": "^2.4.0",
+                    "drupal/focal_point": "^1.5.0",
+                    "drupal/gin": "^3.0.0-beta1",
+                    "drupal/gin_login": "^1.1",
+                    "drupal/gin_toolbar": "^1.0.0-beta21",
+                    "drupal/google_analytics": "^2.5.0",
+                    "drupal/http_cache_control": "^2.0.0",
+                    "drupal/image_effects": "^3.2.0",
+                    "drupal/imageapi_optimize": "^4.0.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0.0-alpha2",
+                    "drupal/imageapi_optimize_resmushit": "^2.0.0-beta1",
+                    "drupal/imageapi_optimize_tinypng": "^1.1.0-beta1",
+                    "drupal/imageapi_optimize_webp": "^2.0.0-beta3",
+                    "drupal/imagemagick": "^3.3.0",
+                    "drupal/inline_entity_form": "^1.0-rc9",
+                    "drupal/layout_builder_browser": "^1.4.0",
+                    "drupal/layout_builder_operation_link": "^1.0.1",
+                    "drupal/layout_builder_restrictions": "^2.12.0",
+                    "drupal/length_indicator": "^1.2.0",
+                    "drupal/libraries": "^3.0.0-beta2",
+                    "drupal/linkit": "^6.0.0-beta3",
+                    "drupal/log_cache_tags": "^1.0.0",
+                    "drupal/lupus_ce_renderer": "^2.0",
+                    "drupal/lupus_stark": "^1.0.0",
+                    "drupal/lupus_taxonomy_import": "^1.1.0",
+                    "drupal/media_entity_instagram": "^3.0.6",
+                    "drupal/media_entity_pinterest": "^2.5.0",
+                    "drupal/media_entity_slideshow": "^2.4.0",
+                    "drupal/media_entity_twitter": "^2.7.0",
+                    "drupal/media_expire": "^2.4.0",
+                    "drupal/media_file_delete": "^1.1.0",
+                    "drupal/media_library_edit": "^2.2.0",
+                    "drupal/menu_admin_per_menu": "^1.3.0",
+                    "drupal/metatag": "^1.19.0",
+                    "drupal/metatag_async_widget": "^1.0.0",
+                    "drupal/override_node_options": "^2.6.0",
+                    "drupal/paragraphs": "^1.12.0",
+                    "drupal/paragraphs_features": "^1.15.0",
+                    "drupal/password_policy": "3.0.0",
+                    "drupal/pathauto": "^1.9.0",
+                    "drupal/pcb": "^2.3.0",
+                    "drupal/publication_date": "^2.0.0-beta4",
+                    "drupal/purge": "^3.2.0",
+                    "drupal/redirect": "^1.7",
+                    "drupal/request_info": "^1.3.0",
+                    "drupal/responsive_preview": "^1.1.0",
+                    "drupal/rest_menu_items": "^3.0.2",
+                    "drupal/scheduler": "^1.4.0",
+                    "drupal/scheduler_content_moderation_integration": "^1.3",
+                    "drupal/schema_metatag": "^2.2.0",
+                    "drupal/search_api": "^1.23.0",
+                    "drupal/select2": "^1.13",
+                    "drupal/serve_plain_file": "^1.7",
+                    "drupal/shs": "^2.0.0-rc1",
+                    "drupal/sophron": "^1.2",
+                    "drupal/token": "^1.10",
+                    "drupal/token_default": "^1.0.0-beta3",
+                    "drupal/trusted_redirect": "^1.9.0",
+                    "drupal/typed_data": "^1.0.0-beta1",
+                    "drupal/upgrade_status": "^3.13.0",
+                    "drupal/varnish_purge": "^2.1.0",
+                    "drupal/video_embed_field": "^2.4.0",
+                    "drupal/views_bulk_edit": "^2.6",
+                    "drupal/views_bulk_operations": "^3.13",
+                    "drupal/views_ef_fieldset": "^1.5.0",
+                    "drupal/yaml_content": "^1.0.0-alpha7",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "league/commonmark": "^1.6.7",
+                    "npm-asset/dropzone": "^5.5.1",
+                    "npm-asset/feather-icons": "^4.28.0",
+                    "npm-asset/select2": "^4.0.7",
+                    "spatie/robots-txt": "^1.0.10",
+                    "symfony/finder": "^4.4.37"
+                },
+                "conflict": {
+                    "drupal/shs": "=2.0.0-rc2"
+                },
+                "time": "2022-08-04 14:44:36",
+                "type": "drupal-module",
+                "extra": {
+                    "drunomics/ldp-core-version": "22.1.*",
+                    "patches": {
+                        "drupal/paragraphs": {
+                            "#2901390 Integrity constraint violation: 1048 Column 'langcode' cannot be null (required by layout builder custom blocks)": "https://www.drupal.org/files/issues/paragraphs-missing-langcode-2901390-9.patch"
+                        },
+                        "drupal/yaml_content": {
+                            "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch",
+                            "#3084161: Adding layout builder blocks in yml files": "https://www.drupal.org/files/issues/2020-04-10/yaml_content-layout-builder-support-3084161-8.patch"
+                        },
+                        "drupal/features": {
+                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
+                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch"
+                        },
+                        "drupal/scheduler_content_moderation_integration": {
+                            "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
+                        },
+                        "drupal/publication_date": {
+                            "Issue #3074373: Publication date is required for completing the form.": "https://www.drupal.org/files/issues/2020-09-14/d8_publication_date_form_wiget.patch"
+                        },
+                        "drupal/core": {
+                            "Issue #2950729: Undefined offset 1 in the MenuParentFormSelector.php": "https://www.drupal.org/files/issues/2019-08-29/2950729-11.patch",
+                            "LDP-990: Patch off-canvas dialog width via gist https://gist.github.com/fago/32041b33e260aeb1a3393edbd08a9739": "https://gist.githubusercontent.com/fago/32041b33e260aeb1a3393edbd08a9739/raw/665aee0cecc3afd49ee9cb32e269dcc100e2f64c/ldp-core--ldp-990-off-canvas-dialog-width.patch",
+                            "Issue #3256828: LDP-1117 - Chainflix OEmbed endpoint breaks regex matching": "https://gist.githubusercontent.com/fago/3987da661c0f402eb022fbb44369b3fe/raw/2b0d4e06f01357b4c447f3373d5d780486da9044/1602.patch",
+                            "#3016776 301 redirects don't contain cache-control header": "https://www.drupal.org/files/issues/2019-05-12/3016776-24-core-cache-301.patch",
+                            "#3277737, LDP-1453: Add new media removes previously selected images in gallery.": "https://www.drupal.org/files/issues/2022-05-20/MediaLibraryWidget.patch"
+                        },
+                        "drupal/rest_menu_items": {
+                            "#3085198: Route rest_menu_items.config_form does not exist on module install.": "https://www.drupal.org/files/issues/2019-10-02/rout_not_found-3085198-2.patch"
+                        },
+                        "drupal/entity_browser": {
+                            "Provide inline entity form FieldWidgetDisplay": "https://www.drupal.org/files/issues/2019-07-04/2858438_19.patch",
+                            "Re-order + remove broken with the Entity Reference (and File) widget": "https://www.drupal.org/files/issues/2020-06-05/2851580-88.patch",
+                            "Trying to access array offset on value of type null in EntityBrowserElement valueCallback": "https://www.drupal.org/files/issues/2021-02-19/3199269-array-value-null.patch",
+                            "Issue #3048530: Fix formElementEntities() parent check.": "https://www.drupal.org/files/issues/2019-04-16/entity-browser-fix-parent-check-3048530-2.patch"
+                        },
+                        "drupal/simple_sitemap": {
+                            "Issue #3090254: Cached sitemap, on top of #3109090-16": "https://gist.githubusercontent.com/petarbasic/8fbcbe7a8e831c9dd31ea8434fb68b2f/raw/d4a25f6cecd0568d442c6d16d9d9433afb8a1c0c/cached_sitemap_3090254-22.patch"
+                        },
+                        "drupal/views_ef_fieldset": {
+                            "Issue #3177862: Unused Fieldsets throw error": "https://www.drupal.org/files/issues/2020-10-20/unused_fieldset_throws_error-3177862.patch"
+                        },
+                        "drupal/shs": {
+                            "Issue #3238420: Add missing use statements.": "https://www.drupal.org/files/issues/2021-09-22/add_required_use_statements.patch",
+                            "Issue #3241312: Referenced entity does not exist.": "https://www.drupal.org/files/issues/2021-10-08/shs-referenced_entity_does_not_exist-2.patch",
+                            "Issue #2923630: Form API states, Ajax doesn't work": "https://www.drupal.org/files/issues/shs-fapi-states-ajax-bug-2923630-1.patch"
+                        },
+                        "drupal/video_embed_field": {
+                            "#3246958: VAL-181: Changing path protocol of YT video thumbnail to HTTPS ": "https://gist.githubusercontent.com/fago/ffab920344a2214fe993da9d83b0ec10/raw/8c356f92be9da0f1c09a4c424304ad990d7d4894/1.patch"
+                        },
+                        "drupal/build_hooks": {
+                            "#3063029 & #3247610: LDP-757 Deploy if there are changes and the env is active": "https://gist.githubusercontent.com/petarbasic/722678b4b6c563ad1632ebfaa5b6b20f/raw/9b3f1567caf9e3ac290f5d222ddc3365d2b078c5/3063029_3247610_combined.patch",
+                            "#3247851: LDP-757 Allow Github FE to regard 204 response as triggered deploy": "https://www.drupal.org/files/issues/2021-11-05/3247851-1.patch"
+                        },
+                        "drupal/select2": {
+                            "#3211796 Issue with z-index when opening in modal dialog": "https://www.drupal.org/files/issues/2021-05-03/properfix_zindex_ckeditor-3211796-5.patch"
+                        },
+                        "drupal/metatag": {
+                            "#3112509 Convert \"author\" tag to HTML 5.2 spec (D8)": "https://www.drupal.org/files/issues/2022-02-11/3112509-8-convert-author-tag.patch"
+                        },
+                        "drupal/diff": {
+                            "Back button for comparison page": "https://www.drupal.org/files/issues/back_button_for-2853193-4.patch"
+                        },
+                        "drupal/password_policy": {
+                            "Policies should declare a config dependency on the plugin modules": "https://www.drupal.org/files/issues/2020-04-14/2918974-7-11.patch"
+                        },
+                        "drupal/field_group": {
+                            "Undefined property: stdClass::$region in field_group_form_process()": "https://www.drupal.org/files/issues/2020-06-15/3059614-37.patch"
+                        },
+                        "drupal/redirect": {
+                            "#3269028 Provide relative urls in redirects and not absolute ones": "https://www.drupal.org/files/issues/2022-03-11/3269028-2-provide-relative-urls.patch"
+                        },
+                        "drupal/autosave_form": {
+                            "#3270955 Autosave is not needed on /node/?/layout": "https://www.drupal.org/files/issues/2022-03-22/3270955-2-layout_builder.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "lupus.digital Drupal - Core",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.x-dev": {
+                "name": "drunomics/ldp-core",
+                "version": "22.1.x-dev",
+                "version_normalized": "22.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-core.git",
+                    "reference": "5403f0c7cf36395f27408f1e3aec4eef820a9f9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core/zipball/5403f0c7cf36395f27408f1e3aec4eef820a9f9e",
+                    "reference": "5403f0c7cf36395f27408f1e3aec4eef820a9f9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "bower-asset/chosen": "^1.8.7",
+                    "ckeditor/tableresize": "4.10.1",
+                    "ckeditor/tableselection": "4.10.1",
+                    "ckeditor/tabletoolstoolbar": "0.0.1",
+                    "cweagans/composer-patches": "^1.7.2",
+                    "dflydev/dot-access-data": "^1.1.0",
+                    "drunomics/config_ignore_keys": "^1.0.0",
+                    "drunomics/lupus-extlink": "^1.1.6",
+                    "drunomics/lupus-image": "^3.5.4",
+                    "drunomics/service-utils": "^9.3.1",
+                    "drunomics/views_exclude_previous": "^1.0.4",
+                    "drupal/access_unpublished": "^1.3.0",
+                    "drupal/admin_toolbar": "^3.1.0",
+                    "drupal/allowed_formats": "^1.3.0",
+                    "drupal/anonymous_login": "^2.0",
+                    "drupal/autosave_form": "^1.3.0",
+                    "drupal/block_content_permissions": "^1.10.0",
+                    "drupal/build_hooks": "^3.3.0",
+                    "drupal/cache_tools": "^1.5.0",
+                    "drupal/captcha": "^1.2.0",
+                    "drupal/chosen": "^3.0.1",
+                    "drupal/chosen_lib": "^3.0.1",
+                    "drupal/ckeditor_tableresize": "^1.1",
+                    "drupal/ckeditor_tableselection": "^2.0",
+                    "drupal/ckeditor_tabletoolstoolbar": "^2.0",
+                    "drupal/coffee": "^1.2.0",
+                    "drupal/config_filter": "^1.8.0",
+                    "drupal/config_ignore": "^2.3.0",
+                    "drupal/config_override_warn": "^1.3.0",
+                    "drupal/config_update": "^1.7.0",
+                    "drupal/content_browser": "^1.0.0",
+                    "drupal/content_lock": "^2.2.0",
+                    "drupal/core-recommended": ">=9.3.21 <9.4",
+                    "drupal/crop": "^2.2.0",
+                    "drupal/ctools": "^3.7.0",
+                    "drupal/custom_elements": "^2.0.0-beta5",
+                    "drupal/diff": "^1.0.0",
+                    "drupal/double_field": "^4.0.0",
+                    "drupal/dropzonejs": "^2.5.0",
+                    "drupal/dynamic_entity_reference": "^1.16.0",
+                    "drupal/embed": "^1.5.0",
+                    "drupal/empty_fields": "^1.0.0-beta1",
+                    "drupal/entity_browser": "^2.6.0",
+                    "drupal/entity_embed": "^1.2.0",
+                    "drupal/entity_reference_revisions": "^1.9.0",
+                    "drupal/facets": "^2.0.1",
+                    "drupal/features": "^3.12.0",
+                    "drupal/field_group": "^3.2.0",
+                    "drupal/file_mdm": "^2.4.0",
+                    "drupal/file_mdm_exif": "^2.4.0",
+                    "drupal/file_mdm_font": "^2.4.0",
+                    "drupal/focal_point": "^1.5.0",
+                    "drupal/gin": "^3.0.0-beta1",
+                    "drupal/gin_login": "^1.1",
+                    "drupal/gin_toolbar": "^1.0.0-beta21",
+                    "drupal/google_analytics": "^2.5.0",
+                    "drupal/http_cache_control": "^2.0.0",
+                    "drupal/image_effects": "^3.2.0",
+                    "drupal/imageapi_optimize": "^4.0.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0.0-alpha2",
+                    "drupal/imageapi_optimize_resmushit": "^2.0.0-beta1",
+                    "drupal/imageapi_optimize_tinypng": "^1.1.0-beta1",
+                    "drupal/imageapi_optimize_webp": "^2.0.0-beta3",
+                    "drupal/imagemagick": "^3.3.0",
+                    "drupal/inline_entity_form": "^1.0-rc9",
+                    "drupal/layout_builder_browser": "^1.4.0",
+                    "drupal/layout_builder_operation_link": "^1.0.1",
+                    "drupal/layout_builder_restrictions": "^2.12.0",
+                    "drupal/length_indicator": "^1.2.0",
+                    "drupal/libraries": "^3.0.0-beta2",
+                    "drupal/linkit": "^6.0.0-beta3",
+                    "drupal/log_cache_tags": "^1.0.0",
+                    "drupal/lupus_ce_renderer": "^2.0",
+                    "drupal/lupus_stark": "^1.0.0",
+                    "drupal/lupus_taxonomy_import": "^1.1.0",
+                    "drupal/media_entity_instagram": "^3.0.6",
+                    "drupal/media_entity_pinterest": "^2.5.0",
+                    "drupal/media_entity_slideshow": "^2.4.0",
+                    "drupal/media_entity_twitter": "^2.7.0",
+                    "drupal/media_expire": "^2.4.0",
+                    "drupal/media_file_delete": "^1.1.0",
+                    "drupal/media_library_edit": "^2.2.0",
+                    "drupal/menu_admin_per_menu": "^1.3.0",
+                    "drupal/metatag": "^1.19.0",
+                    "drupal/metatag_async_widget": "^1.0.0",
+                    "drupal/override_node_options": "^2.6.0",
+                    "drupal/paragraphs": "^1.12.0",
+                    "drupal/paragraphs_features": "^1.15.0",
+                    "drupal/password_policy": "3.0.0",
+                    "drupal/pathauto": "^1.9.0",
+                    "drupal/pcb": "^2.3.0",
+                    "drupal/publication_date": "^2.0.0-beta4",
+                    "drupal/purge": "^3.2.0",
+                    "drupal/redirect": "^1.7",
+                    "drupal/request_info": "^1.3.0",
+                    "drupal/responsive_preview": "^1.1.0",
+                    "drupal/rest_menu_items": "^3.0.2",
+                    "drupal/scheduler": "^1.4.0",
+                    "drupal/scheduler_content_moderation_integration": "^1.3",
+                    "drupal/schema_metatag": "^2.2.0",
+                    "drupal/search_api": "^1.23.0",
+                    "drupal/select2": "^1.13",
+                    "drupal/serve_plain_file": "^1.7",
+                    "drupal/shs": "^2.0.0-rc1",
+                    "drupal/sophron": "^1.2",
+                    "drupal/token": "^1.10",
+                    "drupal/token_default": "^1.0.0-beta3",
+                    "drupal/trusted_redirect": "^1.9.0",
+                    "drupal/typed_data": "^1.0.0-beta1",
+                    "drupal/upgrade_status": "^3.13.0",
+                    "drupal/varnish_purge": "^2.1.0",
+                    "drupal/video_embed_field": "^2.4.0",
+                    "drupal/views_bulk_edit": "^2.6",
+                    "drupal/views_bulk_operations": "^3.13",
+                    "drupal/views_ef_fieldset": "^1.5.0",
+                    "drupal/yaml_content": "^1.0.0-alpha7",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "league/commonmark": "^1.6.7",
+                    "npm-asset/dropzone": "^5.5.1",
+                    "npm-asset/feather-icons": "^4.28.0",
+                    "npm-asset/select2": "^4.0.7",
+                    "spatie/robots-txt": "^1.0.10",
+                    "symfony/finder": "^4.4.37"
+                },
+                "conflict": {
+                    "drupal/shs": "=2.0.0-rc2"
+                },
+                "time": "2022-08-04 15:24:24",
+                "type": "drupal-module",
+                "extra": {
+                    "drunomics/ldp-core-version": "22.1.*",
+                    "patches": {
+                        "drupal/paragraphs": {
+                            "#2901390 Integrity constraint violation: 1048 Column 'langcode' cannot be null (required by layout builder custom blocks)": "https://www.drupal.org/files/issues/paragraphs-missing-langcode-2901390-9.patch"
+                        },
+                        "drupal/yaml_content": {
+                            "#2927522: Re-running user imports results in a duplicate key error.": "https://www.drupal.org/files/issues/yaml_content-2927522-2.patch",
+                            "#3084161: Adding layout builder blocks in yml files": "https://www.drupal.org/files/issues/2020-04-10/yaml_content-layout-builder-support-3084161-8.patch"
+                        },
+                        "drupal/features": {
+                            "#3034826: Call to a member function getData() on null.": "https://www.drupal.org/files/issues/2019-02-28/3034826-3-call-to-member-function-on-null.patch",
+                            "#2953696 Circular Dependencies Management Assignement Plugin.": "https://www.drupal.org/files/issues/2018-03-19/add_alterDependencies_assignement_1.patch"
+                        },
+                        "drupal/scheduler_content_moderation_integration": {
+                            "#3040489-0: Fatal error when used with layout builder": "https://www.drupal.org/files/issues/2019-03-15/scheduler_content_moderation_integration.patch"
+                        },
+                        "drupal/publication_date": {
+                            "Issue #3074373: Publication date is required for completing the form.": "https://www.drupal.org/files/issues/2020-09-14/d8_publication_date_form_wiget.patch"
+                        },
+                        "drupal/core": {
+                            "Issue #2950729: Undefined offset 1 in the MenuParentFormSelector.php": "https://www.drupal.org/files/issues/2019-08-29/2950729-11.patch",
+                            "LDP-990: Patch off-canvas dialog width via gist https://gist.github.com/fago/32041b33e260aeb1a3393edbd08a9739": "https://gist.githubusercontent.com/fago/32041b33e260aeb1a3393edbd08a9739/raw/665aee0cecc3afd49ee9cb32e269dcc100e2f64c/ldp-core--ldp-990-off-canvas-dialog-width.patch",
+                            "Issue #3256828: LDP-1117 - Chainflix OEmbed endpoint breaks regex matching": "https://gist.githubusercontent.com/fago/3987da661c0f402eb022fbb44369b3fe/raw/2b0d4e06f01357b4c447f3373d5d780486da9044/1602.patch",
+                            "#3016776 301 redirects don't contain cache-control header": "https://www.drupal.org/files/issues/2019-05-12/3016776-24-core-cache-301.patch",
+                            "#3277737, LDP-1453: Add new media removes previously selected images in gallery.": "https://www.drupal.org/files/issues/2022-05-20/MediaLibraryWidget.patch"
+                        },
+                        "drupal/rest_menu_items": {
+                            "#3085198: Route rest_menu_items.config_form does not exist on module install.": "https://www.drupal.org/files/issues/2019-10-02/rout_not_found-3085198-2.patch"
+                        },
+                        "drupal/entity_browser": {
+                            "Provide inline entity form FieldWidgetDisplay": "https://www.drupal.org/files/issues/2019-07-04/2858438_19.patch",
+                            "Re-order + remove broken with the Entity Reference (and File) widget": "https://www.drupal.org/files/issues/2020-06-05/2851580-88.patch",
+                            "Trying to access array offset on value of type null in EntityBrowserElement valueCallback": "https://www.drupal.org/files/issues/2021-02-19/3199269-array-value-null.patch",
+                            "Issue #3048530: Fix formElementEntities() parent check.": "https://www.drupal.org/files/issues/2019-04-16/entity-browser-fix-parent-check-3048530-2.patch"
+                        },
+                        "drupal/simple_sitemap": {
+                            "Issue #3090254: Cached sitemap, on top of #3109090-16": "https://gist.githubusercontent.com/petarbasic/8fbcbe7a8e831c9dd31ea8434fb68b2f/raw/d4a25f6cecd0568d442c6d16d9d9433afb8a1c0c/cached_sitemap_3090254-22.patch"
+                        },
+                        "drupal/views_ef_fieldset": {
+                            "Issue #3177862: Unused Fieldsets throw error": "https://www.drupal.org/files/issues/2020-10-20/unused_fieldset_throws_error-3177862.patch"
+                        },
+                        "drupal/shs": {
+                            "Issue #3238420: Add missing use statements.": "https://www.drupal.org/files/issues/2021-09-22/add_required_use_statements.patch",
+                            "Issue #3241312: Referenced entity does not exist.": "https://www.drupal.org/files/issues/2021-10-08/shs-referenced_entity_does_not_exist-2.patch",
+                            "Issue #2923630: Form API states, Ajax doesn't work": "https://www.drupal.org/files/issues/shs-fapi-states-ajax-bug-2923630-1.patch"
+                        },
+                        "drupal/video_embed_field": {
+                            "#3246958: VAL-181: Changing path protocol of YT video thumbnail to HTTPS ": "https://gist.githubusercontent.com/fago/ffab920344a2214fe993da9d83b0ec10/raw/8c356f92be9da0f1c09a4c424304ad990d7d4894/1.patch"
+                        },
+                        "drupal/build_hooks": {
+                            "#3063029 & #3247610: LDP-757 Deploy if there are changes and the env is active": "https://gist.githubusercontent.com/petarbasic/722678b4b6c563ad1632ebfaa5b6b20f/raw/9b3f1567caf9e3ac290f5d222ddc3365d2b078c5/3063029_3247610_combined.patch",
+                            "#3247851: LDP-757 Allow Github FE to regard 204 response as triggered deploy": "https://www.drupal.org/files/issues/2021-11-05/3247851-1.patch"
+                        },
+                        "drupal/select2": {
+                            "#3211796 Issue with z-index when opening in modal dialog": "https://www.drupal.org/files/issues/2021-05-03/properfix_zindex_ckeditor-3211796-5.patch"
+                        },
+                        "drupal/metatag": {
+                            "#3112509 Convert \"author\" tag to HTML 5.2 spec (D8)": "https://www.drupal.org/files/issues/2022-02-11/3112509-8-convert-author-tag.patch"
+                        },
+                        "drupal/diff": {
+                            "Back button for comparison page": "https://www.drupal.org/files/issues/back_button_for-2853193-4.patch"
+                        },
+                        "drupal/password_policy": {
+                            "Policies should declare a config dependency on the plugin modules": "https://www.drupal.org/files/issues/2020-04-14/2918974-7-11.patch"
+                        },
+                        "drupal/field_group": {
+                            "Undefined property: stdClass::$region in field_group_form_process()": "https://www.drupal.org/files/issues/2020-06-15/3059614-37.patch"
+                        },
+                        "drupal/redirect": {
+                            "#3269028 Provide relative urls in redirects and not absolute ones": "https://www.drupal.org/files/issues/2022-03-11/3269028-2-provide-relative-urls.patch"
+                        },
+                        "drupal/autosave_form": {
+                            "#3270955 Autosave is not needed on /node/?/layout": "https://www.drupal.org/files/issues/2022-03-22/3270955-2-layout_builder.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "lupus.digital Drupal - Core",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.3.0-rc1": {
+                "name": "drunomics/ldp-core",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-core.git",
@@ -14930,6 +15545,350 @@
                 "name": "drunomics/ldp-core-dev-recommended",
                 "version": "22.1.5",
                 "version_normalized": "22.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-core-dev-recommended.git",
+                    "reference": "ad069520a7c92aa3b01a1eef16ced939a3293922"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core-dev-recommended/zipball/ad069520a7c92aa3b01a1eef16ced939a3293922",
+                    "reference": "ad069520a7c92aa3b01a1eef16ced939a3293922",
+                    "shasum": ""
+                },
+                "require": {
+                    "asm89/stack-cors": "^1.3.0",
+                    "behat/behat": "^3.10.0",
+                    "behat/gherkin": "^4.9.0",
+                    "behat/mink": "^1.9.0",
+                    "behat/mink-extension": "^2.3.1",
+                    "behat/mink-goutte-driver": "^1.3.0",
+                    "behat/mink-selenium2-driver": "^1.5.0",
+                    "behat/transliterator": "^1.3.0",
+                    "composer/ca-bundle": "^1.3.1",
+                    "composer/composer": "^2.2.12",
+                    "composer/metadata-minifier": "^1.0.0",
+                    "composer/pcre": "^1.0.1",
+                    "composer/semver": "^3.2.6",
+                    "composer/spdx-licenses": "^1.5.6",
+                    "composer/xdebug-handler": "^2.0.5",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "devinci/devinci-behat-extension": "^0.1.0",
+                    "dmore/behat-chrome-extension": "^1.3.0",
+                    "dmore/chrome-mink-driver": "^2.8.0",
+                    "doctrine/annotations": "^1.13.2",
+                    "doctrine/instantiator": "^1.4.1",
+                    "doctrine/lexer": "^1.2.1",
+                    "doctrine/reflection": "^1.2.2",
+                    "drunomics/behat-drupal-utils": "^2.10.0",
+                    "drupal/coder": "^8.3.13",
+                    "drupal/core": "^9.3.12",
+                    "drupal/core-dev": "^9.3.12",
+                    "drupal/core-recommended": ">=9.3.12 <9.4",
+                    "drupal/drupal-driver": "^2.1.1",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "easyrdf/easyrdf": "^1.1.1",
+                    "egulias/email-validator": "^3.1.2",
+                    "fabpot/goutte": "^3.3.1",
+                    "friends-of-behat/mink-browserkit-driver": "^1.6.1",
+                    "guzzlehttp/guzzle": "^6.5.5",
+                    "guzzlehttp/promises": "^1.5.1",
+                    "guzzlehttp/psr7": "^1.8.3",
+                    "instaclick/php-webdriver": "^1.4.10",
+                    "justinrainbow/json-schema": "^5.2.11",
+                    "laminas/laminas-diactoros": "^2.8.0",
+                    "laminas/laminas-escaper": "^2.9.0",
+                    "laminas/laminas-feed": "^2.15.0",
+                    "laminas/laminas-stdlib": "^3.6.1",
+                    "masterminds/html5": "^2.7.5",
+                    "mikey179/vfsstream": "^1.6.10",
+                    "myclabs/deep-copy": "^1.11.0",
+                    "nikic/php-parser": "^4.13.2",
+                    "pear/archive_tar": "^1.4.14",
+                    "pear/console_getopt": "^1.4.3",
+                    "pear/pear-core-minimal": "^1.10.11",
+                    "pear/pear_exception": "^1.0.2",
+                    "phar-io/manifest": "^2.0.3",
+                    "phar-io/version": "^3.2.1",
+                    "phpdocumentor/reflection-common": "^2.2.0",
+                    "phpdocumentor/reflection-docblock": "^5.3.0",
+                    "phpdocumentor/type-resolver": "^1.6.0",
+                    "phpspec/prophecy": "^1.15.0",
+                    "phpstan/phpdoc-parser": "^1.2.0",
+                    "phpunit/php-code-coverage": "^9.2.14",
+                    "phpunit/php-file-iterator": "^3.0.6",
+                    "phpunit/php-invoker": "^3.1.1",
+                    "phpunit/php-text-template": "^2.0.4",
+                    "phpunit/php-timer": "^5.0.3",
+                    "phpunit/phpunit": "^9.5.17",
+                    "psr/cache": "^1.0.1",
+                    "psr/container": "^1.1.1",
+                    "psr/http-factory": "^1.0.1",
+                    "psr/http-message": "^1.0.1",
+                    "psr/log": "^1.1.4",
+                    "ralouphie/getallheaders": "^3.0.3",
+                    "react/promise": "^2.9.0",
+                    "sebastian/cli-parser": "^1.0.1",
+                    "sebastian/code-unit": "^1.0.8",
+                    "sebastian/code-unit-reverse-lookup": "^2.0.3",
+                    "sebastian/comparator": "^4.0.6",
+                    "sebastian/complexity": "^2.0.2",
+                    "sebastian/diff": "^4.0.4",
+                    "sebastian/environment": "^5.1.3",
+                    "sebastian/exporter": "^4.0.4",
+                    "sebastian/global-state": "^5.0.5",
+                    "sebastian/lines-of-code": "^1.0.3",
+                    "sebastian/object-enumerator": "^4.0.4",
+                    "sebastian/object-reflector": "^2.0.4",
+                    "sebastian/recursion-context": "^4.0.4",
+                    "sebastian/resource-operations": "^3.0.3",
+                    "sebastian/type": "^2.3.4",
+                    "sebastian/version": "^3.0.2",
+                    "seld/jsonlint": "^1.8.3",
+                    "seld/phar-utils": "^1.2.0",
+                    "sirbrillig/phpcs-variable-analysis": "^2.11.3",
+                    "slevomat/coding-standard": "^7.0.19",
+                    "squizlabs/php_codesniffer": "^3.6.2",
+                    "stack/builder": "^1.0.6",
+                    "symfony-cmf/routing": "^2.3.4",
+                    "symfony/browser-kit": "^4.4.37",
+                    "symfony/config": "^4.4.37",
+                    "symfony/console": "^4.4.34",
+                    "symfony/css-selector": "^4.4.37",
+                    "symfony/debug": "^4.4.31",
+                    "symfony/dependency-injection": "^4.4.34",
+                    "symfony/deprecation-contracts": "^2.5.0",
+                    "symfony/dom-crawler": "^4.4.39",
+                    "symfony/error-handler": "^4.4.34",
+                    "symfony/event-dispatcher": "^4.4.34",
+                    "symfony/event-dispatcher-contracts": "^1.1.11",
+                    "symfony/filesystem": "^4.4.39",
+                    "symfony/finder": "^4.4.37",
+                    "symfony/http-client-contracts": "^2.5.0",
+                    "symfony/http-foundation": "^4.4.34",
+                    "symfony/http-kernel": "^4.4.35",
+                    "symfony/lock": "^4.4.38",
+                    "symfony/mime": "^5.4.0",
+                    "symfony/phpunit-bridge": "^5.4.3",
+                    "symfony/polyfill-ctype": "^1.23.0",
+                    "symfony/polyfill-iconv": "^1.23.0",
+                    "symfony/polyfill-intl-grapheme": "^1.25.0",
+                    "symfony/polyfill-intl-idn": "^1.23.0",
+                    "symfony/polyfill-intl-normalizer": "^1.23.0",
+                    "symfony/polyfill-mbstring": "^1.23.1",
+                    "symfony/polyfill-php72": "^1.25.0",
+                    "symfony/polyfill-php73": "^1.25.0",
+                    "symfony/polyfill-php80": "^1.23.1",
+                    "symfony/polyfill-php81": "^1.25.0",
+                    "symfony/process": "^4.4.35",
+                    "symfony/psr-http-message-bridge": "^2.1.2",
+                    "symfony/routing": "^4.4.34",
+                    "symfony/serializer": "^4.4.35",
+                    "symfony/service-contracts": "^2.5.0",
+                    "symfony/string": "^5.4.3",
+                    "symfony/translation": "^4.4.34",
+                    "symfony/translation-contracts": "^2.5.0",
+                    "symfony/validator": "^4.4.35",
+                    "symfony/var-dumper": "^5.4.0",
+                    "symfony/yaml": "^4.4.34",
+                    "textalk/websocket": "^1.5.6",
+                    "theseer/tokenizer": "^1.2.1",
+                    "twig/twig": "^2.14.11",
+                    "typo3/phar-stream-wrapper": "^3.1.7",
+                    "webmozart/assert": "^1.10.0"
+                },
+                "time": "2022-04-28 08:22:56",
+                "type": "metapackage",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP core dev recommended modules.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.6": {
+                "name": "drunomics/ldp-core-dev-recommended",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-core-dev-recommended.git",
+                    "reference": "ad069520a7c92aa3b01a1eef16ced939a3293922"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core-dev-recommended/zipball/ad069520a7c92aa3b01a1eef16ced939a3293922",
+                    "reference": "ad069520a7c92aa3b01a1eef16ced939a3293922",
+                    "shasum": ""
+                },
+                "require": {
+                    "asm89/stack-cors": "^1.3.0",
+                    "behat/behat": "^3.10.0",
+                    "behat/gherkin": "^4.9.0",
+                    "behat/mink": "^1.9.0",
+                    "behat/mink-extension": "^2.3.1",
+                    "behat/mink-goutte-driver": "^1.3.0",
+                    "behat/mink-selenium2-driver": "^1.5.0",
+                    "behat/transliterator": "^1.3.0",
+                    "composer/ca-bundle": "^1.3.1",
+                    "composer/composer": "^2.2.12",
+                    "composer/metadata-minifier": "^1.0.0",
+                    "composer/pcre": "^1.0.1",
+                    "composer/semver": "^3.2.6",
+                    "composer/spdx-licenses": "^1.5.6",
+                    "composer/xdebug-handler": "^2.0.5",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+                    "devinci/devinci-behat-extension": "^0.1.0",
+                    "dmore/behat-chrome-extension": "^1.3.0",
+                    "dmore/chrome-mink-driver": "^2.8.0",
+                    "doctrine/annotations": "^1.13.2",
+                    "doctrine/instantiator": "^1.4.1",
+                    "doctrine/lexer": "^1.2.1",
+                    "doctrine/reflection": "^1.2.2",
+                    "drunomics/behat-drupal-utils": "^2.10.0",
+                    "drupal/coder": "^8.3.13",
+                    "drupal/core": "^9.3.12",
+                    "drupal/core-dev": "^9.3.12",
+                    "drupal/core-recommended": ">=9.3.12 <9.4",
+                    "drupal/drupal-driver": "^2.1.1",
+                    "drupal/drupal-extension": "^4.1.0",
+                    "easyrdf/easyrdf": "^1.1.1",
+                    "egulias/email-validator": "^3.1.2",
+                    "fabpot/goutte": "^3.3.1",
+                    "friends-of-behat/mink-browserkit-driver": "^1.6.1",
+                    "guzzlehttp/guzzle": "^6.5.5",
+                    "guzzlehttp/promises": "^1.5.1",
+                    "guzzlehttp/psr7": "^1.8.3",
+                    "instaclick/php-webdriver": "^1.4.10",
+                    "justinrainbow/json-schema": "^5.2.11",
+                    "laminas/laminas-diactoros": "^2.8.0",
+                    "laminas/laminas-escaper": "^2.9.0",
+                    "laminas/laminas-feed": "^2.15.0",
+                    "laminas/laminas-stdlib": "^3.6.1",
+                    "masterminds/html5": "^2.7.5",
+                    "mikey179/vfsstream": "^1.6.10",
+                    "myclabs/deep-copy": "^1.11.0",
+                    "nikic/php-parser": "^4.13.2",
+                    "pear/archive_tar": "^1.4.14",
+                    "pear/console_getopt": "^1.4.3",
+                    "pear/pear-core-minimal": "^1.10.11",
+                    "pear/pear_exception": "^1.0.2",
+                    "phar-io/manifest": "^2.0.3",
+                    "phar-io/version": "^3.2.1",
+                    "phpdocumentor/reflection-common": "^2.2.0",
+                    "phpdocumentor/reflection-docblock": "^5.3.0",
+                    "phpdocumentor/type-resolver": "^1.6.0",
+                    "phpspec/prophecy": "^1.15.0",
+                    "phpstan/phpdoc-parser": "^1.2.0",
+                    "phpunit/php-code-coverage": "^9.2.14",
+                    "phpunit/php-file-iterator": "^3.0.6",
+                    "phpunit/php-invoker": "^3.1.1",
+                    "phpunit/php-text-template": "^2.0.4",
+                    "phpunit/php-timer": "^5.0.3",
+                    "phpunit/phpunit": "^9.5.17",
+                    "psr/cache": "^1.0.1",
+                    "psr/container": "^1.1.1",
+                    "psr/http-factory": "^1.0.1",
+                    "psr/http-message": "^1.0.1",
+                    "psr/log": "^1.1.4",
+                    "ralouphie/getallheaders": "^3.0.3",
+                    "react/promise": "^2.9.0",
+                    "sebastian/cli-parser": "^1.0.1",
+                    "sebastian/code-unit": "^1.0.8",
+                    "sebastian/code-unit-reverse-lookup": "^2.0.3",
+                    "sebastian/comparator": "^4.0.6",
+                    "sebastian/complexity": "^2.0.2",
+                    "sebastian/diff": "^4.0.4",
+                    "sebastian/environment": "^5.1.3",
+                    "sebastian/exporter": "^4.0.4",
+                    "sebastian/global-state": "^5.0.5",
+                    "sebastian/lines-of-code": "^1.0.3",
+                    "sebastian/object-enumerator": "^4.0.4",
+                    "sebastian/object-reflector": "^2.0.4",
+                    "sebastian/recursion-context": "^4.0.4",
+                    "sebastian/resource-operations": "^3.0.3",
+                    "sebastian/type": "^2.3.4",
+                    "sebastian/version": "^3.0.2",
+                    "seld/jsonlint": "^1.8.3",
+                    "seld/phar-utils": "^1.2.0",
+                    "sirbrillig/phpcs-variable-analysis": "^2.11.3",
+                    "slevomat/coding-standard": "^7.0.19",
+                    "squizlabs/php_codesniffer": "^3.6.2",
+                    "stack/builder": "^1.0.6",
+                    "symfony-cmf/routing": "^2.3.4",
+                    "symfony/browser-kit": "^4.4.37",
+                    "symfony/config": "^4.4.37",
+                    "symfony/console": "^4.4.34",
+                    "symfony/css-selector": "^4.4.37",
+                    "symfony/debug": "^4.4.31",
+                    "symfony/dependency-injection": "^4.4.34",
+                    "symfony/deprecation-contracts": "^2.5.0",
+                    "symfony/dom-crawler": "^4.4.39",
+                    "symfony/error-handler": "^4.4.34",
+                    "symfony/event-dispatcher": "^4.4.34",
+                    "symfony/event-dispatcher-contracts": "^1.1.11",
+                    "symfony/filesystem": "^4.4.39",
+                    "symfony/finder": "^4.4.37",
+                    "symfony/http-client-contracts": "^2.5.0",
+                    "symfony/http-foundation": "^4.4.34",
+                    "symfony/http-kernel": "^4.4.35",
+                    "symfony/lock": "^4.4.38",
+                    "symfony/mime": "^5.4.0",
+                    "symfony/phpunit-bridge": "^5.4.3",
+                    "symfony/polyfill-ctype": "^1.23.0",
+                    "symfony/polyfill-iconv": "^1.23.0",
+                    "symfony/polyfill-intl-grapheme": "^1.25.0",
+                    "symfony/polyfill-intl-idn": "^1.23.0",
+                    "symfony/polyfill-intl-normalizer": "^1.23.0",
+                    "symfony/polyfill-mbstring": "^1.23.1",
+                    "symfony/polyfill-php72": "^1.25.0",
+                    "symfony/polyfill-php73": "^1.25.0",
+                    "symfony/polyfill-php80": "^1.23.1",
+                    "symfony/polyfill-php81": "^1.25.0",
+                    "symfony/process": "^4.4.35",
+                    "symfony/psr-http-message-bridge": "^2.1.2",
+                    "symfony/routing": "^4.4.34",
+                    "symfony/serializer": "^4.4.35",
+                    "symfony/service-contracts": "^2.5.0",
+                    "symfony/string": "^5.4.3",
+                    "symfony/translation": "^4.4.34",
+                    "symfony/translation-contracts": "^2.5.0",
+                    "symfony/validator": "^4.4.35",
+                    "symfony/var-dumper": "^5.4.0",
+                    "symfony/yaml": "^4.4.34",
+                    "textalk/websocket": "^1.5.6",
+                    "theseer/tokenizer": "^1.2.1",
+                    "twig/twig": "^2.14.11",
+                    "typo3/phar-stream-wrapper": "^3.1.7",
+                    "webmozart/assert": "^1.10.0"
+                },
+                "time": "2022-04-28 08:22:56",
+                "type": "metapackage",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP core dev recommended modules.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-core-dev-recommended",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-core-dev-recommended.git",
@@ -17735,6 +18694,516 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-core-recommended",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-core-recommended.git",
+                    "reference": "b9f392add8f836439fa9a7460506ebbe32fcd2f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core-recommended/zipball/b9f392add8f836439fa9a7460506ebbe32fcd2f7",
+                    "reference": "b9f392add8f836439fa9a7460506ebbe32fcd2f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "asm89/stack-cors": "^1.3.0",
+                    "bower-asset/chosen": "^1.8.7",
+                    "bower-asset/desandro-matches-selector": "^2.0.2",
+                    "bower-asset/ev-emitter": "^1.1.1",
+                    "bower-asset/fizzy-ui-utils": "^2.0.7",
+                    "bower-asset/get-size": "^2.0.3",
+                    "bower-asset/masonry": "^4.2.2",
+                    "bower-asset/outlayer": "^2.1.1",
+                    "caxy/php-htmldiff": "^0.1.14",
+                    "ckeditor/tableresize": "^4.10.1",
+                    "ckeditor/tableselection": "^4.10.1",
+                    "ckeditor/tabletoolstoolbar": "^0.0.1",
+                    "composer/semver": "^3.2.6",
+                    "consolidation/annotated-command": "^4.5.2",
+                    "consolidation/output-formatters": "^4.2.2",
+                    "container-interop/container-interop": "^1.2.0",
+                    "cweagans/composer-patches": "^1.7.2",
+                    "dflydev/dot-access-data": "^1.1.0",
+                    "doctrine/annotations": "^1.13.2",
+                    "doctrine/lexer": "^1.2.1",
+                    "doctrine/reflection": "^1.2.2",
+                    "drunomics/advertorial": "^1.3.1",
+                    "drunomics/config_ignore_keys": "^1.0.0",
+                    "drunomics/lupus-extlink": "^1.1.6",
+                    "drunomics/lupus-image": "^3.5.4",
+                    "drunomics/service-utils": "^9.3.0",
+                    "drunomics/views_exclude_previous": "^1.0.4",
+                    "drupal/access_unpublished": "^1.3.0",
+                    "drupal/admin_toolbar": "^3.1.0",
+                    "drupal/allowed_formats": "^1.4.0",
+                    "drupal/block_content_permissions": "^1.10.0",
+                    "drupal/build_hooks": "^3.3.0",
+                    "drupal/cache_tools": "^1.5.0",
+                    "drupal/captcha": "^1.2.0",
+                    "drupal/chosen": "^3.0.1",
+                    "drupal/chosen_lib": "^3.0.1",
+                    "drupal/ckeditor_tableresize": "^1.1.0",
+                    "drupal/ckeditor_tableselection": "^2.0.0-rc1",
+                    "drupal/ckeditor_tabletoolstoolbar": "^2.0.0-rc1",
+                    "drupal/coffee": "^1.2.0",
+                    "drupal/config_filter": "^1.8.0",
+                    "drupal/config_ignore": "^2.3.0",
+                    "drupal/config_override_warn": "^1.3.0",
+                    "drupal/config_update": "^1.7.0",
+                    "drupal/content_browser": "^1.0.0",
+                    "drupal/content_lock": "^2.2.0",
+                    "drupal/core": "^9.3.6",
+                    "drupal/core-recommended": ">=9.3.6 <9.4",
+                    "drupal/crop": "^2.2.0",
+                    "drupal/ctools": "^3.7.0",
+                    "drupal/custom_elements": "^2.0.0-beta5",
+                    "drupal/diff": "^1.0.0",
+                    "drupal/double_field": "^4.0.0",
+                    "drupal/dropzonejs": "^2.5.0",
+                    "drupal/dynamic_entity_reference": "^1.16.0",
+                    "drupal/embed": "^1.4.0",
+                    "drupal/empty_fields": "^1.0.0-beta1",
+                    "drupal/entity_browser": "^2.6.0",
+                    "drupal/entity_embed": "^1.2.0",
+                    "drupal/entity_reference_revisions": "^1.9.0",
+                    "drupal/facets": "^2.0.1",
+                    "drupal/features": "^3.12.0",
+                    "drupal/field_group": "^3.2.0",
+                    "drupal/file_mdm": "^2.4.0",
+                    "drupal/file_mdm_exif": "^2.4.0",
+                    "drupal/file_mdm_font": "^2.4.0",
+                    "drupal/focal_point": "^1.5.0",
+                    "drupal/gin": "^3.0.0-alpha37",
+                    "drupal/gin_login": "^1.0.0",
+                    "drupal/gin_toolbar": "^1.0.0-beta20",
+                    "drupal/google_analytics": "^2.5.0",
+                    "drupal/http_cache_control": "^2.0.0",
+                    "drupal/image_effects": "^3.2.0",
+                    "drupal/imageapi_optimize": "^4.0.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0.0-alpha2",
+                    "drupal/imageapi_optimize_resmushit": "^2.0.0-beta1",
+                    "drupal/imageapi_optimize_tinypng": "^1.1.0-beta1",
+                    "drupal/imageapi_optimize_webp": "^2.0.0-beta3",
+                    "drupal/imagemagick": "^3.3.0",
+                    "drupal/inline_entity_form": "^1.0.0-rc9",
+                    "drupal/layout_builder_browser": "^1.4.0",
+                    "drupal/layout_builder_operation_link": "^1.0.1",
+                    "drupal/layout_builder_restrictions": "^2.12.0",
+                    "drupal/length_indicator": "^1.2.0",
+                    "drupal/libraries": "^3.0.0-beta2",
+                    "drupal/linkit": "^6.0.0-beta3",
+                    "drupal/log_cache_tags": "^1.0.0",
+                    "drupal/lupus_ce_renderer": "^2.0.0-beta11",
+                    "drupal/lupus_stark": "^1.0.0-alpha4",
+                    "drupal/lupus_taxonomy_import": "^1.1.0",
+                    "drupal/media_entity_instagram": "^3.0.6",
+                    "drupal/media_entity_pinterest": "^2.5.0",
+                    "drupal/media_entity_slideshow": "^2.4.0",
+                    "drupal/media_entity_twitter": "^2.7.0",
+                    "drupal/media_expire": "^2.4.0",
+                    "drupal/media_file_delete": "^1.1.0",
+                    "drupal/media_library_edit": "^2.2.0",
+                    "drupal/menu_admin_per_menu": "^1.3.0",
+                    "drupal/metatag": "^1.19.0",
+                    "drupal/metatag_async_widget": "^1.0.0",
+                    "drupal/override_node_options": "^2.6.0",
+                    "drupal/paragraphs": "^1.12.0",
+                    "drupal/paragraphs_features": "^1.15.0",
+                    "drupal/password_policy": "^3.0.0",
+                    "drupal/pathauto": "^1.9.0",
+                    "drupal/pcb": "^2.3.0",
+                    "drupal/publication_date": "^2.0.0-beta4",
+                    "drupal/purge": "^3.2.0",
+                    "drupal/recaptcha": "^3.0.0",
+                    "drupal/redirect": "^1.7.0",
+                    "drupal/request_info": "^1.3.0",
+                    "drupal/responsive_preview": "^1.1.0",
+                    "drupal/rest_menu_items": "^3.0.2",
+                    "drupal/scheduler": "^1.4.0",
+                    "drupal/scheduler_content_moderation_integration": "^1.3.0",
+                    "drupal/schema_metatag": "^2.2.0",
+                    "drupal/search_api": "^1.23.0",
+                    "drupal/search_api_autocomplete": "^1.6.0",
+                    "drupal/search_api_solr": "^4.2.7",
+                    "drupal/select2": "^1.13.0",
+                    "drupal/shs": "^2.0.0-rc1",
+                    "drupal/simple_sitemap": "^3.11.0",
+                    "drupal/simple_sitemap_extensions": "^1.0.3",
+                    "drupal/sophron": "^1.2.0",
+                    "drupal/telephone_validation": "^2.3.0",
+                    "drupal/token": "^1.10.0",
+                    "drupal/token_default": "^1.0.0-beta3",
+                    "drupal/trusted_redirect": "^1.9.0",
+                    "drupal/typed_data": "^1.0.0-beta1",
+                    "drupal/upgrade_status": "^3.13.0",
+                    "drupal/varnish_purge": "^2.1.0",
+                    "drupal/video_embed_field": "^2.4.0",
+                    "drupal/views_bulk_edit": "^2.6.0",
+                    "drupal/views_bulk_operations": "^3.13.0",
+                    "drupal/views_ef_fieldset": "^1.5.0",
+                    "drupal/views_googlenews": "^1.0.0",
+                    "drupal/webform": "^6.1.3",
+                    "drupal/yaml_content": "^1.0.0-alpha7",
+                    "drupal/yaml_editor": "^1.1.0",
+                    "egulias/email-validator": "^3.1.2",
+                    "ezyang/htmlpurifier": "^4.14.0",
+                    "fileeye/mimemap": "^1.2.1",
+                    "giggsey/libphonenumber-for-php": "^8.12.43",
+                    "giggsey/locale": "^2.1",
+                    "google/recaptcha": "^1.2.4",
+                    "guzzlehttp/guzzle": "^6.5.5",
+                    "guzzlehttp/promises": "^1.5.1",
+                    "guzzlehttp/psr7": "^1.8.3",
+                    "harvesthq/chosen": "^1.8.7",
+                    "j7mbo/twitter-api-php": "^1.0.6",
+                    "laminas/laminas-diactoros": "^2.8.0",
+                    "laminas/laminas-escaper": "^2.9.0",
+                    "laminas/laminas-feed": "^2.15.0",
+                    "laminas/laminas-servicemanager": "^3.10.0",
+                    "laminas/laminas-stdlib": "^3.6.1",
+                    "laminas/laminas-text": "^2.9.0",
+                    "lsolesen/pel": "^0.9.12",
+                    "maennchen/zipstream-php": "^2.1.0",
+                    "masterminds/html5": "^2.7.5",
+                    "mathieuviossat/arraytotexttable": "^1.0.8",
+                    "mglaman/phpstan-drupal": "^1.1.11",
+                    "mkalkbrenner/php-htmldiff-advanced": "^0.0.8",
+                    "myclabs/php-enum": "^1.8.3",
+                    "nikic/php-parser": "^4.13.2",
+                    "npm-asset/classnames": "^2.3.1",
+                    "npm-asset/core-js": "^3.19.3",
+                    "npm-asset/dropzone": "^5.9.3",
+                    "npm-asset/feather-icons": "^4.28.0",
+                    "npm-asset/select2": "^4.0.13",
+                    "pear/archive_tar": "^1.4.14",
+                    "pear/console_getopt": "^1.4.3",
+                    "pear/pear-core-minimal": "^1.10.11",
+                    "pear/pear_exception": "^1.0.2",
+                    "phenx/php-font-lib": "^0.5.4",
+                    "phpstan/phpstan": "^1.4.6",
+                    "phpstan/phpstan-deprecation-rules": "^1.0.0",
+                    "psr/cache": "^1.0.1",
+                    "psr/container": "^1.1.1",
+                    "psr/event-dispatcher": "^1.0.0",
+                    "psr/http-client": "^1.0.1",
+                    "psr/http-factory": "^1.0.1",
+                    "psr/http-message": "^1.0.1",
+                    "psr/log": "^1.1.4",
+                    "ralouphie/getallheaders": "^3.0.3",
+                    "solarium/solarium": "^6.2.3",
+                    "stack/builder": "^1.0.6",
+                    "symfony-cmf/routing": "^2.3.4",
+                    "symfony/console": "^4.4.34",
+                    "symfony/debug": "^4.4.31",
+                    "symfony/dependency-injection": "^4.4.34",
+                    "symfony/deprecation-contracts": "^2.5.0",
+                    "symfony/error-handler": "^4.4.34",
+                    "symfony/event-dispatcher": "^4.4.34",
+                    "symfony/event-dispatcher-contracts": "^1.1.11",
+                    "symfony/filesystem": "^4.4.37",
+                    "symfony/finder": "^4.4.37",
+                    "symfony/http-client-contracts": "^2.5.0",
+                    "symfony/http-foundation": "^4.4.34",
+                    "symfony/http-kernel": "^4.4.35",
+                    "symfony/mime": "^5.4.0",
+                    "symfony/polyfill-ctype": "^1.23.0",
+                    "symfony/polyfill-iconv": "^1.23.0",
+                    "symfony/polyfill-intl-idn": "^1.23.0",
+                    "symfony/polyfill-intl-normalizer": "^1.23.0",
+                    "symfony/polyfill-mbstring": "^1.23.1",
+                    "symfony/polyfill-php72": "^1.24.0",
+                    "symfony/polyfill-php73": "^1.24.0",
+                    "symfony/polyfill-php80": "^1.23.1",
+                    "symfony/process": "^4.4.35",
+                    "symfony/psr-http-message-bridge": "^2.1.2",
+                    "symfony/routing": "^4.4.34",
+                    "symfony/serializer": "^4.4.35",
+                    "symfony/service-contracts": "^2.5.0",
+                    "symfony/translation": "^4.4.34",
+                    "symfony/translation-contracts": "^2.5.0",
+                    "symfony/validator": "^4.4.35",
+                    "symfony/var-dumper": "^5.4.0",
+                    "symfony/yaml": "^4.4.34",
+                    "tinify/tinify": "^1.5.3",
+                    "twig/twig": "^2.14.11",
+                    "typo3/phar-stream-wrapper": "^3.1.7",
+                    "webflo/drupal-finder": "^1.2.2"
+                },
+                "time": "2022-03-07 14:29:42",
+                "type": "metapackage",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP core recommended modules.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-core-recommended",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-core-recommended.git",
+                    "reference": "b9f392add8f836439fa9a7460506ebbe32fcd2f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-core-recommended/zipball/b9f392add8f836439fa9a7460506ebbe32fcd2f7",
+                    "reference": "b9f392add8f836439fa9a7460506ebbe32fcd2f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "asm89/stack-cors": "^1.3.0",
+                    "bower-asset/chosen": "^1.8.7",
+                    "bower-asset/desandro-matches-selector": "^2.0.2",
+                    "bower-asset/ev-emitter": "^1.1.1",
+                    "bower-asset/fizzy-ui-utils": "^2.0.7",
+                    "bower-asset/get-size": "^2.0.3",
+                    "bower-asset/masonry": "^4.2.2",
+                    "bower-asset/outlayer": "^2.1.1",
+                    "caxy/php-htmldiff": "^0.1.14",
+                    "ckeditor/tableresize": "^4.10.1",
+                    "ckeditor/tableselection": "^4.10.1",
+                    "ckeditor/tabletoolstoolbar": "^0.0.1",
+                    "composer/semver": "^3.2.6",
+                    "consolidation/annotated-command": "^4.5.2",
+                    "consolidation/output-formatters": "^4.2.2",
+                    "container-interop/container-interop": "^1.2.0",
+                    "cweagans/composer-patches": "^1.7.2",
+                    "dflydev/dot-access-data": "^1.1.0",
+                    "doctrine/annotations": "^1.13.2",
+                    "doctrine/lexer": "^1.2.1",
+                    "doctrine/reflection": "^1.2.2",
+                    "drunomics/advertorial": "^1.3.1",
+                    "drunomics/config_ignore_keys": "^1.0.0",
+                    "drunomics/lupus-extlink": "^1.1.6",
+                    "drunomics/lupus-image": "^3.5.4",
+                    "drunomics/service-utils": "^9.3.0",
+                    "drunomics/views_exclude_previous": "^1.0.4",
+                    "drupal/access_unpublished": "^1.3.0",
+                    "drupal/admin_toolbar": "^3.1.0",
+                    "drupal/allowed_formats": "^1.4.0",
+                    "drupal/block_content_permissions": "^1.10.0",
+                    "drupal/build_hooks": "^3.3.0",
+                    "drupal/cache_tools": "^1.5.0",
+                    "drupal/captcha": "^1.2.0",
+                    "drupal/chosen": "^3.0.1",
+                    "drupal/chosen_lib": "^3.0.1",
+                    "drupal/ckeditor_tableresize": "^1.1.0",
+                    "drupal/ckeditor_tableselection": "^2.0.0-rc1",
+                    "drupal/ckeditor_tabletoolstoolbar": "^2.0.0-rc1",
+                    "drupal/coffee": "^1.2.0",
+                    "drupal/config_filter": "^1.8.0",
+                    "drupal/config_ignore": "^2.3.0",
+                    "drupal/config_override_warn": "^1.3.0",
+                    "drupal/config_update": "^1.7.0",
+                    "drupal/content_browser": "^1.0.0",
+                    "drupal/content_lock": "^2.2.0",
+                    "drupal/core": "^9.3.6",
+                    "drupal/core-recommended": ">=9.3.6 <9.4",
+                    "drupal/crop": "^2.2.0",
+                    "drupal/ctools": "^3.7.0",
+                    "drupal/custom_elements": "^2.0.0-beta5",
+                    "drupal/diff": "^1.0.0",
+                    "drupal/double_field": "^4.0.0",
+                    "drupal/dropzonejs": "^2.5.0",
+                    "drupal/dynamic_entity_reference": "^1.16.0",
+                    "drupal/embed": "^1.4.0",
+                    "drupal/empty_fields": "^1.0.0-beta1",
+                    "drupal/entity_browser": "^2.6.0",
+                    "drupal/entity_embed": "^1.2.0",
+                    "drupal/entity_reference_revisions": "^1.9.0",
+                    "drupal/facets": "^2.0.1",
+                    "drupal/features": "^3.12.0",
+                    "drupal/field_group": "^3.2.0",
+                    "drupal/file_mdm": "^2.4.0",
+                    "drupal/file_mdm_exif": "^2.4.0",
+                    "drupal/file_mdm_font": "^2.4.0",
+                    "drupal/focal_point": "^1.5.0",
+                    "drupal/gin": "^3.0.0-alpha37",
+                    "drupal/gin_login": "^1.0.0",
+                    "drupal/gin_toolbar": "^1.0.0-beta20",
+                    "drupal/google_analytics": "^2.5.0",
+                    "drupal/http_cache_control": "^2.0.0",
+                    "drupal/image_effects": "^3.2.0",
+                    "drupal/imageapi_optimize": "^4.0.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0.0-alpha2",
+                    "drupal/imageapi_optimize_resmushit": "^2.0.0-beta1",
+                    "drupal/imageapi_optimize_tinypng": "^1.1.0-beta1",
+                    "drupal/imageapi_optimize_webp": "^2.0.0-beta3",
+                    "drupal/imagemagick": "^3.3.0",
+                    "drupal/inline_entity_form": "^1.0.0-rc9",
+                    "drupal/layout_builder_browser": "^1.4.0",
+                    "drupal/layout_builder_operation_link": "^1.0.1",
+                    "drupal/layout_builder_restrictions": "^2.12.0",
+                    "drupal/length_indicator": "^1.2.0",
+                    "drupal/libraries": "^3.0.0-beta2",
+                    "drupal/linkit": "^6.0.0-beta3",
+                    "drupal/log_cache_tags": "^1.0.0",
+                    "drupal/lupus_ce_renderer": "^2.0.0-beta11",
+                    "drupal/lupus_stark": "^1.0.0-alpha4",
+                    "drupal/lupus_taxonomy_import": "^1.1.0",
+                    "drupal/media_entity_instagram": "^3.0.6",
+                    "drupal/media_entity_pinterest": "^2.5.0",
+                    "drupal/media_entity_slideshow": "^2.4.0",
+                    "drupal/media_entity_twitter": "^2.7.0",
+                    "drupal/media_expire": "^2.4.0",
+                    "drupal/media_file_delete": "^1.1.0",
+                    "drupal/media_library_edit": "^2.2.0",
+                    "drupal/menu_admin_per_menu": "^1.3.0",
+                    "drupal/metatag": "^1.19.0",
+                    "drupal/metatag_async_widget": "^1.0.0",
+                    "drupal/override_node_options": "^2.6.0",
+                    "drupal/paragraphs": "^1.12.0",
+                    "drupal/paragraphs_features": "^1.15.0",
+                    "drupal/password_policy": "^3.0.0",
+                    "drupal/pathauto": "^1.9.0",
+                    "drupal/pcb": "^2.3.0",
+                    "drupal/publication_date": "^2.0.0-beta4",
+                    "drupal/purge": "^3.2.0",
+                    "drupal/recaptcha": "^3.0.0",
+                    "drupal/redirect": "^1.7.0",
+                    "drupal/request_info": "^1.3.0",
+                    "drupal/responsive_preview": "^1.1.0",
+                    "drupal/rest_menu_items": "^3.0.2",
+                    "drupal/scheduler": "^1.4.0",
+                    "drupal/scheduler_content_moderation_integration": "^1.3.0",
+                    "drupal/schema_metatag": "^2.2.0",
+                    "drupal/search_api": "^1.23.0",
+                    "drupal/search_api_autocomplete": "^1.6.0",
+                    "drupal/search_api_solr": "^4.2.7",
+                    "drupal/select2": "^1.13.0",
+                    "drupal/shs": "^2.0.0-rc1",
+                    "drupal/simple_sitemap": "^3.11.0",
+                    "drupal/simple_sitemap_extensions": "^1.0.3",
+                    "drupal/sophron": "^1.2.0",
+                    "drupal/telephone_validation": "^2.3.0",
+                    "drupal/token": "^1.10.0",
+                    "drupal/token_default": "^1.0.0-beta3",
+                    "drupal/trusted_redirect": "^1.9.0",
+                    "drupal/typed_data": "^1.0.0-beta1",
+                    "drupal/upgrade_status": "^3.13.0",
+                    "drupal/varnish_purge": "^2.1.0",
+                    "drupal/video_embed_field": "^2.4.0",
+                    "drupal/views_bulk_edit": "^2.6.0",
+                    "drupal/views_bulk_operations": "^3.13.0",
+                    "drupal/views_ef_fieldset": "^1.5.0",
+                    "drupal/views_googlenews": "^1.0.0",
+                    "drupal/webform": "^6.1.3",
+                    "drupal/yaml_content": "^1.0.0-alpha7",
+                    "drupal/yaml_editor": "^1.1.0",
+                    "egulias/email-validator": "^3.1.2",
+                    "ezyang/htmlpurifier": "^4.14.0",
+                    "fileeye/mimemap": "^1.2.1",
+                    "giggsey/libphonenumber-for-php": "^8.12.43",
+                    "giggsey/locale": "^2.1",
+                    "google/recaptcha": "^1.2.4",
+                    "guzzlehttp/guzzle": "^6.5.5",
+                    "guzzlehttp/promises": "^1.5.1",
+                    "guzzlehttp/psr7": "^1.8.3",
+                    "harvesthq/chosen": "^1.8.7",
+                    "j7mbo/twitter-api-php": "^1.0.6",
+                    "laminas/laminas-diactoros": "^2.8.0",
+                    "laminas/laminas-escaper": "^2.9.0",
+                    "laminas/laminas-feed": "^2.15.0",
+                    "laminas/laminas-servicemanager": "^3.10.0",
+                    "laminas/laminas-stdlib": "^3.6.1",
+                    "laminas/laminas-text": "^2.9.0",
+                    "lsolesen/pel": "^0.9.12",
+                    "maennchen/zipstream-php": "^2.1.0",
+                    "masterminds/html5": "^2.7.5",
+                    "mathieuviossat/arraytotexttable": "^1.0.8",
+                    "mglaman/phpstan-drupal": "^1.1.11",
+                    "mkalkbrenner/php-htmldiff-advanced": "^0.0.8",
+                    "myclabs/php-enum": "^1.8.3",
+                    "nikic/php-parser": "^4.13.2",
+                    "npm-asset/classnames": "^2.3.1",
+                    "npm-asset/core-js": "^3.19.3",
+                    "npm-asset/dropzone": "^5.9.3",
+                    "npm-asset/feather-icons": "^4.28.0",
+                    "npm-asset/select2": "^4.0.13",
+                    "pear/archive_tar": "^1.4.14",
+                    "pear/console_getopt": "^1.4.3",
+                    "pear/pear-core-minimal": "^1.10.11",
+                    "pear/pear_exception": "^1.0.2",
+                    "phenx/php-font-lib": "^0.5.4",
+                    "phpstan/phpstan": "^1.4.6",
+                    "phpstan/phpstan-deprecation-rules": "^1.0.0",
+                    "psr/cache": "^1.0.1",
+                    "psr/container": "^1.1.1",
+                    "psr/event-dispatcher": "^1.0.0",
+                    "psr/http-client": "^1.0.1",
+                    "psr/http-factory": "^1.0.1",
+                    "psr/http-message": "^1.0.1",
+                    "psr/log": "^1.1.4",
+                    "ralouphie/getallheaders": "^3.0.3",
+                    "solarium/solarium": "^6.2.3",
+                    "stack/builder": "^1.0.6",
+                    "symfony-cmf/routing": "^2.3.4",
+                    "symfony/console": "^4.4.34",
+                    "symfony/debug": "^4.4.31",
+                    "symfony/dependency-injection": "^4.4.34",
+                    "symfony/deprecation-contracts": "^2.5.0",
+                    "symfony/error-handler": "^4.4.34",
+                    "symfony/event-dispatcher": "^4.4.34",
+                    "symfony/event-dispatcher-contracts": "^1.1.11",
+                    "symfony/filesystem": "^4.4.37",
+                    "symfony/finder": "^4.4.37",
+                    "symfony/http-client-contracts": "^2.5.0",
+                    "symfony/http-foundation": "^4.4.34",
+                    "symfony/http-kernel": "^4.4.35",
+                    "symfony/mime": "^5.4.0",
+                    "symfony/polyfill-ctype": "^1.23.0",
+                    "symfony/polyfill-iconv": "^1.23.0",
+                    "symfony/polyfill-intl-idn": "^1.23.0",
+                    "symfony/polyfill-intl-normalizer": "^1.23.0",
+                    "symfony/polyfill-mbstring": "^1.23.1",
+                    "symfony/polyfill-php72": "^1.24.0",
+                    "symfony/polyfill-php73": "^1.24.0",
+                    "symfony/polyfill-php80": "^1.23.1",
+                    "symfony/process": "^4.4.35",
+                    "symfony/psr-http-message-bridge": "^2.1.2",
+                    "symfony/routing": "^4.4.34",
+                    "symfony/serializer": "^4.4.35",
+                    "symfony/service-contracts": "^2.5.0",
+                    "symfony/translation": "^4.4.34",
+                    "symfony/translation-contracts": "^2.5.0",
+                    "symfony/validator": "^4.4.35",
+                    "symfony/var-dumper": "^5.4.0",
+                    "symfony/yaml": "^4.4.34",
+                    "tinify/tinify": "^1.5.3",
+                    "twig/twig": "^2.14.11",
+                    "typo3/phar-stream-wrapper": "^3.1.7",
+                    "webflo/drupal-finder": "^1.2.2"
+                },
+                "time": "2022-03-07 14:29:42",
+                "type": "metapackage",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP core recommended modules.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-core-recommended",
                 "version": "22.1.x-dev",
@@ -18931,6 +20400,78 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-cp",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-cp.git",
+                    "reference": "578f203fe14c027706672fba6115478367c3fa8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-cp/zipball/578f203fe14c027706672fba6115478367c3fa8f",
+                    "reference": "578f203fe14c027706672fba6115478367c3fa8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*",
+                    "drupal/simple_sitemap_extensions": "^1.0.3",
+                    "drupal/yaml_editor": "^1.1.0"
+                },
+                "time": "2022-05-25 07:29:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP contentpool module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-cp",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-cp.git",
+                    "reference": "578f203fe14c027706672fba6115478367c3fa8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-cp/zipball/578f203fe14c027706672fba6115478367c3fa8f",
+                    "reference": "578f203fe14c027706672fba6115478367c3fa8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*",
+                    "drupal/simple_sitemap_extensions": "^1.0.3",
+                    "drupal/yaml_editor": "^1.1.0"
+                },
+                "time": "2022-05-25 07:29:29",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP contentpool module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-cp",
                 "version": "22.1.x-dev",
@@ -18967,10 +20508,10 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp-cp",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-cp.git",
@@ -19784,6 +21325,96 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-form-builder",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-form-builder.git",
+                    "reference": "43c3d5bcdc1c81ed3a5297358f9d59075f718c8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-form-builder/zipball/43c3d5bcdc1c81ed3a5297358f9d59075f718c8a",
+                    "reference": "43c3d5bcdc1c81ed3a5297358f9d59075f718c8a",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*",
+                    "drupal/recaptcha": "^3.0",
+                    "drupal/telephone_validation": "^2.3",
+                    "drupal/webform": "^6.1.0",
+                    "google/recaptcha": "^1.2.4"
+                },
+                "time": "2022-04-14 10:00:03",
+                "type": "drupal-module",
+                "extra": {
+                    "patches": {
+                        "drupal/webform": {
+                            "#3274526: Relative redirects for non external confirmation Urls": "https://www.drupal.org/files/issues/2022-04-12/3274526-MR-169.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Allows editors to manage forms via the Drupal Webform module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-form-builder",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-form-builder.git",
+                    "reference": "43c3d5bcdc1c81ed3a5297358f9d59075f718c8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-form-builder/zipball/43c3d5bcdc1c81ed3a5297358f9d59075f718c8a",
+                    "reference": "43c3d5bcdc1c81ed3a5297358f9d59075f718c8a",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*",
+                    "drupal/recaptcha": "^3.0",
+                    "drupal/telephone_validation": "^2.3",
+                    "drupal/webform": "^6.1.0",
+                    "google/recaptcha": "^1.2.4"
+                },
+                "time": "2022-04-14 10:00:03",
+                "type": "drupal-module",
+                "extra": {
+                    "patches": {
+                        "drupal/webform": {
+                            "#3274526: Relative redirects for non external confirmation Urls": "https://www.drupal.org/files/issues/2022-04-12/3274526-MR-169.patch"
+                        }
+                    }
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Allows editors to manage forms via the Drupal Webform module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-form-builder",
                 "version": "22.1.x-dev",
@@ -19829,10 +21460,10 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp-form-builder",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-form-builder.git",
@@ -21639,6 +23270,74 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-issuu",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-issuu.git",
+                    "reference": "c8a38fedb72431c520b972d810be8ded513ec8ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-issuu/zipball/c8a38fedb72431c520b972d810be8ded513ec8ce",
+                    "reference": "c8a38fedb72431c520b972d810be8ded513ec8ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-01-31 16:42:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP issuu module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-issuu",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-issuu.git",
+                    "reference": "c8a38fedb72431c520b972d810be8ded513ec8ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-issuu/zipball/c8a38fedb72431c520b972d810be8ded513ec8ce",
+                    "reference": "c8a38fedb72431c520b972d810be8ded513ec8ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-01-31 16:42:59",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP issuu module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-issuu",
                 "version": "22.1.x-dev",
@@ -21673,10 +23372,10 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp-issuu",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-issuu.git",
@@ -23945,6 +25644,74 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-oewa",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-oewa.git",
+                    "reference": "d7f92a124e0e8779926995f2621d5f2e89818a35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-oewa/zipball/d7f92a124e0e8779926995f2621d5f2e89818a35",
+                    "reference": "d7f92a124e0e8779926995f2621d5f2e89818a35",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-01-31 16:43:36",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP oewa module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-oewa",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-oewa.git",
+                    "reference": "d7f92a124e0e8779926995f2621d5f2e89818a35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-oewa/zipball/d7f92a124e0e8779926995f2621d5f2e89818a35",
+                    "reference": "d7f92a124e0e8779926995f2621d5f2e89818a35",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*"
+                },
+                "time": "2022-01-31 16:43:36",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP oewa module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-oewa",
                 "version": "22.1.x-dev",
@@ -23979,10 +25746,10 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp-oewa",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-oewa.git",
@@ -24071,43 +25838,6 @@
                     "drupal/views_googlenews": "^1.0"
                 },
                 "time": "2022-02-15 22:28:21",
-                "type": "drupal-module",
-                "license": [
-                    "GPL-3.0-or-later"
-                ],
-                "authors": [
-                    {
-                        "name": "drunomics GmbH"
-                    }
-                ],
-                "description": "LDP SEO+ module.",
-                "keywords": [
-                    "drupal",
-                    "ldp",
-                    "seo"
-                ]
-            },
-            "22.3.x-dev": {
-                "name": "drunomics/ldp-seo-plus",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:drunomics/ldp-seo-plus.git",
-                    "reference": "e29a86aaec923aa1cc33de53e8368faaabb4d152"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/ldp-seo-plus/zipball/e29a86aaec923aa1cc33de53e8368faaabb4d152",
-                    "reference": "e29a86aaec923aa1cc33de53e8368faaabb4d152",
-                    "shasum": ""
-                },
-                "require": {
-                    "drunomics/ldp-core": "22.3.*",
-                    "drunomics/simple_sitemap_extensions": "^1.4",
-                    "drupal/views_googlenews": "^1.0"
-                },
-                "time": "2022-07-14 11:24:57",
                 "type": "drupal-module",
                 "license": [
                     "GPL-3.0-or-later"
@@ -25455,6 +27185,78 @@
                     "ldp"
                 ]
             },
+            "22.1.6": {
+                "name": "drunomics/ldp-solr",
+                "version": "22.1.6",
+                "version_normalized": "22.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-solr.git",
+                    "reference": "20b6163d93c51d5fb75b41e66e025be364345205"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-solr/zipball/20b6163d93c51d5fb75b41e66e025be364345205",
+                    "reference": "20b6163d93c51d5fb75b41e66e025be364345205",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*",
+                    "drupal/search_api_autocomplete": "^1.5.0",
+                    "drupal/search_api_solr": "^4.2.2"
+                },
+                "time": "2022-02-02 16:50:50",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP solr module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
+            "22.1.7": {
+                "name": "drunomics/ldp-solr",
+                "version": "22.1.7",
+                "version_normalized": "22.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/ldp-solr.git",
+                    "reference": "20b6163d93c51d5fb75b41e66e025be364345205"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/ldp-solr/zipball/20b6163d93c51d5fb75b41e66e025be364345205",
+                    "reference": "20b6163d93c51d5fb75b41e66e025be364345205",
+                    "shasum": ""
+                },
+                "require": {
+                    "drunomics/ldp-core": "22.1.*",
+                    "drupal/search_api_autocomplete": "^1.5.0",
+                    "drupal/search_api_solr": "^4.2.2"
+                },
+                "time": "2022-02-02 16:50:50",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "LDP solr module.",
+                "keywords": [
+                    "drupal",
+                    "ldp"
+                ]
+            },
             "22.1.x-dev": {
                 "name": "drunomics/ldp-solr",
                 "version": "22.1.x-dev",
@@ -25491,10 +27293,10 @@
                     "ldp"
                 ]
             },
-            "22.3.x-dev": {
+            "22.3.0-rc1": {
                 "name": "drunomics/ldp-solr",
-                "version": "22.3.x-dev",
-                "version_normalized": "22.3.9999999.9999999-dev",
+                "version": "22.3.0-rc1",
+                "version_normalized": "22.3.0.0-RC1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:drunomics/ldp-solr.git",
@@ -25596,7 +27398,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:drunomics/ldp_migrate_xml.git",
-                    "reference": "39e914ccf4bc820ce3b7204bf4ff7c20298590f3"
+                    "reference": "6d7e4b8d326bcf82ce73b3aaa4afc8eed78bc697"
                 },
                 "require": {
                     "drupal/migrate_file": "^1.1",
@@ -25606,7 +27408,7 @@
                 "suggest": {
                     "google/apiclient": "Needed for the ldp_youtube_video process plugin."
                 },
-                "time": "2021-08-02 12:14:09",
+                "time": "2022-08-26 12:41:01",
                 "type": "drupal-module",
                 "extra": {
                     "drush": {
