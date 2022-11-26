@@ -359,12 +359,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "e098b74a7a86284052e054724bc07d7126625fe7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/e098b74a7a86284052e054724bc07d7126625fe7",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/e098b74a7a86284052e054724bc07d7126625fe7",
                     "reference": "e098b74a7a86284052e054724bc07d7126625fe7",
                     "shasum": ""
                 },
@@ -383,12 +383,12 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/291076b70cd06b819ae62022c9445e0a6d7cfe11",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/291076b70cd06b819ae62022c9445e0a6d7cfe11",
                     "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11",
                     "shasum": ""
                 },
@@ -407,12 +407,12 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/1d5743f56752751326ba25afd9e8517a59a4c0f6",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/1d5743f56752751326ba25afd9e8517a59a4c0f6",
                     "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6",
                     "shasum": ""
                 },
@@ -431,12 +431,12 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "c40f4716c905bda62966bf9bf232674b0011b300"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/c40f4716c905bda62966bf9bf232674b0011b300",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/c40f4716c905bda62966bf9bf232674b0011b300",
                     "reference": "c40f4716c905bda62966bf9bf232674b0011b300",
                     "shasum": ""
                 },
@@ -455,12 +455,12 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "7a1245604248efec22123af0886376a00efc5501"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/7a1245604248efec22123af0886376a00efc5501",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/7a1245604248efec22123af0886376a00efc5501",
                     "reference": "7a1245604248efec22123af0886376a00efc5501",
                     "shasum": ""
                 },
@@ -479,12 +479,12 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "683e0d99cdc3b47ab933efa3ed0d78b05eb5c070"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/683e0d99cdc3b47ab933efa3ed0d78b05eb5c070",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/683e0d99cdc3b47ab933efa3ed0d78b05eb5c070",
                     "reference": "683e0d99cdc3b47ab933efa3ed0d78b05eb5c070",
                     "shasum": ""
                 },
@@ -503,12 +503,12 @@
                 "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "434ad227050eeb312e7c5616d7f81634ad45980f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/434ad227050eeb312e7c5616d7f81634ad45980f",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/434ad227050eeb312e7c5616d7f81634ad45980f",
                     "reference": "434ad227050eeb312e7c5616d7f81634ad45980f",
                     "shasum": ""
                 },
@@ -527,12 +527,12 @@
                 "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "url": "git@github.com:drunomics/content_snippet.git",
                     "reference": "05f4ddd471aedafed644402409c9641df6f603d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/05f4ddd471aedafed644402409c9641df6f603d4",
+                    "url": "https://api.github.com/repos/drunomics/content_snippet/zipball/05f4ddd471aedafed644402409c9641df6f603d4",
                     "reference": "05f4ddd471aedafed644402409c9641df6f603d4",
                     "shasum": ""
                 },
