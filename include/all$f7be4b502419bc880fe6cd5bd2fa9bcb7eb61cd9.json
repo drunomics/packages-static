@@ -1,0 +1,453 @@
+{
+    "packages": {
+        "ckeditor/tableresize": {
+            "4.10.1": {
+                "name": "ckeditor/tableresize",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableresize/releases/tableresize_4.10.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tableselection": {
+            "4.10.1": {
+                "name": "ckeditor/tableselection",
+                "version": "4.10.1",
+                "version_normalized": "4.10.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tableselection/releases/tableselection_4.10.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/tabletoolstoolbar": {
+            "0.0.1": {
+                "name": "ckeditor/tabletoolstoolbar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drunomics/content_snippet": {
+            "1.0.0": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "e098b74a7a86284052e054724bc07d7126625fe7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/e098b74a7a86284052e054724bc07d7126625fe7",
+                    "reference": "e098b74a7a86284052e054724bc07d7126625fe7",
+                    "shasum": ""
+                },
+                "time": "2019-10-07T13:28:16+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.0.0"
+                }
+            },
+            "1.0.1": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/291076b70cd06b819ae62022c9445e0a6d7cfe11",
+                    "reference": "291076b70cd06b819ae62022c9445e0a6d7cfe11",
+                    "shasum": ""
+                },
+                "time": "2019-10-09T15:50:27+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.0.1"
+                }
+            },
+            "1.0.2": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/1d5743f56752751326ba25afd9e8517a59a4c0f6",
+                    "reference": "1d5743f56752751326ba25afd9e8517a59a4c0f6",
+                    "shasum": ""
+                },
+                "time": "2019-10-10T07:53:19+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.0.2"
+                }
+            },
+            "1.0.3": {
+                "name": "drunomics/content_snippet",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "c40f4716c905bda62966bf9bf232674b0011b300"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/c40f4716c905bda62966bf9bf232674b0011b300",
+                    "reference": "c40f4716c905bda62966bf9bf232674b0011b300",
+                    "shasum": ""
+                },
+                "time": "2019-10-10T14:47:50+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.0.3"
+                }
+            },
+            "1.1.0": {
+                "name": "drunomics/content_snippet",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "9cd37c40883a090aab8b6bd738a00d20dc34c771"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/9cd37c40883a090aab8b6bd738a00d20dc34c771",
+                    "reference": "9cd37c40883a090aab8b6bd738a00d20dc34c771",
+                    "shasum": ""
+                },
+                "time": "2021-07-29T11:51:57+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.1.0"
+                }
+            },
+            "1.2.0": {
+                "name": "drunomics/content_snippet",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "5cefcb89ec904df0ed4945400e7f8e5ffa2ba79c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/5cefcb89ec904df0ed4945400e7f8e5ffa2ba79c",
+                    "reference": "5cefcb89ec904df0ed4945400e7f8e5ffa2ba79c",
+                    "shasum": ""
+                },
+                "time": "2021-12-16T10:22:16+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.2.0"
+                }
+            },
+            "1.2.1": {
+                "name": "drunomics/content_snippet",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "434ad227050eeb312e7c5616d7f81634ad45980f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/434ad227050eeb312e7c5616d7f81634ad45980f",
+                    "reference": "434ad227050eeb312e7c5616d7f81634ad45980f",
+                    "shasum": ""
+                },
+                "time": "2022-02-23T13:20:28+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.2.1"
+                }
+            },
+            "1.x-dev": {
+                "name": "drunomics/content_snippet",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "64943c9ad13d9c464a02b8d0e648999617dd1cd4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/64943c9ad13d9c464a02b8d0e648999617dd1cd4",
+                    "reference": "64943c9ad13d9c464a02b8d0e648999617dd1cd4",
+                    "shasum": ""
+                },
+                "time": "2022-11-29T12:58:12+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.x"
+                }
+            },
+            "dev-feature/ODT-1708": {
+                "name": "drunomics/content_snippet",
+                "version": "dev-feature/ODT-1708",
+                "version_normalized": "dev-feature/ODT-1708",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "d2c69b7075c2b6d3eb71ab53d6ff13780e55d676"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/d2c69b7075c2b6d3eb71ab53d6ff13780e55d676",
+                    "reference": "d2c69b7075c2b6d3eb71ab53d6ff13780e55d676",
+                    "shasum": ""
+                },
+                "time": "2022-02-22T15:36:45+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/feature/ODT-1708"
+                }
+            }
+        },
+        "drupal/ckeditor_tableresize": {
+            "1.1.0": {
+                "name": "drupal/ckeditor_tableresize",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.drupalcode.org/project/ckeditor_tableresize.git",
+                    "reference": "8.x-1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://ftp.drupal.org/files/projects/ckeditor_tableresize-8.x-1.1.zip",
+                    "reference": "8.x-1.1",
+                    "shasum": "0a19ef44f26e2f9c8b6449332ab4cb48d6565c38"
+                },
+                "require": {
+                    "drupal/ckeditor": "*",
+                    "drupal/core": "^8 || ^9 || ^10"
+                },
+                "type": "drupal-module",
+                "extra": {
+                    "drupal": {
+                        "version": "8.x-1.1",
+                        "datestamp": "1633345194",
+                        "security-coverage": {
+                            "status": "covered",
+                            "message": "Covered by Drupal's security advisory policy"
+                        }
+                    }
+                }
+            }
+        },
+        "drupal/ckeditor_tableselection": {
+            "2.0.0-rc1": {
+                "name": "drupal/ckeditor_tableselection",
+                "version": "2.0.0-rc1",
+                "version_normalized": "2.0.0.0-RC1",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.drupalcode.org/project/ckeditor_tableselection.git",
+                    "reference": "2.0.0-rc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://ftp.drupal.org/files/projects/ckeditor_tableselection-2.0.0-rc1.zip",
+                    "reference": "2.0.0-rc1",
+                    "shasum": "2847b3a8dd72eb721645f05082d9e8dd4f2b64e6"
+                },
+                "require": {
+                    "drupal/ckeditor": "*",
+                    "drupal/core": "^8 || ^9 || ^10"
+                },
+                "type": "drupal-module",
+                "extra": {
+                    "drupal": {
+                        "version": "2.0.0-rc1",
+                        "datestamp": "1633345783",
+                        "security-coverage": {
+                            "status": "not-covered",
+                            "message": "RC releases are not covered by Drupal security advisories."
+                        }
+                    }
+                },
+                "notification-url": "https://packages.drupal.org/8/downloads"
+            }
+        },
+        "drupal/ckeditor_tabletoolstoolbar": {
+            "2.0.0-rc1": {
+                "name": "drupal/ckeditor_tabletoolstoolbar",
+                "version": "2.0.0-rc1",
+                "version_normalized": "2.0.0.0-RC1",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.drupalcode.org/project/ckeditor_tabletoolstoolbar.git",
+                    "reference": "2.0.0-rc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://ftp.drupal.org/files/projects/ckeditor_tabletoolstoolbar-2.0.0-rc1.zip",
+                    "reference": "2.0.0-rc1",
+                    "shasum": "df4cc0b5571c1d21694086708414f38b4054164d"
+                },
+                "require": {
+                    "drupal/ckeditor": "*",
+                    "drupal/core": "^8 || ^9 || ^10"
+                },
+                "type": "drupal-module",
+                "extra": {
+                    "drupal": {
+                        "version": "2.0.0-rc1",
+                        "datestamp": "1622112304",
+                        "security-coverage": {
+                            "status": "not-covered",
+                            "message": "RC releases are not covered by Drupal security advisories."
+                        }
+                    }
+                },
+                "notification-url": "https://packages.drupal.org/8/downloads"
+            }
+        },
+        "drupal/log_cache_tags": {
+            "1.0.0": {
+                "name": "drupal/log_cache_tags",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.drupalcode.org/project/log_cache_tags.git",
+                    "reference": "1.0.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://ftp.drupal.org/files/projects/log_cache_tags-1.0.0.zip",
+                    "reference": "1.0.0",
+                    "shasum": "79415de9d66e0c1e3d516e8b8535c7cce9ef8c4e"
+                },
+                "require": {
+                    "drupal/core": "^8 || ^9 || ^10"
+                },
+                "type": "drupal-module",
+                "extra": {
+                    "drupal": {
+                        "version": "1.0.0",
+                        "datestamp": "1601353905",
+                        "security-coverage": {
+                            "status": "not-covered",
+                            "message": "Project has not opted into security advisory coverage!"
+                        }
+                    }
+                },
+                "notification-url": "https://packages.drupal.org/8/downloads"
+            }
+        },
+        "drupal/yaml_editor": {
+            "1.1.0": {
+                "name": "drupal/yaml_editor",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.drupalcode.org/project/yaml_editor.git",
+                    "reference": "8.x-1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://ftp.drupal.org/files/projects/yaml_editor-8.x-1.1.zip",
+                    "reference": "8.x-1.1",
+                    "shasum": "eb01f577316529808e73360e17b1798c6d5b297d"
+                },
+                "require": {
+                    "drupal/core": "^8 || ^9 || ^10"
+                },
+                "type": "drupal-module",
+                "extra": {
+                    "drupal": {
+                        "version": "8.x-1.1",
+                        "datestamp": "1592902686",
+                        "security-coverage": {
+                            "status": "covered",
+                            "message": "Covered by Drupal's security advisory policy"
+                        }
+                    }
+                },
+                "notification-url": "https://packages.drupal.org/8/downloads"
+            }
+        }
+    }
+}

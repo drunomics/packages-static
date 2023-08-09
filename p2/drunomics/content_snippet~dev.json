@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "drunomics/content_snippet": [
+            {
+                "name": "drunomics/content_snippet",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "64943c9ad13d9c464a02b8d0e648999617dd1cd4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/64943c9ad13d9c464a02b8d0e648999617dd1cd4",
+                    "reference": "64943c9ad13d9c464a02b8d0e648999617dd1cd4",
+                    "shasum": ""
+                },
+                "time": "2022-11-29T12:58:12+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/1.x"
+                }
+            },
+            {
+                "name": "drunomics/content_snippet",
+                "version": "dev-feature/ODT-1708",
+                "version_normalized": "dev-feature/ODT-1708",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:drunomics/module-content-snippet.git",
+                    "reference": "d2c69b7075c2b6d3eb71ab53d6ff13780e55d676"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/drunomics/module-content-snippet/zipball/d2c69b7075c2b6d3eb71ab53d6ff13780e55d676",
+                    "reference": "d2c69b7075c2b6d3eb71ab53d6ff13780e55d676",
+                    "shasum": ""
+                },
+                "time": "2022-02-22T15:36:45+00:00",
+                "type": "drupal-module",
+                "authors": [
+                    {
+                        "name": "drunomics GmbH"
+                    }
+                ],
+                "description": "Adds cusotm bundleable entity for creatin snippets of content..",
+                "support": {
+                    "source": "https://github.com/drunomics/module-content-snippet/tree/feature/ODT-1708"
+                }
+            }
+        ]
+    }
+}

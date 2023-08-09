@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "ckeditor/tabletoolstoolbar": [
+            {
+                "name": "ckeditor/tabletoolstoolbar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/tabletoolstoolbar/releases/tabletoolstoolbar_0.0.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

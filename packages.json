@@ -1,8 +1,20 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ee383eddb4f977bac3c6d208a619793a0ac4e837.json": {
-            "sha1": "ee383eddb4f977bac3c6d208a619793a0ac4e837"
+        "include/all$f7be4b502419bc880fe6cd5bd2fa9bcb7eb61cd9.json": {
+            "sha1": "f7be4b502419bc880fe6cd5bd2fa9bcb7eb61cd9"
         }
-    }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "ckeditor/tableresize",
+        "ckeditor/tableselection",
+        "ckeditor/tabletoolstoolbar",
+        "drunomics/content_snippet",
+        "drupal/ckeditor_tableresize",
+        "drupal/ckeditor_tableselection",
+        "drupal/ckeditor_tabletoolstoolbar",
+        "drupal/log_cache_tags",
+        "drupal/yaml_editor"
+    ]
 }
