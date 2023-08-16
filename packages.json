@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f7be4b502419bc880fe6cd5bd2fa9bcb7eb61cd9.json": {
-            "sha1": "f7be4b502419bc880fe6cd5bd2fa9bcb7eb61cd9"
+        "include/all$e86f1032829a06ae4b475f15290978f0ecb492a6.json": {
+            "sha1": "e86f1032829a06ae4b475f15290978f0ecb492a6"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -14,7 +14,6 @@
         "drupal/ckeditor_tableresize",
         "drupal/ckeditor_tableselection",
         "drupal/ckeditor_tabletoolstoolbar",
-        "drupal/log_cache_tags",
-        "drupal/yaml_editor"
+        "drupal/log_cache_tags"
     ]
 }
